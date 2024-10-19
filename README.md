@@ -63,7 +63,6 @@ Bloxstrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the use
 
 
 [shield-repo-license]:  https://img.shields.io/github/license/wldkwl/ummm
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/wldkwl/ummm/ci-release.yml?branch=main&label=builds
 [shield-repo-releases]: https://img.shields.io/github/downloads/wldkwl/ummm/latest/total?color=981bfe
 [shield-repo-latest]:   https://img.shields.io/github/v/release/wldkwl/ummm?color=7a39fb
 
