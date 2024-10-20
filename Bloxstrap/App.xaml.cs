@@ -16,10 +16,10 @@ namespace Bloxstrap
 #if QA_BUILD
         public const string ProjectName = "Bloxstrap-QA";
 #else
-        public const string ProjectName = "Bloxstrap";
+        public const string ProjectName = "Multistrap";
 #endif
-        public const string ProjectOwner = "Bloxstrap";
-        public const string ProjectRepository = "bloxstraplabs/bloxstrap";
+        public const string ProjectOwner = "wldkwl";
+        public const string ProjectRepository = "ummm/wldkwl";
         public const string ProjectDownloadLink = "https://bloxstraplabs.com";
         public const string ProjectHelpLink = "https://github.com/bloxstraplabs/bloxstrap/wiki";
         public const string ProjectSupportLink = "https://github.com/bloxstraplabs/bloxstrap/issues/new";

@@ -44,5 +44,12 @@
             </controls:OptionControl.Style>
             <ui:ToggleSwitch IsChecked="{Binding ForceRobloxReinstallation, Mode=TwoWay}" />
         </controls:OptionControl>
+
+
+        <controls:OptionControl 
+            Header="{x:Static resources:Strings.Menu_Behaviour_MultiInstance_Title}"
+            Description="{x:Static resources:Strings.Menu_Behaviour_MultiInstance_Description}">
+            <ui:ToggleSwitch IsChecked="{Binding MultiInstance, Mode=TwoWay}" />
+        </controls:OptionControl>
     </StackPanel>
 </ui:UiPage>

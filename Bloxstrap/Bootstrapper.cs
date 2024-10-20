@@ -342,6 +342,39 @@ namespace Bloxstrap
                 WorkingDirectory = AppData.Directory
             };
 
+            var autoclosePids = new List<int>();
+
+            // launch custom integrations now
+            foreach (var integration in App.Settings.Prop.CustomIntegrations)
+            {
+                App.Logger.WriteLine(LOG_IDENT, $"Launching custom integration '{integration.Name}' ({integration.Location} {integration.LaunchArgs} - autoclose is {integration.AutoClose})");
+
+                int pid = 0;
+
+                try
+                {
+                    var process = Process.Start(new ProcessStartInfo
+                    {
+                        FileName = integration.Location,
+                        Arguments = integration.LaunchArgs.Replace("\r\n", " "),
+                        WorkingDirectory = Path.GetDirectoryName(integration.Location),
+                        UseShellExecute = true
+                    })!;
+
+                    pid = process.Id;
+                }
+                catch (Exception ex)
+                {
+                    App.Logger.WriteLine(LOG_IDENT, $"Failed to launch integration '{integration.Name}'!");
+                    App.Logger.WriteLine(LOG_IDENT, ex.Message);
+                }
+
+
+
+                if (integration.AutoClose && pid != 0)
+                    autoclosePids.Add(pid);
+            }
+
             if (_launchMode == LaunchMode.StudioAuth)
             {
                 Process.Start(startInfo);
@@ -413,37 +446,6 @@ namespace Bloxstrap
 
             if (IsStudioLaunch)
                 return;
-
-            var autoclosePids = new List<int>();
-
-            // launch custom integrations now
-            foreach (var integration in App.Settings.Prop.CustomIntegrations)
-            {
-                App.Logger.WriteLine(LOG_IDENT, $"Launching custom integration '{integration.Name}' ({integration.Location} {integration.LaunchArgs} - autoclose is {integration.AutoClose})");
-
-                int pid = 0;
-
-                try
-                {
-                    var process = Process.Start(new ProcessStartInfo
-                    {
-                        FileName = integration.Location,
-                        Arguments = integration.LaunchArgs.Replace("\r\n", " "),
-                        WorkingDirectory = Path.GetDirectoryName(integration.Location),
-                        UseShellExecute = true
-                    })!;
-
-                    pid = process.Id;
-                }
-                catch (Exception ex)
-                {
-                    App.Logger.WriteLine(LOG_IDENT, $"Failed to launch integration '{integration.Name}'!");
-                    App.Logger.WriteLine(LOG_IDENT, ex.Message);
-                }
-
-                if (integration.AutoClose && pid != 0)
-                    autoclosePids.Add(pid);
-            }
 
             if (App.Settings.Prop.EnableActivityTracking || App.LaunchSettings.TestModeFlag.Active || autoclosePids.Any())
             {

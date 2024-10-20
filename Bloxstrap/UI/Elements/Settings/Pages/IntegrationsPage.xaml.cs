@@ -21,5 +21,10 @@ namespace Bloxstrap.UI.Elements.Settings.Pages
             viewModel.SelectedCustomIntegration = (CustomIntegration)((ListBox)sender).SelectedItem;
             viewModel.OnPropertyChanged(nameof(viewModel.SelectedCustomIntegration));
         }
+
+        private void ActivityTrackingOption_Loaded(object sender, System.Windows.RoutedEventArgs e)
+        {
+
+        }
     }
 }
