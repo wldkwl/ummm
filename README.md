@@ -1,5 +1,6 @@
 > [!CAUTION]
-> This to be only used by RizzyGrinds and Aosiho
+> This is a fork of bloxstrap bringing back multi-instance.
+> Compiled version will not be provided.
 
 <p align="center">
     <img src="https://github.com/wldkwl/ummm/blob/main/Images/banner.png" width="420">
