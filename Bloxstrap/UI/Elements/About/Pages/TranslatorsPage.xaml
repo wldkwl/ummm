@@ -24,7 +24,7 @@
             </Grid.ColumnDefinitions>
 
             <StackPanel Grid.Column="0">
-                <!--<TextBlock Text="Bahasa Indonesia" FontSize="16" FontWeight="Medium">
+                <!--<TextBlock Text="Bahasa Indonesia" FontSize="16" FontWeight="Medium>
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -38,7 +38,7 @@
                 <TextBlock Text="SenZore" />
                 <TextBlock Text="soudblox" />-->
 
-                <!--<TextBlock Text="Bokmål" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="Bokmål" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -65,7 +65,7 @@
                 <TextBlock Text="Rummyffff" />
                 <TextBlock Text="Vinittyy" />
 
-                <!-- <TextBlock Text="Dansk" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!-- <TextBlock Text="Dansk" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                             <TextBlock.Foreground>
                                 <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                             </TextBlock.Foreground>
@@ -123,7 +123,7 @@
                 <TextBlock Text="Urzy" />
                 <TextBlock Text="ZakaHaceCosas" />
 
-                <!--<TextBlock Text="Filipino" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="Filipino" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -156,7 +156,7 @@
                 <TextBlock Text="Zeyroxrblx" />
 
 
-                <!--<TextBlock Text="Hindi (Latin)" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="Hindi (Latin)" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -225,7 +225,7 @@
                 <TextBlock Text="Elotomka" />
                 <TextBlock Text="xM4rk1" />
 
-                <!--<TextBlock Text="Nederlands" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="Nederlands" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                             <TextBlock.Foreground>
                                 <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                             </TextBlock.Foreground>
@@ -366,7 +366,7 @@
                 <TextBlock Text="Externalkinetics" />
                 <TextBlock Text="maksimvlad7" />
 
-                <!--<TextBlock Text="Bosanski" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="Bosanski" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -458,7 +458,7 @@
                 <TextBlock Text="xyplexy" />
                 <TextBlock Text="Zida" />
 
-                <!--<TextBlock Text="বাংলা" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="বাংলা" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -481,7 +481,7 @@
                 <TextBlock Text="Sem1z" />
                 <TextBlock Text="xAom" />
 
-                <!--<TextBlock Text="한국어" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="한국어" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
@@ -505,7 +505,7 @@
                 <TextBlock Text="Typel" />
                 <TextBlock Text="yuhaodatt" />
 
-                <!--<TextBlock Text="中文 (廣東話)" FontSize="16" FontWeight="Medium" Margin="0,16,0,0">
+                <!--<TextBlock Text="中文 (廣東話)" FontSize="16" FontWeight="Medium Margin="0,16,0,0">
                     <TextBlock.Foreground>
                         <SolidColorBrush Color="{DynamicResource SystemAccentColorSecondary}" />
                     </TextBlock.Foreground>
