@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap 未能自動更新到版本 {0}。請自行到官方網站下載最新版本並執行它來手動更新。</value>
+    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox 當前正在運行，開啟另一個窗口將會關掉它。您確定要繼續開啟嗎？</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>可能有東西正在阻止 Bloxstrap 去連接網路。</value>
+    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox 的伺服器可能已經炸了。請參考 {0} 來了解更多資訊。</value>
@@ -133,10 +133,10 @@
     <value>連接超時。這可能是因為較差的網路或被防火牆阻止連線。</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>您要先安裝Bloxstrap才能解除安裝。</value>
+    <value>You must first install Multistrap before uninstalling.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>你的電腦沒有足夠磁碟空間來安裝Bloxstrap和Roblox，請先釋放一些磁碟空間然後再試一遍。</value>
+    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>正在應用 Roblox 修改</value>
@@ -161,7 +161,7 @@
     <value>正在更新{product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>正在取得最新的Bloxstrap...</value>
+    <value>Getting the latest Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>正在等待其他Roblox程式...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap解除安裝成功</value>
+    <value>Multistrap has successfully uninstalled</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox正在運行中，刪除Bloxstrap之前需要關閉Roblox，你確定要現在關閉Roblox嗎？</value>
+    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>似乎您的系統缺少Windows媒體基礎元件，這很大機會是你的Windows作業系統是N版本，請先安裝它然後再開啟Roblox。</value>
@@ -282,22 +282,22 @@
     <value>連接錯誤</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap 未能連接至 {0}</value>
+    <value>Multistrap is unable to connect to {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>複製日誌内容</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>執行Bloxstrap時出現了錯誤</value>
+    <value>An exception occurred while running Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>請先瀏覽[Bloxstrap Wiki]({0}) 來看此問題是否已解決。
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-如果尚未被解決的話，那請透過[GitHub Issue]({1}) 中回報此問題，並附上所創建的日誌文件副本。</value>
+If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Bloxstrap異常</value>
+    <value>Multistrap Exception</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>自定義</value>
@@ -312,10 +312,10 @@
     <value>僞Byfron（2023）</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap（經典）</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap（透明）</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>經典（2008 - 2011）</value>
@@ -393,10 +393,11 @@
     <value>明亮</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap 已經更新至 v{0}</value>
+    <value>Multistrap has been upgraded to v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>你目前運行的Bloxstrap版本和你目前已安裝的版本不同。請問你要升級目前已安裝的版本嗎？</value>
+    <value>The version of Multistrap you've launched is different to the version you currently have installed.
+Would you like to upgrade your currently installed version?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>貢獻者</value>
@@ -405,7 +406,7 @@
     <value>代碼</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>以下是對Bloxstrap有顯著貢獻的人，幫助它成為現在的樣子。</value>
+    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>功能建議</value>
@@ -451,7 +452,7 @@
     <value>在關閉所有目前開啟的Roblox用戶端之前，並非所有變更都會立即生效。</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap已經在執行中</value>
+    <value>Multistrap is already running</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>你可以讓它看起來與眾不同，如經典，亦或者就像Roblox。</value>
@@ -478,7 +479,7 @@
     <value>標題</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>設定Bloxstrap的主題。</value>
+    <value>Configure how Multistrap should look.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>全局主題</value>
@@ -502,10 +503,10 @@
     <value>外觀</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap在啟動Roblox時會自動進行檢查目前版本並且更新（如果有的話）。</value>
+    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>自動更新Bloxstrap</value>
+    <value>Automatically update Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>防止因意外啟動另一個Roblox程式而導致當前運行的程式被關閉。</value>
@@ -514,13 +515,19 @@
     <value>在啟動另一個Roblox程式時顯示的確認訊息</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>設定 Bloxstrap 在啟動 Roblox 時應執行的操作。</value>
+    <value>Configure what Multistrap should do when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox會在下次啟動時進行重新安裝。</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>強制重新安裝Roblox</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>啟動器</value>
@@ -631,7 +638,7 @@
     <value>幀數（FPS）上限</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>用快捷鍵({0})開啟，此設定需加入[Bloxstrap group]({1})。</value>
+    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>啟用隱藏介面功能</value>
@@ -655,23 +662,23 @@
     <value>圖標文件</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Bloxstrap無法在此處資料夾安裝，請選擇在其他位置安裝，或點擊“重設”按鈕來使用其預設安裝路徑。</value>
+    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>您所選擇用來安裝Bloxstrap的資料夾已經存在而且還有其他檔案。強烈建議將Bloxstrap安裝到自己的獨立資料夾中。
+    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
 
-建議更改為以下路徑：
+Changing to the following location is suggested:
 {0}
 
-請問您是否更改為建議路徑？
-選擇「不」會無視此警告並繼續安裝。</value>
+Would you like to change to the suggested location?
+Selecting 'No' will ignore this warning and continue installation.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>你必須設置一個安裝路徑</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Bloxstrap對您選擇的安裝路徑沒有寫入權限，請選擇其他路徑。</value>
+    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>活動追蹤</value>
@@ -722,7 +729,7 @@
     <value>不要在離開遊戲後返回主介面</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>允許Bloxstrap偵測您正在游玩Roblox的游戲，某些功能需要此選項被啟用。</value>
+    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>開啟活動追蹤</value>
@@ -819,7 +826,7 @@
     <value>設定已保存！</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Bloxstrap 設定</value>
+    <value>Multistrap Settings</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>選擇啟動器語言</value>
@@ -849,7 +856,7 @@
     <value>使用者介面與布局</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>允許Bloxstrap管理Fast Flags</value>
+    <value>Allow Multistrap to manage Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>禁用此功能將阻止任何在此設定的內容應用到Roblox。</value>
@@ -894,7 +901,7 @@
     <value>關閉地形材質</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap無法下載Roblox</value>
+    <value>Multistrap is unable to download Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>目前無法下載Roblox。請閱讀此說明頁面以獲取更多資訊：{0}</value>
@@ -914,7 +921,7 @@
     <value>'{0}'的條目無效；內容必須是數字</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>這次啟動的日誌文件沒有被寫入因為Bloxstrap未能寫入至在'{0}'的文件夾</value>
+    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>預設</value>
@@ -929,7 +936,7 @@
     <value>'{0}' 的條件無效，因為位置過濾器的條件格式不正確。</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Bloxstrap 安裝程式</value>
+    <value>Multistrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>歡迎</value>
@@ -948,18 +955,18 @@
     <value>下一個</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>感謝您下載 Bloxstrap。 
+    <value>Thank you for downloading Multistrap. 
 
- {0} 或 {1} 都是 Bloxstrap 的官方網站。請確保您的 Bloxstrap 都是從官方來源下載來的。
+The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
 
-安裝過程快速簡單，安裝後您將能夠配置 Bloxstrap 的任何設定。</value>
+This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>請點擊 “下一步” 以繼續。</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>您正在嘗試安裝 Bloxstrap 的 {0} 版本，但是最新版本是 {1} 。您想下載嗎？</value>
+    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>選擇安裝位置</value>
@@ -980,16 +987,16 @@
     <value>開始功能表圖示</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap 已成功安裝。
+    <value>Multistrap has successfully been installed.
 
-Roblox 尚未安裝，這將在您第一次使用 Bloxstrap 啟動時進行。在此之前，您可能想先配置 Bloxstrap 的設定。
+Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
 
-另外，請避免使用「Roblox Player」快捷方式來啟動 Roblox，因為 Bloxstrap 不會與 Roblox 一起啟動。如果您在從網站啟動時看不到 Bloxstrap 隨同 Roblox 一起啟動，請從桌面上使用 Bloxstrap 啟動 Roblox 以解決此問題。
+Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
 
-請問您想做什麼？</value>
+What would you like to do?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>更改 Bloxstrap 的設定</value>
+    <value>Configure Multistrap's settings</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>調整它所提供的所有功能</value>
@@ -1001,22 +1008,22 @@ Roblox 尚未安裝，這將在您第一次使用 Bloxstrap 啟動時進行。�
     <value>一切完成後將帶您進入桌面應用程式</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>解除安裝 Bloxstrap</value>
+    <value>Uninstall Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>解除安裝將從您的系統中刪除 Bloxstrap，並重新配置默認的 Roblox 啟動器。
+    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
 
-如果您是因為 Roblox 出現問題，想要解除安裝，請先閱讀 [此幫助頁面]({0})。
+If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
 
-解除安裝的過程可能無法刪除全部文件。 所以你可能需要手動清理 Bloxstrap 的殘留文件。
+The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
 
-Bloxstrap 安裝在 "{1}"。</value>
+Multistrap was installed at "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>保留我的設定和模組</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>它們將保存在 Bloxstrap 安裝的位置，並且會在重新安裝時自動恢復</value>
+    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>解除安裝</value>
@@ -1037,19 +1044,19 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>您目前未安裝 WebView2 執行階段。某些 Roblox 功能（例如桌面應用程式）在沒有它的情況下將無法正常運行。您想現在下載 WebView2 嗎？</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap 無法為桌面和開始功能表創建捷徑。請稍後通過設置創建捷徑。</value>
+    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>請您首先在 [Bloxstrap Wiki]({0}) 查看這個問題是否已被修復。
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-如果沒有，請向此分支的維護者報告此異常。請勿在 Bloxstrap 的 GitHub 上開 Issues，因為這是一個非官方的版本。</value>
+If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>這些是調出多選啟動菜單的一般快捷鍵。特定功能的快捷鍵可以在設定中稍後創建。</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>設定 Bloxstrap 的快速啟動方式。</value>
+    <value>Configure how Multistrap can be readily launched.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>一般設定</value>
@@ -1079,7 +1086,7 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>請等待解除安裝完成。</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>關於 Bloxstrap</value>
+    <value>About Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>授權條款</value>
@@ -1092,9 +1099,9 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>您有未儲存的變更。確定要在不儲存的情況下關閉嗎？</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>您啟動的 Bloxstrap 版本比當前已安裝的版本舊。
-可能會發生問題，並且您的設定可能會被更改，請建議重新安裝。
-您確定要繼續嗎？</value>
+    <value>The version of Multistrap you've launched is older than the version you currently have installed.
+Issues may occur and your settings may be altered. A reinstall is recommended.
+Are you sure you want to continue?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Roblox 啟動失敗。</value>
@@ -1115,7 +1122,7 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>贊助者</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>這是目前通過 [Ko-fi]({0}) 支持 Bloxstrap 的人。非常感激不盡！</value>
+    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>無法載入您的設置 。它們已被重設為默認設置。</value>
@@ -1145,12 +1152,12 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>此次啟動將不會檢查 Roblox 更新，對模組的更改將不會被套用。</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>因為 Roblox 需要安裝或更新，Bloxstrap 無法繼續執行。</value>
+    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap 之前已安裝到此位置並且仍然存在，但安裝程式無法覆蓋舊的可執行文件。
+    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
 
-請手動刪除安裝位置中的 Bloxstrap.exe，或者嘗試重啟系統，然後再嘗試重新安裝。</value>
+Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>無法使用</value>
@@ -1162,7 +1169,7 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>配置應用程式參數，例如 DPI 縮放行為和 [全螢幕最佳化]({0})。</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox 尚未安裝。請至少使用 Bloxstrap 啟動一次 Roblox，然後再嘗試使用此選項。</value>
+    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>您確定要取消安裝嗎？</value>
@@ -1180,10 +1187,10 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>提取 Roblox 圖示到資料夾</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Allows you to use Bloxstrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
+    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap 無法寫入進 Windows 登錄檔。可能是防毒軟體干擾並導致問題。請檢查是否有任何會限制 Bloxstrap 操作的應用程式。</value>
+    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>每月</value>
@@ -1192,7 +1199,7 @@ Bloxstrap 安裝在 "{1}"。</value>
     <value>一次性</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>調整 Bloxstrap 自身行為相關的選項。</value>
+    <value>Configure options related to Multistrap's behaviour itself.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>允許 Bloxstrap 對數據進行分析</value>
@@ -1221,7 +1228,7 @@ Bloxstrap 安裝在 "{1}"。</value>
 您想要啟用測試模式嗎？</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Bloxstrap 的所有翻譯都是通過 [Crowdin]({0}) 群眾外包而來。這裡列出的每一個人都是慷慨地志願貢獻時間和精力來幫助本地化 Bloxstrap 的人。對這裡的每一位，我們深表感謝！</value>
+    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>安裝</value>
