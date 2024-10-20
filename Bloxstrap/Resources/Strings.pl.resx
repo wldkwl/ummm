@@ -523,6 +523,12 @@ Czy chcesz zaktualizować aktualnie zainstalowaną wersję?</value>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Zmuś Roblox do re-instalacji</value>
   </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
+  </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>Launcher</value>
   </data>
@@ -1234,5 +1240,8 @@ Czy chcesz włączyć tryb testowania?</value>
   <data name="Paths.Icons" xml:space="preserve">
     <value>Ikony</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
+  </data>
+  <data name="Dialog.Exception.Version" xml:space="preserve">
+    <value>Version {0}</value>
   </data>
 </root>

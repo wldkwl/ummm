@@ -523,6 +523,12 @@ Haluatko päivittää tällä hetkellä asennetun version?</value>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Pakota Robloxin uudelleenasennus</value>
   </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
+  </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>Käynnistysohjelma</value>
   </data>
@@ -1235,5 +1241,8 @@ Haluaisitko ottaa testaustilan käyttöön?</value>
   <data name="Paths.Icons" xml:space="preserve">
     <value>Kuvakkeet</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
+  </data>
+  <data name="Dialog.Exception.Version" xml:space="preserve">
+    <value>Version {0}</value>
   </data>
 </root>
