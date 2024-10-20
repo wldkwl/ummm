@@ -1,0 +1,32 @@
+files:
+  - source: /Bloxstrap/Resources/Strings.resx
+    translation: /Bloxstrap/Resources/Strings.%locale%.resx
+    languages_mapping:
+      locale:
+        ar: ar
+        bg: bg
+        cs: cs
+        de: de
+        en-US: en-US
+        es-ES: es-ES
+        fi: fi
+        fr: fr
+        he: he
+        hr: hr
+        hu: hu
+        it: it
+        ja: ja
+        lv: lv
+        lt: lt
+        ms: ms
+        pl: pl
+        pt-BR: pt-BR
+        ro: ro
+        ru: ru
+        sv-SE: sv-SE
+        th: th
+        tr: tr
+        uk: uk
+        vi: vi
+        zh-CN: zh-CN
+        zh-TW: zh-TW
