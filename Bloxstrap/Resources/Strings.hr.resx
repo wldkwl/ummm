@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap se nije uspio automatski ažurirati na verziju {0}. Molimo ažurirajte ju ručno tako da je preuzmete i pokrenete sa web-stranice.</value>
+    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox je trenutno pokrenut, pokretanjem novog primera će ga ugasiti. Da li si siguran da želiš da nastaviš sa pokretanjem?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Nešto vjerojatno prekida Bloxstrap od spajanja na internet.</value>
+    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox trenutno možda ne radi. Pogledajte {0} za više informacija.</value>
@@ -133,10 +133,10 @@
     <value>Veza je istekla, što može naznačiti lošu internetsku vezu ili blokadu vatrozida.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Vi morate prvo instalirati Bloxstrap pre deinstaliranja.</value>
+    <value>You must first install Multistrap before uninstalling.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Bloxstrap nema dovoljno prostora na disku kako bi preuzeo i instalirao Roblox. Molimo, oslobodite nešto prostora pa zatim pokušajte ponovno.</value>
+    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Primjenjivanje modifikacija Robloxa...</value>
@@ -161,7 +161,7 @@
     <value>Nadogradnja {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Dobivanje najnovije verzije Bloxstrapa...</value>
+    <value>Getting the latest Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>Čekanje ostalih slučajeva...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap je uspješno deinstaliran</value>
+    <value>Multistrap has successfully uninstalled</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox je trenutno pokrenut, ali mora biti zatvoren pre deinstaliranja Bloxstrapa. Želite li sada da zatvorite Roblox?</value>
+    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>Roblox zahteva upotrebu Windows Media Foundation komponenta. Izgleda da vam nedostaju, verovatno zato što koristite N ediciju Windows-a. Molimo, prvo ih instalirajte, a zatim pokrenite Roblox.</value>
@@ -282,22 +282,22 @@ Kliknite za više informacija</value>
     <value>Greška sa povezivanjem</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap se ne može povezati na {0}</value>
+    <value>Multistrap is unable to connect to {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>Kopiranje aktivnosti</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>Došlo je do izuzetka tokom pokretanja Bloxstrap-a</value>
+    <value>An exception occurred while running Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Prvo provjerite [Bloxstrap Wiki]({0}) kako biste vidjeli je li ovaj problem već riješen.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopijom log datoteke koja je bila stvorena.</value>
+If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Bloxstrap Izuzetak</value>
+    <value>Multistrap Exception</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Prilagođeno</value>
@@ -312,10 +312,10 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Lažni Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Klasično)</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Stakleno)</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Nasledje (2008-2011)</value>
@@ -393,10 +393,11 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Svjetlo</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap je nadograđen na v{0}</value>
+    <value>Multistrap has been upgraded to v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>Verzija Bloxstrapa koju ste pokrenuli je drukčija od verzije koju imate instaliranu. Želite li nadograditi svoju trenutno instaliranu verziju?</value>
+    <value>The version of Multistrap you've launched is different to the version you currently have installed.
+Would you like to upgrade your currently installed version?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>Suradnici</value>
@@ -405,7 +406,7 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Kod</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Ovo su ljudi koji su dali značajan doprinos Bloxstrapu, Pomagajući da se učiniti onakvim kakav jest.</value>
+    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Značajne Ideje</value>
@@ -451,7 +452,7 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Imajte na umu da se neće sve vaše promjene primjeniti sve dok ne zatvorite sve trenutno otvorene Roblox Slučajeve.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap je već pokrenut</value>
+    <value>Multistrap is already running</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Možete ga učiniti da izgleda drugačije, retro, ili čak samo kao Roblox.</value>
@@ -478,7 +479,7 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Naslov</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Konfigurirajte kako da Bloxstrap izgleda.</value>
+    <value>Configure how Multistrap should look.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>Globalna tema</value>
@@ -502,10 +503,10 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Izgled</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap će se automatski provjeriti i ažurirati kada se Roblox pokrene.</value>
+    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automatsko Ažuriranje Bloxstrap-a</value>
+    <value>Automatically update Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Spriječite zatvaranja svoje postojeće igre od slučajno pokretanja druge.</value>
@@ -514,13 +515,19 @@ Ako nije, molimo prijavite ovu iznimku preko [GitHub issue]({1}) zajedno sa kopi
     <value>Upit za potvrdu otvaranja novog Roblox primera</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Konfigurirajte što da Bloxstrap napravi kada pokreće Roblox.</value>
+    <value>Configure what Multistrap should do when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox će se reinstalirati nakon sljedećeg pokretanja.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Prisilna reinstalacija Roblox-a</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>Pokretač</value>
@@ -632,7 +639,7 @@ NE koristite ovo da biste uvozili velike 'liste zastavica' koje su napravili dru
     <value>Framerate granica</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Prebacuje se sa [keyboard shortcuts]({0}). Radi samo ako ste u [Bloxstrap group]({1}).</value>
+    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Uključi mogućnost za skrivanje GUIa</value>
@@ -656,21 +663,23 @@ NE koristite ovo da biste uvozili velike 'liste zastavica' koje su napravili dru
     <value>Datoteke ikona</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Bloxstrap ne može biti instaliran ovdje. Molimo, odaberite drugu lokaciju, ili koristite zadanu lokaciju tako da kliknete gumb za resetiranje.</value>
+    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>Mapa koju ste odabrali za instalaciju Bloxstrapa već postoji i NIJE prazna. Toplo se preporučuje da se Bloxstrap instalira u nezavisnoj mapi.
+    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
 
-Promjena na iduću lokaciju je preporučena: {0}
+Changing to the following location is suggested:
+{0}
 
-Želite li promjeniti na preporučenu lokaciju? Odabirom "Ne" ćete ignorirati ovo upozorenje i nastaviti instalaciju.</value>
+Would you like to change to the suggested location?
+Selecting 'No' will ignore this warning and continue installation.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>Morate postaviti lokaciju instalacije</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Bloxstrap nema write pristup lokaciji koju ste odabrali. Molimo odaberite drugu lokaciju.</value>
+    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Praćenje aktivnosti</value>
@@ -721,7 +730,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Ne izlazite iz Desktop aplikacije</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Dopušta Bloxstrapu da detektira koju Roblox igru igrate. Neki dodatci možda zahtjevaju ovo.</value>
+    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Odobrite praćenje aktivnosti</value>
@@ -818,7 +827,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Podešavanja Sačuvana!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Bloxstrap postavke</value>
+    <value>Multistrap Settings</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>Odaberi preferirani jezik</value>
@@ -848,7 +857,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Korisničko sučelje i Raspored</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Dozvoli Bloxstrap-u da upravlja s Fast Flags</value>
+    <value>Allow Multistrap to manage Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Onemogućavanje će spriječiti da se bilo što ovdje konfigurirano primjeni na Roblox.</value>
@@ -893,7 +902,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Onemogući teksture terena</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap ne može preuzeti Roblox</value>
+    <value>Multistrap is unable to download Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Roblox se trenutno ne može preuzeti. Molimo pročitajte sljedeću stranicu za pomoć za više informacija: {0}</value>
@@ -913,7 +922,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Unos za '{0}' ne važi jer vrijednost mora biti broj</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Log datoteka neće biti napisana za ovaj pokret jer Bloxstrap ne može pisati u folderu na '{0}'</value>
+    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Zadano</value>
@@ -928,7 +937,7 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Unos za '{0}' nije valjan jer filter mjesta nije formatiran pravilno.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Instalator Bloxstrapa</value>
+    <value>Multistrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Dobrodošli</value>
@@ -947,18 +956,18 @@ Promjena na iduću lokaciju je preporučena: {0}
     <value>Dalje</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Hvala što ste preuzeli Bloxstrap.
+    <value>Thank you for downloading Multistrap. 
 
-Jedine službene web-stranice za preuzimanje Bloxstrapa su {0} i {1}, molimo Vas da provjerite jeste li ga preuzeli sa službenog izvora.
+The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
 
-Proces instalacije će biti brz i jednostavan, i moći ćete konfigurirati bilo koje Bloxstrap postavke nakon instalacije.</value>
+This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>Molimo kliknite 'Dalje' da biste nastavili.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>Pokušavate instalirati verziju {0} Bloxstrapa, ali najnovija dostupna verzija je {1}. Želite li ju preuzeti?</value>
+    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>Odaberite gdje želite instalirati</value>
@@ -979,16 +988,16 @@ Proces instalacije će biti brz i jednostavan, i moći ćete konfigurirati bilo 
     <value>Start Meni ikona</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap se je uspješno instalirao.
+    <value>Multistrap has successfully been installed.
 
-Roblox još nije bio instaliran, to će se dogoditi kada ga pokrenete s Bloxstrapom prvi put. Ali, prije nego li to napravite, možda biste htjeli prvo konfigurirati Bloxstrap postavke.
+Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
 
-Isto tako, izbjegnite koristiti "Roblox Player" prečac za pokretanje Roblox-a, jer se Bloxstrap neće pokrenuti s Roblox-om. Ako ne vidite Bloxstrap kako se pojavljuje kada pokrećete s web-stranice, samo pokrenite Roblox sa Bloxstrapom jedan put s desktopa da biste to popravili.
+Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
 
-Što biste htjeli napraviti?</value>
+What would you like to do?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Konfigurirajte Bloxstrap postavke</value>
+    <value>Configure Multistrap's settings</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>Igrajte se sa svim značajkama koje Vam nudi</value>
@@ -1000,22 +1009,22 @@ Isto tako, izbjegnite koristiti "Roblox Player" prečac za pokretanje Roblox-a, 
     <value>Prebacit će Vas u desktop aplikaciju kad je sve gotovo</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Deinstaliraj Bloxstrap</value>
+    <value>Uninstall Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Deinstaliranje će maknuti Bloxstrap s Vašeg sustava, i automatski rekonfigurirati zadani Roblox pokretač ako je još dalje instaliran.
+    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
 
-Ako deinstalirate ili reinstalirate zato što imate poteškoće s Roblox-om, prvo pročitajte [ovu stranicu za pomoć]({0}).
+If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
 
-Proces deinstalacije se možda neće moći počistiti do kraja sam sa sobom, pa ćete možda trebati ručno počistiti bilo koje preostale datoteke gdje je Bloxstrap bio instaliran.
+The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
 
-Bloxstrap je bio instaliran na "{1}".</value>
+Multistrap was installed at "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Zadrži moje postavke i modifikacije</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Biti će zadržani na mjestu gdje je Bloxstrap bio instaliran, i bit će automatski vraćeni na reinstalaciji.</value>
+    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Deinstaliraj</value>
@@ -1036,19 +1045,19 @@ Bloxstrap je bio instaliran na "{1}".</value>
     <value>Trenutno nemate WebView2 runtime instaliran. Neke Roblox-ove značajke neće raditi ispravno bez toga, poput desktop aplikacije. Želite li to sada preuzeti?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap nije mogao kreirati prečace za Desktop i Start Meni. Pokušajte ih kreirati kasnije preko postavki.</value>
+    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Prvo pogledajte [Bloxstrap Wiki]({0}) kako biste vidjeli je li ovaj problem već bio adresiran s popravkom.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Ako nije, onda molimo prijavite ovu iznimku održavateljima ovog fork-a. NEMOJTE ovo prijaviti na Bloxstrapove GitHub probleme, jer ovo nije službena inačica.</value>
+If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>Ovo su opći prečaci koji pokažu izbornik za pokretanje s više izbora. Prečaci za specifične funkcije mogu biti kreirane kasnije u postavkama.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Konfigurirajte kako Bloxstrap može biti spremno pokrenut.</value>
+    <value>Configure how Multistrap can be readily launched.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Općenito</value>
@@ -1078,7 +1087,7 @@ Ako nije, onda molimo prijavite ovu iznimku održavateljima ovog fork-a. NEMOJTE
     <value>Molimo pričekajte da deinstalacija dovrši.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>O Bloxstrapu</value>
+    <value>About Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>Licence</value>
@@ -1091,9 +1100,9 @@ Ako nije, onda molimo prijavite ovu iznimku održavateljima ovog fork-a. NEMOJTE
     <value>Imate promjene koje niste spremili. Jeste li sigurni da želite zatvoriti bez spremanja?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>Verzija Bloxstrapa koju ste pokrenuli je starija od verzije koju trenutno imate instaliranu.
-Problemi se mogu pojaviti i postavke će se možda promijeniti. Reinstalacija je preporučena.
-Jeste li sigurni da želite nastaviti?</value>
+    <value>The version of Multistrap you've launched is older than the version you currently have installed.
+Issues may occur and your settings may be altered. A reinstall is recommended.
+Are you sure you want to continue?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Roblox se nije uspio pokrenuti.</value>
@@ -1114,7 +1123,7 @@ Jeste li sigurni da želite nastaviti?</value>
     <value>Podržavatelji</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Ovo su ljudi koji trenutno podržavaju Bloxstrap preko [Ko-fi]({0}). Veliko hvala svima ovdje!</value>
+    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Vaše postavke se nisu mogle učitati. Resetirale su se na zadanu konfiguraciju.</value>
@@ -1144,12 +1153,12 @@ Jeste li sigurni da želite nastaviti?</value>
     <value>Za ovaj pokret, Roblox se neće provjeriti za nadogradnje i promjene modifikacijama se neće primijeniti.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Bloxstrap ne može nastaviti zato što Roblox treba biti instaliran ili nadograđen.</value>
+    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap se je prije instalirao na ovu lokaciju i još dalje je prisutan, ali instalator ne može prebrisati staru izvršnu datoteku.
+    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
 
-Molimo ručno izbrišite Bloxstrap.exe iz lokacije instalacije ili pokušajte ponovno pokrenuti Vaš sustav, i onda ponovno probajte instalirati nakon.</value>
+Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>Nije dostupno</value>
@@ -1161,7 +1170,7 @@ Molimo ručno izbrišite Bloxstrap.exe iz lokacije instalacije ili pokušajte po
     <value>Konfigurirajte parametre aplikacije kao što je ponašanje DPI skaliranja i [optimizacije cijelog zaslona]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox još nije bio instaliran. Molimo pokrenite Roblox koristeći Bloxstrap barem jednom prije pokušavanja korištenja ove opcije.</value>
+    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Jeste li sigurni da želite prekinuti instalaciju?</value>
@@ -1179,10 +1188,10 @@ Molimo ručno izbrišite Bloxstrap.exe iz lokacije instalacije ili pokušajte po
     <value>Izdvojite Roblox ikone u mapu</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Dopušta Vam da koristite Bloxstrapov raspon Roblox ikona za Vaše prečace. [Pogledajte kako.]({0})</value>
+    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap ne može pisati u Windows Registar. Antivirus se vjerojatno miješa i proizvodi poteškoće. Molimo provjerite postoji li išta što bi moglo ograničiti Bloxstrapove operacije.</value>
+    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Mjesečno</value>
@@ -1191,7 +1200,7 @@ Molimo ručno izbrišite Bloxstrap.exe iz lokacije instalacije ili pokušajte po
     <value>Jednokratno</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Konfigurirajte postavke vezane za samo Bloxstrapovo ponašanje.</value>
+    <value>Configure options related to Multistrap's behaviour itself.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>Uključi slanje analitike</value>
@@ -1220,7 +1229,7 @@ Kada uključen, automatski će pokrenuti Roblox nakon zatvaranja postavki, i pon
 Želite li uključiti testni mod?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Svi Bloxstrapovi prijevodi su crowdsourcani preko [Crowdin-a]({0}). Svi navedeni ovdje su ljudi koji su velikodušno volontirali svoje vrijeme i trud kako bi pomogli lokalizirati Bloxstrap. Veliko hvala svima ovdje!</value>
+    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>Instaliraj</value>
