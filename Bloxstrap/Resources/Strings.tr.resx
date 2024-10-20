@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
+    <value>Multistrap {0} sürümüne otomatik olarak güncellenemedi. Lütfen Multistrap'ı web sitesinden indirip çalıştırarak manuel olarak güncelleyin.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox şu anda çalışıyor ve başka bir istemcinin başlatılması onu kapatacaktır. Başlatmak istediğinizden emin misiniz?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
+    <value>Muhtemelen bir şey Multistrap'ın internet'e bağlanmasına engel oluyor.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox'un sunucuları şu an çökmüş olabilir. Daha fazla bilgi için {0} göz atın.</value>
@@ -133,10 +133,10 @@
     <value>Bağlantı zaman aşımına uğradı, bu da zayıf bir internet bağlantısının veya bir güvenlik duvarı engelinin işareti olabilir.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>You must first install Multistrap before uninstalling.</value>
+    <value>Multistrap'i silmek için ilk önce kurmalısınız.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
+    <value>Multistrap, Roblox'u indirmek ve kurmak için yeterli disk alanına sahip değil. Lütfen biraz disk alanı boşaltın ve tekrar deneyin.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Roblox modifikasyonları uygulanıyor...</value>
@@ -161,7 +161,7 @@
     <value>{product} güncelleniyor...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Getting the latest Multistrap...</value>
+    <value>Multistrap'in en yeni sürümü indiriliyor...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>Diğer istemciler için bekleniliyor...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Multistrap has successfully uninstalled</value>
+    <value>Multistrap başarıyla kaldırıldı</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
+    <value>Roblox şu anda çalışıyor, ancak Multistrap'i kaldırılması için Robloxun kapatılması gerekiyor. Şimdi kapatmak ister misiniz?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>Büyük ihtimalle Windows'un N sürümünü kullandığınız için Windows Media Foundation bileşenleri eksik olabilir ve bu yüzden Roblox'u açamıyor olabilirsiniz. Lütfen bu bileşenleri kurun ve ardından Roblox'u tekrar başlatın.</value>
@@ -282,22 +282,22 @@ Daha fazla bilgi için tıklayınız</value>
     <value>Bağlantı hatası</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Multistrap is unable to connect to {0}</value>
+    <value>Multistrap {0} ile bağlantı kuramıyor</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>Kayıt içeriğini kopyala</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>An exception occurred while running Multistrap</value>
+    <value>Multistrap çalıştırılırken bir istisna oluştu</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+    <value>Bu sorunun halihazırda bir düzeltmeyle giderilip giderilmediğini görmek için önce [Multistrap Wiki]({0})'yi kontrol ediniz.
 
-If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
+Değilse, lütfen bu sorunu oluşturulan kayıt dosyasının bir kopyasıyla birlikte [GitHub sorunu]({1}) aracılığıyla bildirin.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Multistrap Exception</value>
+    <value>Multistrap Istisnası</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Özel</value>
@@ -312,10 +312,10 @@ If not, then please report this exception through a [GitHub issue]({1}) along wi
     <value>Sahte Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Multistrap (Classic)</value>
+    <value>Multistrap (Klasik)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Multistrap (Glass)</value>
+    <value>Multistrap (Cam)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Eski (2008-2011)</value>
@@ -393,11 +393,10 @@ If not, then please report this exception through a [GitHub issue]({1}) along wi
     <value>Aydınlık</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Multistrap has been upgraded to v{0}</value>
+    <value>Multistrap v{0} sürümüne güncellendi</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>The version of Multistrap you've launched is different to the version you currently have installed.
-Would you like to upgrade your currently installed version?</value>
+    <value>Başlattığınız Multistrap sürümü, şuan ki güncel sürümden farklı. Yeni sürüme güncellemek ister misiniz?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>Katkıda Bulunanlar</value>
@@ -406,7 +405,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Kod</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
+    <value>Bu insanlar Multistrap'e kayda değer katkılarda bulunmuş ve onun bu hale gelmesine yardımcı olmuş kişilerdir.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Özellik Fikirleri</value>
@@ -452,7 +451,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Şu anda açık olan tüm Roblox istemcilerini kapatana kadar tüm değişikliklerinizin hemen uygulanmayacağını lütfen unutmayın.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Multistrap is already running</value>
+    <value>Multistrap zaten çalışıyor</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Farklı, retro veya hatta sadece Roblox gibi görünmesini sağlayabilirsiniz.</value>
@@ -479,7 +478,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Başlık</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Configure how Multistrap should look.</value>
+    <value>Multistrap'in nasıl görünmesi gerektiğini yapılandırın.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>Global Tema</value>
@@ -503,10 +502,10 @@ Would you like to upgrade your currently installed version?</value>
     <value>Görünüş</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
+    <value>Multistrap, Roblox'u başlattığınızda kendini otomatik olarak kontrol edecek ve güncelleyecektir.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automatically update Multistrap</value>
+    <value>Multistrap'i otomatik olarak güncelle</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Mevcut oyununuzun kapanmasını önlemek için başka bir oyunun yanlışlıkla başlatılmasını engelleyin.</value>
@@ -515,7 +514,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Başka bir Roblox istemcisi başlatılırken onay iste</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Configure what Multistrap should do when launching Roblox.</value>
+    <value>Multistrap'ın Roblox'u başlatınca yapması gerektiğini yapılandırın.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox, sonraki başlangıçta yeniden kurulacak.</value>
@@ -638,7 +637,7 @@ Bunu, diğer insanlar tarafından yapılan ve performansı artırmayı vaat eden
     <value>Kare hızı limiti (FPS)</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
+    <value>[Klavye kısayolları]({0}) ile değiştirilir. Yalnızca [Multistrap grubu]({1}) içindeyseniz çalışır.</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>GUI'leri gizleme özelliğini etkinleştir</value>
@@ -662,23 +661,23 @@ Bunu, diğer insanlar tarafından yapılan ve performansı artırmayı vaat eden
     <value>İkon Dosyaları</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
+    <value>Multistrap buraya kurulamaz. Lütfen farklı bir konum seçin veya sıfırla düğmesine tıklayarak varsayılan konumu kullanmaya devam edin.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
+    <value>Multistrap'i kurmak için seçtiğiniz klasör zaten var ve boş DEĞİL. Multistrap'in kendi bağımsız klasörüne kurulması şiddetle tavsiye edilir.
 
-Changing to the following location is suggested:
+Aşağıdaki konuma değiştirilmesi önerilir:
 {0}
 
-Would you like to change to the suggested location?
-Selecting 'No' will ignore this warning and continue installation.</value>
+Önerilen konuma geçmek ister misiniz?
+'Hayır' seçeneğinin seçilmesi bu uyarıyı yok sayacak ve kuruluma devam edecektir.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>Bir kurulum konumu seçmelisin</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
+    <value>Multistrap'in seçtiğiniz kurulum konumuna yazma erişimi yok. Lütfen başka bir konum seçin.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Etkinlik takibi</value>
@@ -729,7 +728,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Masaüstü uygulamasına çıkma</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
+    <value>Multistrap'in hangi Roblox oyununu oynadığınızı algılamasını sağlar. Bazı özellikler bunu gerektirebilir.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Etkinlik takibini etkinleştirin</value>
@@ -826,7 +825,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Ayarlar kaydedildi!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Multistrap Settings</value>
+    <value>Multistrap Ayarları</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>Tercih edilen dili seçiniz</value>
@@ -856,7 +855,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Kullanıcı Arayüzü ve Düzeni</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Allow Multistrap to manage Fast Flags</value>
+    <value>Multistrap'in Fast Flag'ları yönetmesine izin verin</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Bunun yetkisini almak burada ayarlanan herhangi birşeyin Roblox'a uygulamamasını sağlayacak.</value>
@@ -901,7 +900,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Arazi dokularını devre dışı bırak</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Multistrap is unable to download Roblox</value>
+    <value>Multistrap Roblox'u indiremiyor</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Roblox şu anda indirilemiyor. Daha fazla bilgi için lütfen yardım sayfasını okuyunuz: {0}</value>
@@ -921,7 +920,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Değerin bir sayı olması gerektiğinden '{0}' girişi geçerli değildir</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
+    <value>Bu başlatma için herhangi bir kayıt dosyası yazılmıyacak çünkü Multistrap '{0}' konumundaki klasöre yazamıyor</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Varsayılan</value>
@@ -936,7 +935,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Yer filtresi doğru biçimlendirilmediği için '{0}' girişi geçerli değil.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Multistrap Installer</value>
+    <value>Multistrap Yükleyicisi</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Hoş geldiniz</value>
@@ -955,18 +954,18 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>İleri</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Thank you for downloading Multistrap. 
+    <value>Multistrap'ı indirdiğiniz için teşekkürler.
 
-The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
+Multistrap'ı indirebileceğiniz tek resmî web siteleri {0} ve {1}'dur, bu yüzden lütfen resmî bir kaynaktan indirdiğinizi doğrulayın.
 
-This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
+Bu yükleme işlemi hızlı ve basit olacaktır, ve yükleme işlemi bittikten sonra Multistrap'ın her ayarını yapılandırabileceksiniz.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>Devam etmek için lütfen "İleri" butonuna tıklayın.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
+    <value>Multistrap'ın {0} sürümünü yüklemeye çalışıyorsunuz, fakat mevcut olan en son sürüm {1}. En son sürümü yüklemek ister misiniz?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>Yüklenecek yeri seç</value>
@@ -987,16 +986,16 @@ This installation process will be quick and simple, and you will be able to conf
     <value>Başlat Menü simgesi</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Multistrap has successfully been installed.
+    <value>Multistrap başarıyla yüklendi.
 
-Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
+Roblox henüz yüklenmedi, Multistrap'ı ilk defa başlattığınızda yüklenecektir. Ancak, bunu yapmadan önce, Multistrap'ın ayarlarını yapılandırmak isteyebilirsiniz.
 
-Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
+Ayrıca, Roblox'u başlatmak için "Roblox Player" kısayolunu kullanmaktan sakının, yoksa Multistrap Roblox ile başlatılmayacaktır. Eğer siteden başlattığınızda Multistrap'ı göremezseniz, düzeltmek için Roblox'u Multistrap ile masaüstünden bir kez başlatmanız yeterlidir.
 
-What would you like to do?</value>
+Ne yapmak istersiniz?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Configure Multistrap's settings</value>
+    <value>Multistrap'ın ayarlarını yapılandır</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>Sunduğu tüm özelliklerle ince ayar yapın</value>
@@ -1008,22 +1007,22 @@ What would you like to do?</value>
     <value>Her şey bittikten sonra masaüstü uygulamasına bırakılacaksınız</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Uninstall Multistrap</value>
+    <value>Multistrap'ı kaldır</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
+    <value>Kaldırmak, Multistrap'ı sisteminizden kaldıracaktır, ve hâlâ yüklü ise varsayılan Roblox başlatıcısını otomatik olarak yeniden yapılandıracaktır.
 
-If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
+Eğer Roblox ile bir sorun yaşadığınızdan dolayı kaldırıyorsanız veya yeniden yüklüyorsanız, ilk önce [bu yardım sayfasını]({0}) okuyun.
 
-The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
+Kaldırma işlemi kendisinin artıklarını tamamen temizleyemeyebilir, bu yüzden Multistrap'ın yüklü olduğu yerdeki artık dosyaları manuel olarak temizlemeniz gerekebilir.
 
-Multistrap was installed at "{1}".</value>
+Multistrap "{1}" yerine yüklüydü.</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Ayarlarımı ve modlarımı tut</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
+    <value>Multistrap'ın yüklü olduğu yerde tutulacak, ve bir yeniden yükleme de otomatik olarak geri yüklenecektir.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Kaldır</value>
@@ -1044,19 +1043,19 @@ Multistrap was installed at "{1}".</value>
     <value>Şuan WebView2 runtime sizde yüklü değil. Masaüstü uygulaması gibi bazı Roblox özellikleri WebView2 runtime olmadan düzgün çalışmayacaktır. WebView2 runtime'yi şimdi indirmek ister misiniz?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
+    <value>Multistrap Masaüstü ve Başlat menüsüne kısayollar oluşturamadı. Daha sonra ayarlardan oluşturmayı deneyin.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+    <value>Bu sorunun daha önce bir düzeltme ile ele alınıp alınmadığını görmek için önce [Multistrap Wiki'yi]({0}) kontrol edin.
 
-If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
+Eğer sorun ele alınmadıysa, lütfen bu istisnayı bu versiyonun geliştiricilerine bildirin. Bu istisnayı SAKIN Multistrap'ın GitHub issues sayfasına bildirmeyin, çünkü bu bir resmî olmayan yapıdır.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>Bunlar, çoktan seçmeli bir başlatma menüsü getiren genel kısayollardır. Belirli fonksiyonlar için kısayollar daha sonra ayarlardan oluşturulabilir.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Configure how Multistrap can be readily launched.</value>
+    <value>Multistrap'ın nasıl kolayca başlatılabileceğini yapılandırın.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Genel</value>
@@ -1086,7 +1085,7 @@ If not, then please report this exception to the maintainers of this fork. Do NO
     <value>Lütfen kaldırma işleminin bitmesini bekleyin.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>About Multistrap</value>
+    <value>Multistrap Hakkında</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>Lisanslar</value>
@@ -1099,9 +1098,7 @@ If not, then please report this exception to the maintainers of this fork. Do NO
     <value>Kaydedilmemiş değişiklikleriniz var. Kaydetmeden kapatmak istediğinizden emin misiniz?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>The version of Multistrap you've launched is older than the version you currently have installed.
-Issues may occur and your settings may be altered. A reinstall is recommended.
-Are you sure you want to continue?</value>
+    <value>Başlattığınız Multistrap sürümü sizde şu an yüklü olan sürümden daha eski. Sorunlar ortaya çıkabilir ve ayarlarınız değişebilir. Bir yeniden yükleme önerilir. Devam etmek istediğinizden emin misiniz?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Roblox başlatılamadı.</value>
@@ -1122,7 +1119,7 @@ Are you sure you want to continue?</value>
     <value>Destekçiler</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
+    <value>Burada listelenen kişiler şu anda Multistrap'ı [Ko-fi]({0}) üzerinden destekliyor. Buradaki herkese çok teşekkürler!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Ayarlarınız yüklenemedi. Ayarlarınız varsayılan yapılandırmaya sıfırlandı.</value>
@@ -1152,12 +1149,12 @@ Are you sure you want to continue?</value>
     <value>Bu başlatma için, Roblox güncellemeler için kontrol edilmeyecek, ve modlara değişiklikler uygulanmayacaktır.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
+    <value>Roblox'un yüklenmesi veya yükseltilmesi gerektiği için Multistrap devam edemiyor.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
+    <value>Multistrap önceden bu yola yüklendi ve hâlâ burada, fakat yükleyici eski çalıştırılabilirin üzerine yazamıyor.
 
-Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
+Lütfen manuel olarak yükleme yolundan Bloxstrap.exe'yi silin veya sisteminizi yeniden başlatmayı deneyin, ve sonra yüklemeyi yeniden deneyin.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>Mevcut değil</value>
@@ -1169,7 +1166,7 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>DPI ölçeklendirme ve [tam ekran optimizasyonları]({0}) gibi uygulama parametrelerini yapılandırın.</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
+    <value>Roblox henüz yüklenmedi. Bu seçeneği kullanmaya çalışmadan önce lütfen Roblox'u Multistrap'ı kullanarak en az bir kere başlatın.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Yüklemeyi iptal etmek istediğinizden emin misiniz?</value>
@@ -1187,10 +1184,10 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>Roblox simgelerini klasöre çıkar</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
+    <value>Kısayollarınız için Multistrap'ın çeşitli Roblox simgelerini kullanmanızı sağlar. [Nasıl olduğunu görün.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
+    <value>Multistrap Windows Kayıt Defterine yazamıyor. Bir antivirüs yazılımı muhtelemen müdahale ediyor ve sorunlara neden oluyor. Lütfen Multistrap'ın operasyonunu sınırlayan bir şeyin olmadığını kontrol edin.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Aylık</value>
@@ -1199,7 +1196,7 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>Tek sefer</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Configure options related to Multistrap's behaviour itself.</value>
+    <value>Multistrap'ın davranışı ile ilgili ayarları yapılandırın.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>Analitikleri göndermeyi etkinleştir</value>
@@ -1228,7 +1225,7 @@ Etkinken, kapatana kadar bir döngü içerisinde Ayarları kapattıktan sonra ot
 Test modu açmak ister misiniz?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
+    <value>Multistrap'ın tüm çevirileri [Crowdin]({0}) üzerinden kitle kaynaklıdır. Burada listelenen herkes cömertce Multistrap'ı yerelleştirmek için zamanlarını ve çabalarını harcayan kişilerdir. Buradaki herkese çok teşekkürler!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>Yükle</value>
