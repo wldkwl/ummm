@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
+    <value>Multistrap không thể tự động cập nhật lên phiên bản {0}. Hãy cập nhật thủ công bằng cách tải và chạy phần mềm từ trang chủ.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Tiến trình Roblox hiện tại đang chạy, và việc khởi động tiến trình Roblox khác sẽ đóng nó. Bạn có chắc chắn muốn tiếp tục khởi động không?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
+    <value>Có gì đó đang ngăn chặn Multistrap kết nối đến Internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox có thể đang có vấn đề. Xem {0} để có thêm thông tin.</value>
@@ -133,10 +133,10 @@
     <value>Kết nối đã bị gián đoạn, có thể là bởi kết nối mạng không ổn định hoặc là đã bị chặn bởi tường lửa.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>You must first install Multistrap before uninstalling.</value>
+    <value>Bạn phải cài đặt Multistrap trước khi gỡ cài đặt nó.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
+    <value>Multistrap không có đủ dung lượng ổ cứng để tải và cài đặt Roblox. Hãy giải phóng dung lượng và thử lại.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Đang áp dụng những chỉnh sửa cho Roblox...</value>
@@ -161,7 +161,7 @@
     <value>Đang cập nhật {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Getting the latest Multistrap...</value>
+    <value>Đang tải xuống phiên bản mới nhất của Bloxstrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>Đang đợi các tiến trình khác...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Multistrap has successfully uninstalled</value>
+    <value>Multistrap đã được gỡ cài đặt thành công</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
+    <value>Hiện tại Roblox đang hoạt động, nhưng buộc phải đóng trước khi gỡ cài đặt Bloxstrap. Bạn có muốn đóng Roblox bây giờ không?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>Roblox yêu cầu sử dụng các thành phần của Windows Media Foundation. Có vẻ như bạn đang thiếu chúng, có thể là do bạn đang sử dụng phiên bản N của Windows. Vui lòng cài đặt chúng trước, sau đó khởi chạy Roblox.</value>
@@ -282,22 +282,22 @@ Bấm để biết thêm thông tin</value>
     <value>Lỗi kết nối</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Multistrap is unable to connect to {0}</value>
+    <value>Multistrap không thể kết nối tới {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>Sao chép dữ liệu log</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>An exception occurred while running Multistrap</value>
+    <value>Một trường hợp ngoại lệ đã xảy ra khi đang chạy Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+    <value>Hãy xem qua [Multistrap Wiki]({0}) trước để xem nếu vấn đề này đã được khắc phục chưa
 
-If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
+Nếu chưa, xin hay báo cáo lỗi này qua [GitHub issue]({1}) với bản copy của tệp log vừa được tạo.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Multistrap Exception</value>
+    <value>Lỗi ngoại lệ Multistrap</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Tuỳ chỉnh</value>
@@ -312,10 +312,10 @@ If not, then please report this exception through a [GitHub issue]({1}) along wi
     <value>Giả lập Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Multistrap (Classic)</value>
+    <value>Multistrap (Cổ điển)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Multistrap (Glass)</value>
+    <value>Multistrap (Xuyên thấu)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Legacy (2008-2011)</value>
@@ -393,11 +393,11 @@ If not, then please report this exception through a [GitHub issue]({1}) along wi
     <value>Sáng</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Multistrap has been upgraded to v{0}</value>
+    <value>Multistrap đã được cập nhật lên phiên bản v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>The version of Multistrap you've launched is different to the version you currently have installed.
-Would you like to upgrade your currently installed version?</value>
+    <value>Phiên bản Multistrap bạn đã mở khác với phiên bản đã cài đặt hiện tại.
+Bạn có muốn nâng cấp phiên bản đã cài đặt không?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>Những người đóng góp</value>
@@ -406,7 +406,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Lập trình</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
+    <value>Đây là những người có đóng góp nổi bật cho Multistrap, giúp nó được như bây giờ.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Quyên góp ý tưởng</value>
@@ -452,7 +452,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Hãy nhớ rằng tất cả những sửa đổi của bạn sẽ không lập tức được áp dụng cho đến khi bạn đóng tất cả các tiến trình Roblox đang chạy hiện tại.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Multistrap is already running</value>
+    <value>Multistrap đang hoạt động</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Bạn có thể làm nó khác biệt, có thể theo phong cách cổ điển, hoặc có thể làm nó nhìn y hệt như Roblox.</value>
@@ -479,7 +479,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Tiêu đề</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Configure how Multistrap should look.</value>
+    <value>Chỉnh sửa giao diện của Bloxstrap.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>Giao diện chung</value>
@@ -503,10 +503,10 @@ Would you like to upgrade your currently installed version?</value>
     <value>Giao diện</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
+    <value>Multistrap sẽ tự động kiểm tra và cập nhật khi chạy Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automatically update Multistrap</value>
+    <value>Tự động cập nhật Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Ngăn chặn việc tắt trò chơi hiện tại khi bạn vô tình khởi động trò chơi khác.</value>
@@ -515,7 +515,7 @@ Would you like to upgrade your currently installed version?</value>
     <value>Hiển thị thông báo xác nhận khi mở một tiến trình Roblox khác</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Configure what Multistrap should do when launching Roblox.</value>
+    <value>Tùy chỉnh Multistrap sẽ làm gì khi khởi động Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox sẽ cài đặt lại vào lần khởi động tiếp theo.</value>
@@ -638,7 +638,7 @@ Bạn có chắc chắn muốn tiếp tục không?</value>
     <value>Giới hạn tốc độ khung hình</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
+    <value>Bật/Tắt bằng [tổ hợp phím]({0}). Chỉ hoạt động nếu đang ở trong [Nhóm Multistrap]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Bật tính năng ẩn giao diện người dùng</value>
@@ -662,23 +662,23 @@ Bạn có chắc chắn muốn tiếp tục không?</value>
     <value>Các tệp biểu tượng</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
+    <value>Multistrap không thể được cài đặt ở đây. Vui lòng chọn một vị trí khác, hoặc sử dụng vị trí mặc định bằng cách nhấp vào nút đặt lại.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
+    <value>Thư mục bạn chọn cài đặt Multistrap đã tồn tại và KHÔNG trống rỗng. Chúng tôi đặc biệt khuyến khích cài đặt Multistrap vào thư mục độc lập của riêng nó.
 
-Changing to the following location is suggested:
+Đề xuất thay đổi sang vị trí như này:
 {0}
 
-Would you like to change to the suggested location?
-Selecting 'No' will ignore this warning and continue installation.</value>
+Bạn có muốn thay đổi đến vị trí được đề xuất không?
+Chọn 'Không' sẽ bỏ qua cảnh báo này và tiếp tục cài đặt.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>Bạn phải chọn địa điểm cài đặt</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
+    <value>Multistrap không có quyền ghi vào vị trí cài đặt mà bạn đã chọn. Vui lòng chọn địa điểm khác.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Theo dõi hoạt động</value>
@@ -729,7 +729,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Không thoát ra màn hình chính của Roblox</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
+    <value>Cho phép Multistrap phát hiện bạn đang chơi trò Roblox gì. Một vài chức năng yêu cầu tính năng này.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Bật theo dõi hoạt động</value>
@@ -827,7 +827,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Các chỉnh sửa đã được lưu!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Multistrap Settings</value>
+    <value>Cài Đặt Multistrap</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>Chọn ngôn ngữ ưa thích</value>
@@ -857,7 +857,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Giao diện người dùng và bố cục</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Allow Multistrap to manage Fast Flags</value>
+    <value>Cho phép Multistrap quản lý Fast Flag</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Tắt tính năng này sẽ ngăn bất kỳ cài đặt nào ở đây được áp dụng vào Roblox.</value>
@@ -902,7 +902,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Vô hiệu hóa cấu tạo bề mặt địa hình</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Multistrap is unable to download Roblox</value>
+    <value>Multistrap không thể tải xuống Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Không thể tải xuống Roblox ngay bây giờ. Xin hãy đọc trang trợ giúp để biết thêm thông tin: {0}</value>
@@ -922,7 +922,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Giá trị '{0}' không hợp lệ vì giá trị phải là một chữ số</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
+    <value>Tệp log mới sẽ không được tạo cho lần khởi chạy này vì Multistrap không thể ghi vào thư mục tại '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Mặc định</value>
@@ -937,7 +937,7 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Giá trị '{0}' không hợp lệ vì bộ lọc trải nghiệm không được định dạng đúng.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Multistrap Installer</value>
+    <value>Trình cài đặt Multistrap</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Chào mừng</value>
@@ -956,18 +956,18 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Tiếp theo</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Thank you for downloading Multistrap. 
+    <value>Cảm ơn bạn đã tải xuống Bloxstrap.
 
-The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
+Các trang web chính thức duy nhất để tải Multistrap là {0} và {1}, vì vậy hãy đảm bảo rằng bạn đã tải từ nguồn chính thức.
 
-This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
+Quá trình cài đặt này sẽ nhanh chóng và đơn giản, và sau khi cài đặt, bạn sẽ có thể cấu hình bất kỳ cài đặt nào của Bloxstrap.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>Bấm 'Tiếp' để tiếp tục.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
+    <value>Bạn đang cố cài đặt phiên bản {0} của Multistrap, nhưng phiên bản mới nhất hiện tại là {1}. Bạn có muốn tải về không?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>Chọn nơi để cài đặt</value>
@@ -988,16 +988,17 @@ This installation process will be quick and simple, and you will be able to conf
     <value>Biểu tượng Start Menu</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Multistrap has successfully been installed.
+    <value>Multistrap đã được cài đặt thành công.
 
-Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
+Roblox vẫn chưa được cài đặt, điều đó sẽ xảy ra khi bạn khởi chạy nó bằng Multistrap lần đầu tiên. Tuy nhiên, trước khi thực hiện, có thể 
+bạn sẽ muốn định cấu hình cài đặt của Multistrap trước.
 
-Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
+Ngoài ra, tránh sử dụng phím tắt "Roblox Player" để khởi chạy Roblox, vì Multistrap sẽ không khởi chạy cùng Roblox. Nếu bạn không thấy Multistrap hiển thị khi khởi chạy từ trang web, chỉ cần khởi chạy Roblox bằng Multistrap một lần từ màn hình chính để khắc phục sự cố.
 
-What would you like to do?</value>
+Bạn muốn làm gì?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Configure Multistrap's settings</value>
+    <value>Cấu hình cài đặt Multistrap</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>Chỉnh sửa tất cả những tính năng được cung cấp</value>
@@ -1009,22 +1010,22 @@ What would you like to do?</value>
     <value>Sẽ đưa bạn đến ứng dụng màn hình nền một khi tất cả đã xong</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Uninstall Multistrap</value>
+    <value>Gỡ cài đặt Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
+    <value>Gỡ cài đặt Multistrap sẽ xóa nó khỏi hệ thống của bạn, và tự động cấu hình lại trình khởi chạy mặc định của Roblox nếu nó vẫn được cài đặt.
 
-If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
+Nếu bạn đang gỡ cài đặt hoặc cài đặt lại vì gặp sự cố với Roblox, hãy đọc [trang trợ giúp này]({0}) trước.
 
-The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
+Quá trình gỡ cài đặt có thể không tự dọn dẹp hoàn toàn, vì vậy có thể bạn sẽ cần phải dọn dẹp thủ công các tệp còn sót lại nơi Multistrap đã được cài đặt.
 
-Multistrap was installed at "{1}".</value>
+Multistrap đã được cài đặt tại "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Giữ lại các cài đặt và mod của tôi</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
+    <value>Chúng sẽ được giữ lại nơi Multistrap đã được cài đặt, và sẽ tự động khôi phục sau khi cài đặt lại.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Gỡ cài đặt</value>
@@ -1045,19 +1046,19 @@ Multistrap was installed at "{1}".</value>
     <value>Hiện tại bạn chưa cài đặt WebView2 runtime. Một số tính năng của Roblox sẽ không hoạt động bình thường nếu không có nó, chẳng hạn như ứng dụng trên màn hình chính. Bạn có muốn tải nó ngay bây giờ không?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
+    <value>Multistrap không thể tạo phím tắt cho màn hình chính và Start Menu. Hãy thử tạo chúng thông qua cài đặt.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
+    <value>Tìm xem [Multistrap Wiki]({0}) trước để xem nếu vấn đề này đã có phương pháp giải quyết.
 
-If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
+Nếu không, thì hãy báo cáo vấn đề này đến người quản lí của bản sao này. ĐỪNG báo cáo vấn đề này đến GitHub của Multistrap, bởi vì đây là một bản sao không chính thức.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>Đây là các phím tắt chung giúp mở menu khởi chạy với nhiều lựa chọn. Các phím tắt cho các chức năng cụ thể có thể được tạo sau trong phần cài đặt.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Configure how Multistrap can be readily launched.</value>
+    <value>Cấu hình cách Multistrap có thể được khởi chạy.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Chung</value>
@@ -1087,7 +1088,7 @@ If not, then please report this exception to the maintainers of this fork. Do NO
     <value>Hãy đợi cho quá trình gỡ cài đặt được hoàn thành.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>About Multistrap</value>
+    <value>Về Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>Các giấy phép</value>
@@ -1100,9 +1101,9 @@ If not, then please report this exception to the maintainers of this fork. Do NO
     <value>Bạn có những thay đổi chưa được lưu. Bạn có chắc chắn muốn đóng mà không lưu không?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>The version of Multistrap you've launched is older than the version you currently have installed.
-Issues may occur and your settings may be altered. A reinstall is recommended.
-Are you sure you want to continue?</value>
+    <value>Phiên bản Multistrap mà bạn khởi chạy cũ hơn so với phiên bản bạn đã cài đặt.
+Có thể xảy ra sự cố và các tùy chỉnh của bạn có thể bị thay đổi. Khuyến khích nên cài đặt lại.
+Bạn có muốn tiếp tục không?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Không thể khởi chạy Roblox.</value>
@@ -1123,7 +1124,7 @@ Are you sure you want to continue?</value>
     <value>Những người hỗ trợ</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
+    <value>Đây là những người hiện đang hỗ trợ Multistrap thông qua [Ko-fi]({0}). Xin chân thành cảm ơn tất cả mọi người ở đây!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Không thể tải những Cài Đặt của bạn. Chúng đã được đặt lại về cấu hình mặc định.</value>
@@ -1153,12 +1154,12 @@ Are you sure you want to continue?</value>
     <value>Trong lần chạy này, Roblox sẽ không được kiểm tra để cập nhật, và những thay đổi đối với các mod sẽ không áp dụng.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
+    <value>Vì Roblox cần được cài đặt hoặc cập nhật, Multistrap không thể tiếp tục.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
+    <value>Multistrap đã được cài đặt vào vị trí này trước đây và vẫn còn ở đó, tuy nhiên trình cài đặt không thể ghi đè lên tệp cài đặt cũ. 
 
-Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
+Vui lòng xóa thủ công Bloxstrap.exe khỏi vị trí cài đặt hoặc thử khởi động lại hệ thống của bạn, sau đó thử cài đặt lại sau đó.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>Không có sẵn</value>
@@ -1170,7 +1171,7 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>Cấu hình các thông số ứng dụng như hành vi thay đổi tỷ lệ DPI và [tối ưu hóa toàn màn hình]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
+    <value>Roblox chưa được cài đặt. Vui lòng khởi chạy Roblox bằng Multistrap ít nhất một lần trước khi thử sử dụng tùy chọn này.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Bạn có chắc chắn muốn hủy cài đặt không?</value>
@@ -1188,10 +1189,10 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>Trích xuất biểu tượng Roblox vào thư mục</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
+    <value>Cho phép bạn sử dụng các biểu tượng Roblox có sẵn trong Multistrap cho các phím tắt của bạn. [Xem cách.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
+    <value>Multistrap không thể ghi vào Registry của Windows. Có thể một phần mềm diệt virus đang can thiệp và gây ra vấn đề. Vui lòng kiểm tra để đảm bảo không có gì làm ảnh hưởng Bloxstrap.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Hàng tháng</value>
@@ -1200,7 +1201,7 @@ Please manually delete Multistrap.exe from the install location or try restartin
     <value>Một lần</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Configure options related to Multistrap's behaviour itself.</value>
+    <value>Tùy chỉnh những lựa chọn liên quan tới cách hoạt động của Bloxstrap.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>Bật gửi dữ liệu phân tích</value>
@@ -1229,7 +1230,7 @@ Khi được bật, nó sẽ tự động khởi chạy Roblox sau khi đóng C�
 Bạn có muốn bật chế độ thử nghiệm không?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
+    <value>Tất cả các bản dịch của Multistrap đều được đóng góp từ cộng đồng thông qua [Crowdin]({0}). Tất cả những người được liệt kê ở đây đều đã tự nguyện dành thời gian và công sức để giúp dịch Bloxstrap. Xin gửi lời cảm ơn chân thành đến tất cả mọi người!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>Cài đặt</value>
