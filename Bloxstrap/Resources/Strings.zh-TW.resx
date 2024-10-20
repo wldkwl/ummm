@@ -1179,6 +1179,9 @@ Bloxstrap 安裝在 "{1}"。</value>
   <data name="Menu.Shortcuts.ExtractIcons.Title" xml:space="preserve">
     <value>提取 Roblox 圖示到資料夾</value>
   </data>
+  <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
+    <value>Allows you to use Bloxstrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
+  </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
     <value>Bloxstrap 無法寫入進 Windows 登錄檔。可能是防毒軟體干擾並導致問題。請檢查是否有任何會限制 Bloxstrap 操作的應用程式。</value>
   </data>
@@ -1231,5 +1234,8 @@ Bloxstrap 安裝在 "{1}"。</value>
   <data name="Paths.Icons" xml:space="preserve">
     <value>圖示</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
+  </data>
+  <data name="Dialog.Exception.Version" xml:space="preserve">
+    <value>Version {0}</value>
   </data>
 </root>
