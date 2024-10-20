@@ -118,1131 +118,1131 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>„Multistrap“ nepavyko automatiškai atnaujinti į {0} versiją. Atnaujinkite ją rankiniu būdu atsisiųsdami ir paleisdami iš svetainės.</value>
+    <value>Multistrap neizdevās automātiski atjaunināt uz versiju {0}. Lūdzu, atjauniniet to manuāli, lejupielādējot un palaižot to no vietnes.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
-    <value>„Roblox“ šiuo metu paleista, o paleidus kitą serverį jis bus uždarytas. Ar tikrai norite tęsti paleidimą?</value>
+    <value>Roblox pašlaik darbojas, un, palaižot citu gadījumu, tas tiks slēgts. Vai esat pārliecināts, ka vēlaties turpināt palaišanu?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Greičiausiai kažkas trukdo „Multistrap“ prisijungti prie interneto.</value>
+    <value>Iespējams, ka kaut kas neļauj Multistrap izveidot savienojumu ar internetu.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
-    <value>„Roblox“ šiuo metu gali būti neveikiantis. Žiūrėkite {0} dėl daugiau informacijos.</value>
+    <value>Roblox šobrīd, iespējams, nedarbojas. Lai iegūtu vairāk informācijas, skatiet {0}.</value>
   </data>
   <data name="Dialog.Connectivity.TimedOut" xml:space="preserve">
-    <value>Ryšys nutrūko, o tai gali reikšti prastą interneto ryšį arba užkardos blokavimą.</value>
+    <value>Savienojums beidzās, kas varētu liecināt par sliktu interneta savienojumu vai ugunsmūra bloķēšanu.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Prieš išdiegdami „Multistrap“, pirmiausia turite įdiegti „Multistrap“.</value>
+    <value>Pirms atinstalēšanas vispirms jāinstalē Multistrap.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>„Multistrap“ neturi pakankamai vietos diske, kad galėtų atsisiųsti ir įdiegti „Roblox“. Atlaisvinkite šiek tiek vietos diske ir bandykite dar kartą.</value>
+    <value>Multistrap nav pietiekami daudz vietas uz diska, lai lejupielādētu un instalētu Roblox. Lūdzu, atbrīvojiet diska vietu un mēģiniet vēlreiz.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
-    <value>Taikomos „Roblox“ modifikacijos...</value>
+    <value>Roblox modifikāciju piemērošana...</value>
   </data>
   <data name="Bootstrapper.Status.Configuring" xml:space="preserve">
-    <value>Konfigūruojamas „{product}“...</value>
+    <value>Konfigurēšana {product}...</value>
   </data>
   <data name="Bootstrapper.Status.Connecting" xml:space="preserve">
-    <value>Prisijungiama prie „Roblox“...</value>
+    <value>Savienošanās ar Roblox...</value>
   </data>
   <data name="Bootstrapper.Status.Installing" xml:space="preserve">
-    <value>Diegiamas „{product}“...</value>
+    <value>Uzstādīšana {product}...</value>
   </data>
   <data name="Bootstrapper.Status.InstallingWebView2" xml:space="preserve">
-    <value>Diegiamas „WebView2“. Palaukite...</value>
+    <value>WebView2 instalēšana, lūdzu, uzgaidiet...</value>
   </data>
   <data name="Bootstrapper.Status.Starting" xml:space="preserve">
-    <value>Pradedamas „{product}“...</value>
+    <value>Startējot {product}...</value>
     <comment>"Starting Roblox" or "Starting Roblox Studio"</comment>
   </data>
   <data name="Bootstrapper.Status.Upgrading" xml:space="preserve">
-    <value>Atnaujinamas „{product}“...</value>
+    <value>Atjaunina {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Gaunamas naujausias „Multistrap“...</value>
+    <value>Iegūst jaunāko Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
-    <value>Laukiama kitų serverių...</value>
+    <value>Gaidām citus gadījumus...</value>
   </data>
   <data name="Bootstrapper.StylePreview.ImageCancel" xml:space="preserve">
-    <value>Stiliaus peržiūra. Spustelėkite mygtuką X viršuje dešinėje, kad uždarytumėte</value>
+    <value>Stila priekšskatījums - Noklikšķiniet uz X pogas labajā augšējā stūrī, lai aizvērtu</value>
     <comment>Text for style previews that use an X button. Currently only applies to Byfron</comment>
   </data>
   <data name="Bootstrapper.StylePreview.TextCancel" xml:space="preserve">
-    <value>Stiliaus peržiūra. Spustelėkite Atšaukti, kad uždarytumėte</value>
+    <value>Stila priekšskatījums - Noklikšķiniet uz Atcelt, lai aizvērtu</value>
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>„Multistrap“ buvo sėkmingai išdiegtas</value>
+    <value>Multistrap ir veiksmīgi atinstalēts</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>„Roblox“ šiuo metu paleista, bet prieš išdiegiant „Multistrap“ turi būti uždarytas. Ar norėtumėte dabar uždaryti „Roblox“?</value>
+    <value>Pašlaik darbojas Roblox, bet pirms Multistrap atinstalēšanas tas ir jāaizver. Vai tagad vēlaties aizvērt Roblox?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
-    <value>„Roblox“ reikia naudoti „Windows Media Foundation“ komponentus. Atrodo, kad jų trūksta, greičiausiai dėl to, kad naudojate „Windows“ N laidą. Pirmiausia juos įdiekite, tada paleiskite „Roblox“.</value>
+    <value>Roblox ir jāizmanto Windows Media Foundation komponenti. Šķiet, ka jums to trūkst, iespējams, tāpēc, ka izmantojat Windows N versiju. Lūdzu, vispirms instalējiet tos un pēc tam palaidiet Roblox.</value>
   </data>
   <data name="Common.AddSingle" xml:space="preserve">
-    <value>Pridėti vieną</value>
+    <value>Pievienot vienu</value>
   </data>
   <data name="Common.Browse" xml:space="preserve">
-    <value>Naršyti</value>
+    <value>Pārlūkot</value>
   </data>
   <data name="Common.Cancel" xml:space="preserve">
-    <value>Atšaukti</value>
+    <value>Atcelt</value>
   </data>
   <data name="Common.Close" xml:space="preserve">
-    <value>Uždaryti</value>
+    <value>Aizvērt</value>
   </data>
   <data name="Common.Delete" xml:space="preserve">
-    <value>Ištrinti</value>
+    <value>Dzēst</value>
   </data>
   <data name="Common.DiscordRichPresence" xml:space="preserve">
-    <value>„Discord Rich Presence“</value>
+    <value>Discord Rich Presence</value>
   </data>
   <data name="Common.Help" xml:space="preserve">
-    <value>Pagalba</value>
+    <value>Palīdzība</value>
   </data>
   <data name="Common.ImportJson" xml:space="preserve">
-    <value>Importuoti JSON</value>
+    <value>JSON importēšana</value>
   </data>
   <data name="Common.OpenLogFile" xml:space="preserve">
-    <value>Atidaryti žurnalo failą</value>
+    <value>Atvērt žurnāla failu</value>
   </data>
   <data name="Common.Miscellaneous" xml:space="preserve">
-    <value>Įvairus</value>
+    <value>Dažādi</value>
   </data>
   <data name="Common.Name" xml:space="preserve">
-    <value>Pavadinimas</value>
+    <value>Nosaukums</value>
   </data>
   <data name="Common.New" xml:space="preserve">
-    <value>Naujas</value>
+    <value>Jauns</value>
   </data>
   <data name="Common.No" xml:space="preserve">
-    <value>Ne</value>
+    <value>Nē</value>
   </data>
   <data name="Common.OK" xml:space="preserve">
-    <value>Gerai</value>
+    <value>LABI</value>
   </data>
   <data name="Common.Presets" xml:space="preserve">
-    <value>Išankstiniai nustatymai</value>
+    <value>Sākotnējie iestatījumi</value>
   </data>
   <data name="Common.Reset" xml:space="preserve">
-    <value>Atkurti</value>
+    <value>Atiestatīt</value>
     <comment>In the context of resetting something to a default value</comment>
   </data>
   <data name="Common.Value" xml:space="preserve">
-    <value>Reikšmė</value>
+    <value>Value</value>
   </data>
   <data name="Common.Warning" xml:space="preserve">
-    <value>Įspėjimas</value>
+    <value>Brīdinājums</value>
   </data>
   <data name="Common.Yes" xml:space="preserve">
-    <value>Taip</value>
+    <value>Jā</value>
   </data>
   <data name="ContextMenu.CloseRoblox" xml:space="preserve">
-    <value>Uždaryti „Roblox“</value>
+    <value>Aizvērt Roblox</value>
   </data>
   <data name="ContextMenu.CloseRobloxMessage" xml:space="preserve">
-    <value>Ar tikrai norite uždaryti „Roblox“? Tai priverstinai užbaigs procesą.</value>
+    <value>Vai esat pārliecināts, ka vēlaties aizvērt Roblox? Tas piespiedu kārtā izbeigs procesu.</value>
   </data>
   <data name="ContextMenu.CopyDeeplinkInvite" xml:space="preserve">
-    <value>Kopijuoti kvietimo gilų nuorodą</value>
+    <value>Kopēt ielūguma dziļāko saiti</value>
   </data>
   <data name="ContextMenu.ServerInformation.CopyInstanceId" xml:space="preserve">
-    <value>Kopijuoti serverio ID</value>
+    <value>Kopēt Instance ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.InstanceId" xml:space="preserve">
-    <value>Serverio ID</value>
+    <value>Instances ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.Location" xml:space="preserve">
-    <value>Vieta</value>
+    <value>Atrašanās vieta</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Text" xml:space="preserve">
-    <value>Vieta: {0}
-Spustelėkite norėdami gauti daugiau informacijos.</value>
+    <value>Atrašanās vieta: {0}
+Noklikšķiniet, lai iegūtu vairāk informācijas</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Public" xml:space="preserve">
-    <value>Prisijungta prie viešojo serverio</value>
+    <value>Savienots ar publisko serveri</value>
   </data>
   <data name="ContextMenu.ServerInformation.Title" xml:space="preserve">
-    <value>Serverio informacija</value>
+    <value>Servera informācija</value>
   </data>
   <data name="ContextMenu.ServerInformation.Type" xml:space="preserve">
-    <value>Tipas</value>
+    <value>Tips</value>
   </data>
   <data name="Dialog.AddFastFlag.Title" xml:space="preserve">
-    <value>Pridėti „Fast Flag“</value>
+    <value>Fast Flag pievienošana</value>
   </data>
   <data name="Dialog.Connectivity.MoreInfo" xml:space="preserve">
-    <value>Daugiau informacijos:</value>
+    <value>Vairāk informācijas:</value>
   </data>
   <data name="Dialog.Connectivity.Title" xml:space="preserve">
-    <value>Ryšio klaida</value>
+    <value>Savienojamības kļūda</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>„Multistrap“ nepavyksta prisijungti prie {0}.</value>
+    <value>Multistrap nevar izveidot savienojumu ar {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
-    <value>Kopijuoti žurnalo turinį</value>
+    <value>Kopēt žurnāla saturu</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>Įvyko išimtis paleidžiant „Multistrap“</value>
+    <value>Multistrap palaišanas laikā radās izņēmums</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Pirmiausia patikrinkite [„Multistrap“ viki]({0}), kad sužinotumėte, ar ši problema jau išspręsta.
+    <value>Vispirms pārbaudiet [Multistrap Wiki]({0}), lai uzzinātu, vai šī problēma jau ir novērsta.
 
-Jei ne, praneškite apie šią išimtį per [„GitHub“ problemą]({1}) kartu su sukurto žurnalo failo kopija.</value>
+Ja nē, tad, lūdzu, ziņojiet par šo izņēmumu, izmantojot [GitHub issue]({1}) kopā ar izveidotā žurnāla faila kopiju.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>„Multistrap“ išimtis</value>
+    <value>Multistrap izņēmums</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
-    <value>Pasirinktinis</value>
+    <value>Custom</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconEarly2015" xml:space="preserve">
-    <value>2015 m. pradžia</value>
+    <value>Early 2015</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconLate2015" xml:space="preserve">
-    <value>2015 m. pabaiga</value>
+    <value>Late 2015</value>
   </data>
   <data name="Enums.BootstrapperStyle.ByfronDialog" xml:space="preserve">
-    <value>Netikras „Byfron“ (2023 m.)</value>
+    <value>Fake Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>„Multistrap“ (klasikinis)</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>„Multistrap“ (stiklinis)</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
-    <value>„Legacy“ (2008-2011 m.)</value>
+    <value>Legacy (2008 - 2011)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2011" xml:space="preserve">
-    <value>„Legacy“ (2011-2014 m.)</value>
+    <value>Legacy (2011 - 2014)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ProgressDialog" xml:space="preserve">
-    <value>„Roblox“ (t. 2014 m.)</value>
+    <value>Roblox (~2014)</value>
   </data>
   <data name="Enums.BootstrapperStyle.VistaDialog" xml:space="preserve">
-    <value>„Vista“ (2008-2011 m.)</value>
+    <value>Vista (2008 - 2011)</value>
   </data>
   <data name="Enums.CursorType.From2006" xml:space="preserve">
-    <value>2006 m. („Cartoony“)</value>
+    <value>2006 (Cartoony)</value>
   </data>
   <data name="Enums.CursorType.From2013" xml:space="preserve">
-    <value>2013 m. („Angular“)</value>
+    <value>2013 (Angular)</value>
   </data>
   <data name="Enums.EmojiType.Catmoji" xml:space="preserve">
-    <value>„Catmoji“</value>
+    <value>Catmoji</value>
   </data>
   <data name="Enums.EmojiType.Default" xml:space="preserve">
-    <value>Numatytasis („Twemoji“)</value>
+    <value>Noklusējuma iestatījumi (Twemoji)</value>
   </data>
   <data name="Enums.EmojiType.Windows10" xml:space="preserve">
-    <value>„Windows 10“</value>
+    <value>Windows 10</value>
   </data>
   <data name="Enums.EmojiType.Windows11" xml:space="preserve">
-    <value>„Windows 11“</value>
+    <value>Windows 11</value>
   </data>
   <data name="Enums.EmojiType.Windows8" xml:space="preserve">
-    <value>„Windows 8“</value>
+    <value>Windows 8</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V1" xml:space="preserve">
-    <value>2015 m. (1 ver.)</value>
+    <value>2015 (V1)</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V2" xml:space="preserve">
-    <value>2022 m. (2 ver.)</value>
+    <value>2020 (V2)</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V4" xml:space="preserve">
-    <value>2023 m. (4 ver.)</value>
+    <value>2023 (V4)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Default" xml:space="preserve">
-    <value>Pasirinkta pagal žaidimą</value>
+    <value>Izvēlēts pēc spēles</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Future" xml:space="preserve">
-    <value>„Future“ (3 fazė)</value>
+    <value>Nākotne (3. posms)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.ShadowMap" xml:space="preserve">
-    <value>„Shadow Map“ (2 fazė)</value>
+    <value>Ēnu karte (2. posms)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Voxel" xml:space="preserve">
-    <value>„Voxel“ (1 fazė)</value>
+    <value>Voxel (1. fāze)</value>
   </data>
   <data name="Enums.FlagPresets.RenderingMode.D3D10" xml:space="preserve">
-    <value>„Direct3D 10“</value>
+    <value>Direct3D 10</value>
   </data>
   <data name="Enums.FlagPresets.RenderingMode.D3D11" xml:space="preserve">
-    <value>„Direct3D 11“</value>
+    <value>Direct3D 11</value>
   </data>
   <data name="Enums.ServerType.Private" xml:space="preserve">
-    <value>Privatus serveris</value>
+    <value>Privātais serveris</value>
   </data>
   <data name="Enums.ServerType.Public" xml:space="preserve">
-    <value>Viešasis serveris</value>
+    <value>Publiskais serveris</value>
   </data>
   <data name="Enums.ServerType.Reserved" xml:space="preserve">
-    <value>Rezervuotas serveris</value>
+    <value>Rezervēts serveris</value>
   </data>
   <data name="Enums.Theme.Dark" xml:space="preserve">
-    <value>Tamsi</value>
+    <value>Tumšs</value>
   </data>
   <data name="Enums.Theme.Light" xml:space="preserve">
-    <value>Šviesi</value>
+    <value>Gaisma</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>„Multistrap“ buvo atnaujintas į v{0}.</value>
+    <value>Multistrap ir atjaunināts līdz v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>Paleista „Multistrap“ versija skiriasi nuo šiuo metu įdiegtos versijos.
-Ar norėtumėte atnaujinti šiuo metu įdiegtą versiją?</value>
+    <value>Palaistā Multistrap versija atšķiras no pašlaik instalētās versijas.
+Vai vēlaties atjaunināt pašlaik instalēto versiju?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
-    <value>Bendradarbiai</value>
+    <value>Sniedzēji</value>
   </data>
   <data name="Menu.About.Contributors.Code" xml:space="preserve">
-    <value>Programuotojai</value>
+    <value>Kods</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Tai – žmonės, kurie labai prisidėjo indėlį į „Multistrap“ ir padėjo jai tapti tuo, kuo ji yra.</value>
+    <value>Šie ir cilvēki, kuri ir devuši ievērojamu ieguldījumu Multistrap un palīdzējuši to padarīt tādu, kāds tas ir.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
-    <value>Funkcijų idėjos</value>
+    <value>Funkciju idejas</value>
   </data>
   <data name="Menu.About.Contributors.SpecialThanks" xml:space="preserve">
-    <value>Ypatingai dėkojame</value>
+    <value>Īpašs paldies</value>
   </data>
   <data name="Menu.About.Description" xml:space="preserve">
-    <value>Alternatyvus „Roblox“ pakopinė paleidyklę su daugybe papildomų funkcijų.</value>
+    <value>Alternatīvs Roblox bootstrapper ar vairākām papildu funkcijām.</value>
   </data>
   <data name="Menu.About.DiscordServer" xml:space="preserve">
-    <value>„Discord“ serveris</value>
+    <value>Discord serveris</value>
   </data>
   <data name="Menu.About.GithubRepository" xml:space="preserve">
-    <value>„GitHub“ saugykla</value>
+    <value>GitHub repozitorijs</value>
   </data>
   <data name="Menu.About.HelpInformation" xml:space="preserve">
-    <value>Pagalba ir informacija</value>
+    <value>Palīdzība un informācija</value>
   </data>
   <data name="Menu.About.Licenses" xml:space="preserve">
-    <value>Licencijos</value>
+    <value>Licences</value>
   </data>
   <data name="Menu.About.Licenses.BSD2" xml:space="preserve">
-    <value>BSD 2-Clause licencija</value>
+    <value>BSD 2-clause licence</value>
   </data>
   <data name="Menu.About.Licenses.MIT" xml:space="preserve">
-    <value>MIT licencija</value>
+    <value>MIT licence</value>
   </data>
   <data name="Menu.About.ReportIssue" xml:space="preserve">
-    <value>Pranešti apie problemą</value>
+    <value>Ziņot par problēmu</value>
   </data>
   <data name="Menu.About.Title" xml:space="preserve">
-    <value>Apie</value>
+    <value>Par</value>
   </data>
   <data name="Menu.About.Version" xml:space="preserve">
-    <value>{0} versija</value>
+    <value>Versija {0}</value>
     <comment>{0} is replaced with the version, i.e. "Version 2.8.0"</comment>
   </data>
   <data name="Menu.AllFiles" xml:space="preserve">
-    <value>Visi failai</value>
+    <value>Visi faili</value>
   </data>
   <data name="Menu.AlreadyRunning.Caption" xml:space="preserve">
-    <value>Atkreipkite dėmesį, kad ne visi pakeitimai bus taikomi iš karto, kol neuždarysite visų šiuo metu atidarytų „Roblox“ serverių.</value>
+    <value>Lūdzu, ņemiet vērā, ka visas izmaiņas netiks piemērotas uzreiz, kamēr nebūsiet aizvēris visus pašlaik atvērtos Roblox gadījumus.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>„Multistrap“ jau paleista</value>
+    <value>Multistrap jau darbojas</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
-    <value>Galite padaryti jį kitaip, retro ar net kaip „Roblox“.</value>
+    <value>Varat to veidot atšķirīgu, retro vai pat tādu pašu kā Roblox.</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Title" xml:space="preserve">
-    <value>Pakopinė paleidyklė</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.Appearance.Customisation.Description" xml:space="preserve">
-    <value>Konfigūruokite kitas įvairias tinkinamas parinktis.</value>
+    <value>Konfigurējiet citas dažādas pielāgojamas opcijas.</value>
   </data>
   <data name="Menu.Appearance.Customisation.Title" xml:space="preserve">
-    <value>Tinkinimas</value>
+    <value>Pielāgošana</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Description" xml:space="preserve">
-    <value>Turi būti daugiadydžių .ico failas, kurio dydis yra 16 tšk. iki 128 tšk.. Norėdami ją naudoti, nustatykite piktogramą kaip Pasirinktinis.</value>
+    <value>Jābūt dažāda izmēra .ico failam ar izmēriem no 16px līdz 128px. Lai to izmantotu, ikonu iestatiet kā "Custom".</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Title" xml:space="preserve">
-    <value>Pasirin. piktograma</value>
+    <value>Custom ikona</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Description" xml:space="preserve">
-    <value>Tekstas, kuris rodomas kaip pakopinio paleidyklės pavadinimas.</value>
+    <value>Teksts, kas tiek parādīts kā bootstrapper nosaukums.</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Title" xml:space="preserve">
-    <value>Pavadinimas</value>
+    <value>Nosaukums</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Konfigūruokite, kaip turėtų atrodyti „Multistrap“.</value>
+    <value>Konfigurējiet, kā jāizskatās Multistrap.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
-    <value>Visuotinė tema</value>
+    <value>Globālā tēma</value>
   </data>
   <data name="Menu.Appearance.Icon.Description" xml:space="preserve">
-    <value>Pasirinkite, kokią piktogramą ji turėtų naudoti.</value>
+    <value>Izvēlieties, kāda ikona tai jāizmanto.</value>
   </data>
   <data name="Menu.Appearance.Icon.Title" xml:space="preserve">
-    <value>Piktograma</value>
+    <value>Ikona</value>
   </data>
   <data name="Menu.Appearance.Preview" xml:space="preserve">
-    <value>Peržiurėti</value>
+    <value>Priekšskatījums</value>
   </data>
   <data name="Menu.Appearance.Style.Description" xml:space="preserve">
-    <value>Pasirinkite, kaip jis turėtų atrodyti. Tamsi tema netaikoma „Legacy“ / „Vista“.</value>
+    <value>Izvēlieties, kā tam jāizskatās. Tumšā tēma neattiecas uz Legacy/Vista.</value>
   </data>
   <data name="Menu.Appearance.Style.Title" xml:space="preserve">
-    <value>Stilius</value>
+    <value>Stils</value>
   </data>
   <data name="Menu.Appearance.Title" xml:space="preserve">
-    <value>Išvaizda</value>
+    <value>Izskats</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>„Multistrap“ automatiškai patikrins ir atnaujins save paleidus „Roblox“.</value>
+    <value>Multistrap automātiski pārbaudīs un atjauninās sevi, kad tiks palaists Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automatiškai atnaujinti „Multistrap“</value>
+    <value>Automātiski atjaunināt Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
-    <value>Užkirskite kelią atsitiktiniam esamo žaidimo uždarymui, kad netyčia nebūtų paleistas kitas žaidimas.</value>
+    <value>Novēršiet esošās spēles aizvēršanu no nejaušas citas spēles palaišanas.</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Title" xml:space="preserve">
-    <value>Raginti patvirtinti paleidžiant kitą „Roblox“ serverį</value>
+    <value>Raidījums apstiprināt, kad tiek palaists cits Roblox gadījums</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Konfigūruokite, ką „Multistrap“ turėtų daryti paleidžiant „Roblox“.</value>
+    <value>Konfigurējiet, kas Multistrap jādara, palaižot Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
-    <value>Kitą kartą paleidus „Roblox“ bus įdiegta nauja.</value>
+    <value>Roblox tiks instalēts svaigs nākamajā palaišanas reizē.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
-    <value>Priversti „Roblox“ diegti iš naujo</value>
+    <value>Piespiedu Roblox pārinstalēšana</value>
   </data>
   <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
-    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+    <value>Ļauj vienlaicīgi atvērt vairāk nekā vienu Roblox spēles klienta gadījumu.</value>
   </data>
   <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
-    <value>Allow multi-instance launching</value>
+    <value>Atļaut vairāku instanču palaišanu</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
-    <value>Pakopinė paleidyklė</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.FastFlagEditor.AddNew" xml:space="preserve">
-    <value>Pridėti naują</value>
+    <value>Pievienot jaunu</value>
   </data>
   <data name="Menu.FastFlagEditor.AlreadyExists" xml:space="preserve">
-    <value>Šio gairelės pavadinimo įrašas jau egzistuoja.</value>
+    <value>Ieraksts ar šo karoga nosaukumu jau pastāv.</value>
   </data>
   <data name="Menu.FastFlagEditor.Back" xml:space="preserve">
-    <value>Atgal</value>
+    <value>Atpakaļ</value>
   </data>
   <data name="Menu.FastFlagEditor.BannerText" xml:space="preserve">
-    <value>Netinkamai naudojant šią funkciją, gali atsirasti nestabilumas arba įvykti netikėtų dalykų.</value>
+    <value>Nepareiza tās izmantošana var izraisīt nestabilitāti vai neparedzētus notikumus.</value>
     <comment>The element that this string is rendered in *cannot be wrapped* and may be truncated when displayed if too long. If so, try and paraphrase a shortened version.</comment>
   </data>
   <data name="Menu.FastFlagEditor.BannerTitle" xml:space="preserve">
-    <value>Naudoti atsargiai.</value>
+    <value>Lietojiet piesardzīgi.</value>
   </data>
   <data name="Menu.FastFlagEditor.ConflictingImport" xml:space="preserve">
-    <value>Kai kurių gairelių, kurias bandote importuoti, reikšmės jau turi nustatytos. Ar norėtumėte dabartines jų reikšmes perrašyti importuojant nustatytomis reikšmėmis?
+    <value>Dažiem karodziņiem, kurus mēģināt importēt, jau ir iestatītas vērtības. Vai vēlaties pārrakstīt to pašreizējās vērtības ar importēšanas laikā noteiktajām?
 
-Yra {0} konfliktuojančių gairelių apibrėžčių:
+Ir {0} konfliktējošas karogu definīcijas:
 {1}</value>
     <comment>{0} is a number, {1} is a comma-separated list</comment>
   </data>
   <data name="Menu.FastFlagEditor.DeleteSelected" xml:space="preserve">
-    <value>Ištrinti pasirinktą</value>
+    <value>Dzēst atlasīto</value>
   </data>
   <data name="Menu.FastFlagEditor.Description" xml:space="preserve">
-    <value>Tvarkykite savo „Fast Flags“. Norėdami redaguoti, du kartus spustelėkite stulpelį.</value>
+    <value>Pārvaldiet savus ātros karogus. Divreiz noklikšķiniet uz kolonnas, lai to rediģētu.</value>
   </data>
   <data name="Menu.FastFlagEditor.ExportJson" xml:space="preserve">
-    <value>Eksportuoti JSON</value>
+    <value>Eksportēt JSON</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidCharacter" xml:space="preserve">
-    <value>Elementas „{0}“ netinkamas, nes pavadinimą gali sudaryti tik raidės, skaičiai ir pabraukimai.</value>
+    <value>Ieraksts "{0}" nav derīgs, jo nosaukumā var būt tikai burti, cipari un pasvītrojumi</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidJSON" xml:space="preserve">
-    <value>Jūsų įvestas JSON neatrodo netinkamas. Patikrinkite jį dar kartą ir bandykite dar kartą.
+    <value>Jūsu ievadītais JSON nav derīgs. Lūdzu, pārbaudiet to vēlreiz un mēģiniet vēlreiz.
 
-Daugiau informacijos:
+Vairāk informācijas:
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPrefix" xml:space="preserve">
-    <value>Elementas „{0}“ netinkamas, nes pavadinimas turi prasidėti raidėmis FFlag, DFInt ir t. t.</value>
+    <value>Ieraksts '{0}' nav derīgs, jo nosaukumam jāsākas ar FFlag, DFInt utt</value>
   </data>
   <data name="Menu.FastFlagEditor.JsonCopiedToClipboard" xml:space="preserve">
-    <value>Nukopijuota į iškarpinę.</value>
+    <value>Kopēts uz starpliktuvi.</value>
   </data>
   <data name="Menu.FastFlagEditor.LargeConfig" xml:space="preserve">
-    <value>Atrodo, kad importuojate labai didelę konfigūraciją. Turėtumėte importuoti tik tas konfigūracijas, kurias visiškai suprantate. Negalite aklai įklijuoti kitų žmonių sukurtų konfigūracijų. Jei tęsite toliau, labai tikėtina, kad susidursite su stabilumo problemomis ir netikėtais pakeitimais.
+    <value>Šķiet, ka importējat ļoti lielu konfigurāciju. Jums vajadzētu importēt tikai tās konfigurācijas, kuras pilnībā saprotat. Neielīmējiet citu cilvēku izveidotas konfigurācijas akli. Ja turpināsiet, ļoti iespējams, ka radīsies stabilitātes problēmas un saskarsieties ar neparedzētām izmaiņām.
 
-Ar tikrai norite tęsti?</value>
+Vai esat pārliecināts, ka vēlaties turpināt?</value>
   </data>
   <data name="Menu.FastFlagEditor.Search" xml:space="preserve">
-    <value>Ieškoti</value>
+    <value>Meklēšana</value>
   </data>
   <data name="Menu.FastFlagEditor.ShowPresetFlags" xml:space="preserve">
-    <value>Rodyti išankstinių nustatytų gairelių</value>
+    <value>Rādīt iepriekš iestatītos karogus</value>
   </data>
   <data name="Menu.FastFlagEditor.Title" xml:space="preserve">
-    <value>„Fast Flag“ rengyklė</value>
+    <value>Fast Flag redaktors</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Back" xml:space="preserve">
-    <value>Eiti atgal</value>
+    <value>Atgriezties</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Continue" xml:space="preserve">
-    <value>Žinau, ką darau</value>
+    <value>Es zinu, ko daru</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Header" xml:space="preserve">
-    <value>Ar žinote, ką darote?</value>
+    <value>Vai jūs zināt, ko darāt?</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Text" xml:space="preserve">
-    <value>„Fast Flags“ yra labai galingos, nes jos skirtos naudoti tik „Roblox“ inžinieriams. Nors jos gali būti labai naudingos, rankiniai jų konfigūruoti gali sukelti rimtų stabilumo ir funkcionalumo problemų. Nenaudokite rengyklės, jei nesate tikri, ką darote.
+    <value>Ātrie karodziņi ir ļoti spēcīgi, jo tos ir paredzēts izmantot tikai Roblox inženieriem. Lai gan tie var būt ļoti noderīgi, to manuāla konfigurēšana var radīt nopietnas problēmas ar stabilitāti un funkcionalitāti. Nelietojiet redaktoru, ja neesat pārliecināts par to, ko darāt.
 
-Nenaudokite jo importuoti didelių kitų žmonių sudarytų „gairelių sąrašų“, kurie žada pagerinti našumą ar pan. Jiems gali kilti anksčiau minėtų problemų, be to, jie sukels jums problemų, nes jūs iki galo nežinosite, ką jie keičia. Jei ketinate tai daryti, grįžkite atgal.</value>
+NEIZMANTOJIET to, lai importētu lielus "karogu sarakstus", ko izveidojuši citi cilvēki un kas sola uzlabot veiktspēju vai tamlīdzīgi. Uz tiem attiecas iepriekš minētās problēmas, un tie radīs jums problēmas, jo jūs pilnībā nezināsiet, ko tie maina. Ja esat gatavojies to darīt, ATGRIEZIETIES ATPAKAĻ.</value>
   </data>
   <data name="Menu.FastFlags.Description" xml:space="preserve">
-    <value>Valdykite, kaip konfigūruojami konkretūs „Roblox“ variklio parametrai ir funkcijos.</value>
+    <value>Kontrolējiet, kā tiek konfigurēti konkrēti Roblox dzinēja parametri un funkcijas.</value>
   </data>
   <data name="Menu.FastFlags.Editor.Description" xml:space="preserve">
-    <value>Tvarkykite savo „Fast Flags“. Naudokite atsargiai.</value>
+    <value>Pārvaldiet savus ātros karogus. Izmantojiet piesardzīgi.</value>
     <comment>Title is Menu.FastFlagEditor.Title</comment>
   </data>
   <data name="Menu.FastFlags.Help.Description" xml:space="preserve">
-    <value>Sužinokite daugiau apie „Fast Flags“, ką šie išankstiniai nustatymai daro ir kaip juos naudoti.</value>
+    <value>Uzziniet vairāk par ātriem karodziņiem, šo iestatījumu funkcijām un to lietošanu.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.FastFlags.Presets.D3DExclusiveFullscreenInfo" xml:space="preserve">
-    <value>„Direct3D“ [išskirtinis visas ekranas]({0}) naudojant Alt+Enter jau įjungtas pagal numatytuosius nustatymus.</value>
+    <value>Direct3D [ekskluzīvs pilnekrāna režīms]({0}), izmantojot Alt+Enter, ir iespējots pēc noklusējuma.</value>
   </data>
   <data name="Menu.FastFlags.Presets.EscapeMenuVersion.Title" xml:space="preserve">
-    <value>Pageidaujama grįžimo meniu versija</value>
+    <value>Vēlamā escape izvēlnes versija</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Description" xml:space="preserve">
-    <value>„Roblox“ sumažina atvaizdavimo kokybę, priklausomai nuo to, kaip „Windows“ ekrane yra keičiamas mastelis.</value>
+    <value>Roblox samazina atveidošanas kvalitāti atkarībā no tā, kā jūsu displejs ir mērogots operētājsistēmā Windows.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Title" xml:space="preserve">
-    <value>Išsaugoti atvaizdavimo kokybę su ekrano masteliu</value>
+    <value>Rādīšanas kvalitātes saglabāšana, izmantojot displeja mērogošanu</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Description" xml:space="preserve">
-    <value>Nustatykite 0 kaip numatytąsias reikšmes, jei norite naudoti „Roblox“ vietinį kadrų spartos atsklęsdyklę.</value>
+    <value>Iestatiet 0 kā noklusējuma iestatījumu, ja vēlaties izmantot Roblox framerate atbloķētāju.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Title" xml:space="preserve">
-    <value>Kadrų dažnio riba</value>
+    <value>Kadru ātruma ierobežojums</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Perjungta su [spartiečiais klavišais]({0}). Veikia tik jei esate [„Multistrap“ grupėje]({1}).</value>
+    <value>Pārslēdzams ar [tastatūras saīsnēm]({0}). Darbojas tikai tad, ja esat [Multistrap grupā]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
-    <value>Įjungti galimybę paslėpti grafinės sąsajas</value>
+    <value>Iespēja paslēpt GUI</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Description" xml:space="preserve">
-    <value>Išrinktasis bus priverstiniai įjungtas visuose žaidimuose. [Saugokitės, gali kilti apšvietimo problemų!]({0})</value>
+    <value>Izvēlētais tiks piespiedu kārtā ieslēgts visās spēlēs. [Uzmanieties, var rasties problēmas ar apgaismojumu!]({0})</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Title" xml:space="preserve">
-    <value>Pageidaujama apšvietimo technologija</value>
+    <value>Vēlamā apgaismojuma tehnoloģija</value>
   </data>
   <data name="Menu.FastFlags.Presets.RenderingMode.Title" xml:space="preserve">
-    <value>Atvaizdavimo režimas</value>
+    <value>Renderošanas režīms</value>
   </data>
   <data name="Menu.FastFlags.Title" xml:space="preserve">
-    <value>Variklio nustatymai</value>
+    <value>Dzinēja iestatījumi</value>
   </data>
   <data name="Menu.FontFiles" xml:space="preserve">
-    <value>Sriftų failai</value>
+    <value>Fontu faili</value>
   </data>
   <data name="Menu.IconFiles" xml:space="preserve">
-    <value>Piktogramų failai</value>
+    <value>Ikonu faili</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Čia negalima įdiegti „Multistrap“. Pasirinkite kitą vietą arba naudokite numatytąją vietą spustelėdami mygtuką Atkurti.</value>
+    <value>Šeit nevar instalēt Multistrap. Lūdzu, izvēlieties citu atrašanās vietu vai izmantojiet noklusējuma atrašanās vietu, noklikšķinot uz pogas Atiestatīt.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>Aplankas, į kurį pasirinkote įdiegti „Multistrap“, jau egzistuoja ir nėra tuščias. Labai rekomenduojama „Multistrap“ įdiegti į atskirą aplanką.
+    <value>Mapē, kurā esat izvēlējies instalēt Multistrap, jau pastāv un tā NAV tukša. Ir ļoti ieteicams Multistrap instalēt atsevišķā mapē.
 
-Siūloma pakeisti šią vietą:
+Ieteicams mainīt atrašanās vietu uz šādu:
 {0}
 
-Ar norite pakeisti į siūlomą vietą?
-Pasirinkus Ne, šis įspėjimas bus ignoruojamas ir diegimas bus tęsiamas.</value>
+Vai vēlaties mainīt uz ieteikto atrašanās vietu?
+Izvēloties "Nē", šis brīdinājums tiks ignorēts un instalēšana tiks turpināta.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
-    <value>Turite nustatyti diegimo vietą.</value>
+    <value>Jānosaka instalēšanas vieta</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>„Multistrap“ neturi rašymo prieigos prie pasirinktos diegimo vietos. Pasirinkite kitą vietą.</value>
+    <value>Programmai Multistrap nav rakstīšanas piekļuves jūsu izvēlētajai instalēšanas vietai. Lūdzu, izvēlieties citu atrašanās vietu.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
-    <value>Veiklos sekimas</value>
+    <value>Aktivitātes izsekošana</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Description" xml:space="preserve">
-    <value>Leidžia bet kam prisijungti prie žaidimo, kuriame šiuo metu žaidžiate, per „Discord“ profilį.</value>
+    <value>Ļauj ikvienam pievienoties spēlei, kurā pašlaik atrodaties, izmantojot jūsu Discord profilu.</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Title" xml:space="preserve">
-    <value>Leisti prisijungti prie veiklos</value>
+    <value>Atļaut darbības pievienošanu</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Description" xml:space="preserve">
-    <value>Rodo „Roblox“ paskyrą, su kuria žaidžiate „Discord“ profilyje.</value>
+    <value>Rāda Roblox kontu, ar kuru spēlējat savā Discord profilā.</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Title" xml:space="preserve">
-    <value>Rodyti „Roblox“ paskyrą</value>
+    <value>Rādīt Roblox kontu</value>
   </data>
   <data name="Menu.Integrations.Custom.AppLocation" xml:space="preserve">
-    <value>Programos vieta</value>
+    <value>Aplikācijas atrašanās vieta</value>
   </data>
   <data name="Menu.Integrations.Custom.AutoClose" xml:space="preserve">
-    <value>Automatiškai uždaryti, kai „Roblox“ užsidaro</value>
+    <value>Automātiska aizvēršana, kad Roblox aizveras</value>
   </data>
   <data name="Menu.Integrations.Custom.Description" xml:space="preserve">
-    <value>Čia galite automatiškai paleisti kitas programas kartu su „Roblox“.</value>
+    <value>Šeit varat automātiski palaist citas programmas, kas tiek palaistas kopā ar Roblox.</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs" xml:space="preserve">
-    <value>Paleisti argumentus</value>
+    <value>Palaišanas argumenti</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs.Placeholder" xml:space="preserve">
-    <value>„Roblox“ paleistas!</value>
+    <value>Roblox darbojas!</value>
   </data>
   <data name="Menu.Integrations.Custom.NewIntegration" xml:space="preserve">
-    <value>Nauja integracija</value>
+    <value>Jauna integrācija</value>
   </data>
   <data name="Menu.Integrations.Custom.NoneSelected" xml:space="preserve">
-    <value>Integracija nepasirinkta. Pasirinkite arba pridėkite naują integraciją.</value>
+    <value>Nav izvēlēta integrācija, lūdzu, izvēlieties vai pievienojiet jaunu</value>
   </data>
   <data name="Menu.Integrations.Custom.Title" xml:space="preserve">
-    <value>Pasirinktinės integracijos</value>
+    <value>Custom integrācijas</value>
   </data>
   <data name="Menu.Integrations.Description" xml:space="preserve">
-    <value>Sukonfigūruokite papildomas funkcijas, kurios būtų naudojamos kartu su „Roblox“.</value>
+    <value>Konfigurējiet papildu funkcionalitāti, lai to izmantotu kopā ar Roblox.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Description" xml:space="preserve">
-    <value>„Roblox“ visiškai užsidarys, kai paliksite iš žaidimo, vietoj grąžinti jus atgal į programą.</value>
+    <value>Roblox pilnībā aizveras, kad atstājat spēli, tā vietā, lai jūs atgrieztos lietotnē.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Title" xml:space="preserve">
-    <value>Neišeiti iki darbalaukio programos</value>
+    <value>Neiziet uz darbvirsmas lietotni</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Leidžia „Multistrap“ nustatyti, kokį „Roblox“ žaidimą žaidžiate. Tam tikroms funkcijoms to gali prireikti.</value>
+    <value>Ļauj Multistrap noteikt, kādu Roblox spēli tu spēlē. Dažām funkcijām tas var būt nepieciešams.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
-    <value>Įjungti veiklos sekimą</value>
+    <value>Aktivitātes izsekošanas iespējošana</value>
   </data>
   <data name="Menu.Integrations.RequiresActivityTracking" xml:space="preserve">
-    <value>Šiai funkcijai reikia, kad būtų įjungtas veiklos sekimas ir įdiegta bei paleista „Discord“ darbalaukio programėlė. [Sužinoti daugiau]({0}).</value>
+    <value>Šai funkcijai ir jābūt iespējotai aktivitātes izsekošanai un jābūt instalētai un darbinātai Discord datora lietotnei. [Uzzināt vairāk]({0}).</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Description" xml:space="preserve">
-    <value>Jūsų „Discord“ profilyje bus rodomas „Roblox“ žaidimas, kurį žaidžiate. [Neveikia?]({0})</value>
+    <value>Roblox spēle, kuru spēlējat, būs redzama jūsu Discord profilā. [Nedarbojas?]({0})</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Title" xml:space="preserve">
-    <value>Rodyti žaidimo veiklą</value>
+    <value>Rādīt spēles aktivitāti</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Description" xml:space="preserve">
-    <value>Žaidimo metu galėsite matyti, kur yra jūsų serveris, naudojant [ipinfo.io]({0}).</value>
+    <value>Spēlē, izmantojot [ipinfo.io]({0}), varēsiet redzēt, kur atrodas jūsu serveris.</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Title" xml:space="preserve">
-    <value>Užklausos serverio vieta</value>
+    <value>Vaicājuma servera atrašanās vieta</value>
   </data>
   <data name="Menu.Integrations.Title" xml:space="preserve">
-    <value>Integracijos</value>
+    <value>Integrācijas</value>
   </data>
   <data name="Menu.Mods.Description" xml:space="preserve">
-    <value>Tvarkykite ir taikykite failų modifikacijas „Roblox“ žaidimo klientui.</value>
+    <value>Pārvaldiet un piemērojiet failu modus Roblox spēles klientam.</value>
   </data>
   <data name="Menu.Mods.Help.Description" xml:space="preserve">
-    <value>Žiūrėkite informaciją, kaip tvarkyti ir sukurti modifikacijas.</value>
+    <value>Skatiet informāciju par modu pārvaldību un izveidi.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Choose" xml:space="preserve">
-    <value>Pasirinkti šriftą...</value>
+    <value>Izvēlieties fontu...</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Description" xml:space="preserve">
-    <value>Šrifto dydį galima koreguoti skirtuke „Fast Flags“.</value>
+    <value>Fonta lielumu var pielāgot cilnē Fast Flags.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Invalid" xml:space="preserve">
-    <value>Atrodo, kad jūsų pasirinktas failas nėra tinkamas šrifto failas.</value>
+    <value>Izvēlētais fails, šķiet, nav derīgs fonta fails.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Remove" xml:space="preserve">
-    <value>Pašalinti taikomą šriftą</value>
+    <value>Noņemt piemēroto fontu</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Title" xml:space="preserve">
-    <value>Naudoti pasirinktinį šriftą</value>
+    <value>Izmantot custom fontu</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Description" xml:space="preserve">
-    <value>Tvarkykite pasirinktinius „Roblox“ modifikacijas čia.</value>
+    <value>Pārvaldiet pielāgotus Roblox modus šeit.</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Title" xml:space="preserve">
-    <value>Atidaryti modifikacijų aplanką</value>
+    <value>Atveriet Mods mapi</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Description" xml:space="preserve">
-    <value>Pasirinkite, kokio tipo jaustukas turėtų naudoti „Roblox“.</value>
+    <value>Izvēlieties, kāda veida emodži būtu jāizmanto Roblox.</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Title" xml:space="preserve">
-    <value>Pageidaujamas jaustuko tipas</value>
+    <value>Vēlamais emodži veids</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Description" xml:space="preserve">
-    <value>Pasirinkite iš dviejų klasikinių „Roblox“ žymeklių stilių.</value>
+    <value>Izvēlieties izmantot divus klasiskos Roblox kursoru stilus.</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Title" xml:space="preserve">
-    <value>Pelės žymeklis</value>
+    <value>Peles kursors</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Description" xml:space="preserve">
-    <value>Sugrąžinkite senąjį avataro rengyklės foną, naudotą „Roblox“ programoje iki 2020 m.</value>
+    <value>Atgrieziet veco avatāru redaktora fonu, kas tika izmantots Roblox lietotnē pirms 2020. gada.</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Title" xml:space="preserve">
-    <value>Naudoti seną avataro rengyklės foną</value>
+    <value>Izmantot veco avatāru redaktora fonu</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Description" xml:space="preserve">
-    <value>Bandymas apytiksliai sugrąžinti iki 2014 m. veikėjo naudotus garsus.</value>
+    <value>Mēģinājums aptuveni atjaunot līdz 2014. gadam izmantotās rakstzīmju skaņas.</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Title" xml:space="preserve">
-    <value>Imituoti senus veikėjo garsus</value>
+    <value>Atdariniet vecās rakstzīmju skaņas</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Description" xml:space="preserve">
-    <value>Sugrąžinkite klasikinį „oof“ mirties garsą.</value>
+    <value>Atgrieziet klasisko "oof" nāves skaņu.</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Title" xml:space="preserve">
-    <value>Naudoti seną mirties garsą</value>
+    <value>Izmantot veco nāves skaņu</value>
   </data>
   <data name="Menu.Mods.Title" xml:space="preserve">
-    <value>Modifikacijos</value>
+    <value>Moduļi</value>
   </data>
   <data name="Menu.MoreInfo" xml:space="preserve">
-    <value>Spustelėkite, jei norite gauti daugiau informacijos apie šią parinktį.</value>
+    <value>Noklikšķiniet, lai iegūtu vairāk informācijas par šo iespēju.</value>
   </data>
   <data name="Menu.Save" xml:space="preserve">
-    <value>Išsaugoti</value>
+    <value>Saglabāt</value>
   </data>
   <data name="Menu.SettingsSaved.Message" xml:space="preserve">
-    <value>Pakeitimai veiks kitą kartą paleidus „Roblox“.</value>
+    <value>Izmaiņas stāsies spēkā nākamreiz, kad iedarbināsiet Roblox.</value>
   </data>
   <data name="Menu.SettingsSaved.Title" xml:space="preserve">
-    <value>Nustatymai išsaugoti!</value>
+    <value>Iestatījumi saglabāti!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>„Multistrap“ nustatymai</value>
+    <value>Multistrap iestatījumi</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
-    <value>Pasirinkite pageidaujamą kalbą</value>
+    <value>Izvēlieties vēlamo valodu</value>
   </data>
   <data name="Dialog.LanguageSelector.Subtext" xml:space="preserve">
-    <value>Prieš tęsiant diegimą, pasirinkite kalbą.</value>
+    <value>Pirms instalēšanas turpināšanas izvēlieties valodu.</value>
   </data>
   <data name="Menu.Appearance.Language.Title" xml:space="preserve">
-    <value>Kalba</value>
+    <value>Valoda</value>
   </data>
   <data name="Menu.Appearance.Language.Description" xml:space="preserve">
-    <value>Kad pakeitimai veiktų, reikia paleisti iš naujo.</value>
+    <value>Lai izmaiņas stātos spēkā, ir jāveic atkārtota palaišana.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Title" xml:space="preserve">
-    <value>Leisti naudoti nepalaikomas „Roblox“ kalbas</value>
+    <value>Atļaut izmantot neatbalstītas Roblox valodas</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Description" xml:space="preserve">
-    <value>Taikoma tik iš „Roblox“ svetainės paleistiems žaidimams.</value>
+    <value>Tas attiecas tikai uz spēlēm, kas ir sāktas no Roblox vietnes.</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V4Chrome" xml:space="preserve">
-    <value>2023 m. (4 ver. + nauja naudotojo sąsaja)</value>
+    <value>2023 (V4 + jauna UI)</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.Rendering" xml:space="preserve">
-    <value>Atvaizdavimas ir grafika</value>
+    <value>Kārtošana un grafika</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.UserInterface" xml:space="preserve">
-    <value>Naudotojo sąsaja ir išdėstymas</value>
+    <value>Lietotāja saskarne un izkārtojums</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Leisti „Multistrap“ tvarkyti „Fast Flags“</value>
+    <value>Ļaujiet Multistrap pārvaldīt Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
-    <value>Išjungus šią funkciją, „Roblox“ nebus taikoma jokia čia sukonfigūruota funkcija.</value>
+    <value>Ja šo opciju atspējosiet, Roblox netiks piemērotas nekādas šeit konfigurētās opcijas.</value>
   </data>
   <data name="Menu.FastFlags.Presets.MSAA.Title" xml:space="preserve">
-    <value>Glodinimo kokybė (MSAA)</value>
+    <value>Izlīdzināšanas novēršanas kvalitāte (MSAA)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePostFX.Title" xml:space="preserve">
-    <value>Išjungti tolesnio apdorojimo efektus</value>
+    <value>Izslēgt pēcapstrādes efektus</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Title" xml:space="preserve">
-    <value>Išjungti viso ekrano lango antraštės juostą</value>
+    <value>Pilnekrāna virsraksta joslas atspējošana</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Description" xml:space="preserve">
-    <value>Sustabdo jį rodyti, kai pelę perkeliate į ekrano viršų.</value>
+    <value>Aptur tā rādīšanu, kad vien pārceļat peli uz ekrāna augšējo daļu.</value>
   </data>
   <data name="Menu.FastFlags.Presets.TextureQuality.Title" xml:space="preserve">
-    <value>Tekstūros kokybė</value>
+    <value>Tekstūras kvalitāte</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level0" xml:space="preserve">
-    <value>0 lygis (žemiausia)</value>
+    <value>0 līmenis (zemākais)</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level1" xml:space="preserve">
-    <value>1 lygis</value>
+    <value>1. līmenis</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level2" xml:space="preserve">
-    <value>2 lygis</value>
+    <value>2. līmenis</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level3" xml:space="preserve">
-    <value>3 lygis (aukščiausia)</value>
+    <value>3. līmenis (augstākais)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePlayerShadows.Title" xml:space="preserve">
-    <value>Išjungti žaidėjų šešėlius</value>
+    <value>Atslēgt spēlētāju ēnas</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Title" xml:space="preserve">
-    <value>Šrifto dydis</value>
+    <value>Fonta lielums</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Description" xml:space="preserve">
-    <value>Numatytoji reikšmė – 1. Jei naudojate pasirinktinį šriftą, pakoreguokite.</value>
+    <value>Noklusējuma vērtība ir 1. Pielāgojiet, ja izmantojat pielāgotu fontu.</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisableTerrainTextures.Title" xml:space="preserve">
-    <value>Išjungti vietovės tekstūras</value>
+    <value>Atslēgt reljefa tekstūras</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>„Multistrap“ nepavyksta atsisiųsti „Roblox“</value>
+    <value>Multistrap nevar lejupielādēt Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
-    <value>„Roblox“ šiuo metu atsisiųsti negalima. Skaitykite toliau esantį pagalbos puslapį dėl papildomos informacijos: {0}</value>
+    <value>Roblox šobrīd nav iespējams lejupielādēt. Lai iegūtu vairāk informācijas, lūdzu, izlasiet šo palīdzības lapu: {0}</value>
     <comment>{0} is a URL</comment>
   </data>
   <data name="Common.ImportFromFile" xml:space="preserve">
-    <value>Importuoti iš failo</value>
+    <value>Importēt no faila</value>
   </data>
   <data name="FileTypes.JSONFiles" xml:space="preserve">
-    <value>JSON failai</value>
+    <value>JSON faili</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidBoolValue" xml:space="preserve">
-    <value>Elementas „{0}“ netinkamas, nes reikšmė turi būti loginis rodiklis (arba „True“, arba „False“).</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vērtībai jābūt boolean (vai nu "True", vai "False")</value>
     <comment>Do not translate 'True' and 'False', those must stay in English</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidNumberValue" xml:space="preserve">
-    <value>Elementas „{0}“ netinkamas, nes reikšmė turi būti skaičius.</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vērtībai jābūt skaitlim</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Šis paleidimas nebus įrašytas į žurnalą, nes „Multistrap“ nepavyksta įrašyti į aplanką adresu „{0}“.</value>
+    <value>Par šo palaišanu netiks uzrakstīts žurnāla fails, jo Multistrap nespēj rakstīt uz mapi '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
-    <value>Numatytasis</value>
+    <value>Noklusējuma</value>
   </data>
   <data name="Common.Automatic" xml:space="preserve">
-    <value>Automatinis</value>
+    <value>Automātiskais</value>
   </data>
   <data name="Common.SystemDefault" xml:space="preserve">
-    <value>Sistemos numatytasis</value>
+    <value>Sistēmas noklusējuma iestatījumi</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPlaceFilter" xml:space="preserve">
-    <value>Elementas „{0}“ netinkamas, nes vietos filtras suformatuotas neteisingai.</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vietas filtrs nav pareizi formatēts.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>„Multistrap“ diegyklė</value>
+    <value>Multistrap Instalētājs</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
-    <value>Sveiki atvykę</value>
+    <value>Laipni lūdzam</value>
   </data>
   <data name="Installer.Install.Title" xml:space="preserve">
-    <value>Diegti</value>
+    <value>Instalēt</value>
     <comment>Refers to "Install" as a verb</comment>
   </data>
   <data name="Installer.Completion.Title" xml:space="preserve">
-    <value>Užbaigimas</value>
+    <value>Pabeigšana</value>
   </data>
   <data name="Common.Navigation.Back" xml:space="preserve">
-    <value>Grįžti</value>
+    <value>Atpakaļ</value>
   </data>
   <data name="Common.Navigation.Next" xml:space="preserve">
-    <value>Toliau</value>
+    <value>Nākamais</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Dėkojame, kad atsisiuntėte „Multistrap“. 
+    <value>Paldies, ka lejupielādējāt Multistrap. 
 
-Vienintelės oficialios svetainės, iš kurių galima atsisiųsti „Multistrap“, yra {0} ir {1}, todėl patikrinkite, ar ją gavote iš oficialaus šaltinio.
+Vienīgās oficiālās vietnes, no kurām var lejupielādēt Multistrap, ir {0} un {1}, tāpēc, lūdzu, pārbaudiet, vai tas ir iegūts no oficiāla avota.
 
-Šis diegimo procesas bus greitas ir paprastas, o įdiegus galėsite konfigūruoti bet kokius „Multistrap“ nustatymus.</value>
+Šis instalēšanas process būs ātrs un vienkāršs, un pēc instalēšanas varēsiet konfigurēt jebkurus Multistrap iestatījumus.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
-    <value>Spustelėkite Toliau, kad tęstumėte.</value>
+    <value>Lai turpinātu, noklikšķiniet uz "Tālāk".</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>Bandote įdiegti {0} „Multistrap“ versiją, bet naujausia versija yra {1}. Ar norėtumėte ją atsisiųsti?</value>
+    <value>Jūs mēģināt instalēt Multistrap versiju {0}, taču jaunākā pieejamā versija ir {1}. Vai vēlaties to lejupielādēt?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
-    <value>Pasirinkite, kur įdiegti</value>
+    <value>Izvēlieties, kur instalēt</value>
   </data>
   <data name="Installer.Install.Location.Text" xml:space="preserve">
-    <value>„Roblox“ taip pat bus įdiegtas į šį kelią. Jei norite visus žaidimus įdiegti į atskirą diską, pakeiskite tai. Kitaip rekomenduojama palikti šį kelią tokį, koks jis yra.</value>
+    <value>Šajā ceļā tiks instalēts arī Roblox. Ja vēlaties visas spēles instalēt atsevišķā diskā, mainiet šo iestatījumu. Pretējā gadījumā ieteicams saglabāt šo ceļu tādu, kāds tas ir.</value>
   </data>
   <data name="Installer.Install.Location.DataFound" xml:space="preserve">
-    <value>Rasti esami duomenys. Jūsų modifikacijos ir nustatymai bus atkurti.</value>
+    <value>Atrasti esošie dati. Jūsu modi un iestatījumi tiks atjaunoti.</value>
   </data>
   <data name="Common.Shortcuts" xml:space="preserve">
-    <value>Nuorodos</value>
+    <value>Īsceļi</value>
   </data>
   <data name="Common.Shortcuts.Desktop" xml:space="preserve">
-    <value>Darbalaukio piktograma</value>
+    <value>Darbvirsmas ikona</value>
   </data>
   <data name="Common.Shortcuts.StartMenu" xml:space="preserve">
-    <value>Pradžios meniu piktograma</value>
+    <value>Sākuma izvēlnes ikona</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>„Multistrap“ sėkmingai įdiegta.
+    <value>Multistrap ir veiksmīgi instalēts.
 
-„Roblox“ dar neįdiegtas, tai įvyks, kai pirmą kartą jį paleisite su „Multistrap“. Tačiau prieš tai galbūt norėsite pirmiausia sukonfigūruoti „Multistrap“ nustatymus.
+Roblox vēl nav instalēts, tas notiks, kad pirmo reizi to iedarbināsiet ar Multistrap. Tomēr, pirms to darāt, vispirms varat konfigurēt Multistrap iestatījumus.
 
-Be to, venkite naudoti „Roblox Player“ nuorodą „Roblox“ paleisti, nes „Multistrap“ nebus paleista kartu su „Roblox“. Jei paleidžiant iš svetainės nematote, kad rodomas „Multistrap“, tiesiog vieną kartą paleiskite „Roblox“ su „Multistrap“ iš darbalaukio, kad tai išspręstumėte.
+Izvairieties arī no "Roblox Player" saīsnes izmantošanas, lai palaistu Roblox, jo Multistrap netiks palaists kopā ar Roblox. Ja, palaižot no tīmekļa vietnes, nerādās Multistrap, vienkārši palaidiet Roblox ar Multistrap vienu reizi no darbvirsmas, lai to novērstu.
 
-Ką norėtumėte daryti?</value>
+Ko vēlaties darīt?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Konfigūruoti „Multistrap“ nustatymus</value>
+    <value>Konfigurējiet Multistrap iestatījumus</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
-    <value>Derinkite visas siūlomas funkcijas</value>
+    <value>Tweak ar visām funkcijām, ko tā var piedāvāt</value>
   </data>
   <data name="Installer.Completion.Launch.Title" xml:space="preserve">
-    <value>Įdiegti ir paleisti „Roblox“</value>
+    <value>Instalēt un palaist Robloxu</value>
   </data>
   <data name="Installer.Completion.Launch.Description" xml:space="preserve">
-    <value>Kai viskas bus atlikta, pateksite į darbalaukio programą</value>
+    <value>Pēc tam, kad viss būs paveikts, jūs nokritīs darbvirsmas lietotnē</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Išdiegti „Multistrap“</value>
+    <value>Multistrap atinstalēšana</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Išdiegus bus pašalinta „Multistrap“ iš sistemos ir automatiškai perkonfigūruota numatytoji „Roblox“ paleidyklė, jei ji vis dar įdiegta.
+    <value>Atinstalējot noņemsiet Multistrap no sistēmas un automātiski pārkonfigurēsiet noklusējuma Roblox palaišanas programmu, ja tā joprojām ir instalēta.
 
-Jei išdiegiate arba iš naujo įdiegiate, nes turite problemų su „Roblox“, pirmiausia perskaitykite [šį pagalbos puslapį]({0}).
+Ja veicat atinstalēšanu vai pārinstalēšanu, jo jums ir problēmas ar Roblox, vispirms izlasiet [šo palīdzības lapu]({0}).
 
-Išdiegimo procesas gali nesugebėti visiškai išvalyti, todėl gali tekti rankiniu būdu valyti likusius failus, kuriuose buvo įdiegta „Multistrap“.
+Atinstalēšanas process var nespēt pilnībā attīrīt pats sevi, tāpēc var būt nepieciešams manuāli iztīrīt atlikušos failus, kuros bija instalēta programma Multistrap.
 
-„Multistrap“ buvo įdiegta vietoje „{1}“.</value>
+Multistrap tika instalēta "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
-    <value>Išlaikyti mano nustatymus ir modifikacijas</value>
+    <value>Saglabājiet manus iestatījumus un modus</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Jie bus saugomi ten, kur buvo įdiegta „Multistrap“, ir bus automatiškai atkurti įdiegus iš naujo.</value>
+    <value>Tie tiks saglabāti tur, kur tika instalēta Multistrap, un tiks automātiski atjaunoti pēc atkārtotas instalēšanas.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
-    <value>Išdiegti</value>
+    <value>Atinstalēt</value>
   </data>
   <data name="LaunchMenu.LaunchRoblox" xml:space="preserve">
-    <value>Paleisti „Roblox“</value>
+    <value>Roblox palaišana</value>
   </data>
   <data name="LaunchMenu.ConfigureSettings" xml:space="preserve">
-    <value>Konfigūruoti nustatymus</value>
+    <value>Konfigurēt iestatījumus</value>
   </data>
   <data name="LaunchMenu.Wiki.Title" xml:space="preserve">
-    <value>Turite problemų?</value>
+    <value>Ir problēmas?</value>
   </data>
   <data name="LaunchMenu.Wiki.Description" xml:space="preserve">
-    <value>Žiūrėkite viki dėl pagalbos</value>
+    <value>Lai saņemtu palīdzību, skatiet Wiki</value>
   </data>
   <data name="Bootstrapper.WebView2NotFound" xml:space="preserve">
-    <value>Šiuo metu neturite įdiegę „WebView2“ vykdyklės. Be jos kai kurios „Roblox“ funkcijos, pavyzdžiui, darbalaukio programa, neveiks tinkamai. Ar norėtumėte ją atsisiųsti dabar?</value>
+    <value>Jums pašlaik nav instalēta WebView2 izpildmehānisma programma. Dažas Roblox funkcijas bez tās nedarbosies pareizi, piemēram, darbvirsmas lietotne. Vai vēlaties to lejupielādēt tagad?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>„Multistrap“ nepavyko sukurti darbalaukio ir pradžios meniu nuorodų. Bandykite juos sukurti vėliau per nustatymus.</value>
+    <value>Multistrap nevarēja izveidot īsceļus darbvirsmā un sākuma izvēlnē. Mēģiniet tos izveidot vēlāk, izmantojot iestatījumus.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Pirmiausia patikrinkite [„Multistrap“ viki]({0}), kad sužinotumėte, ar ši problema jau išspręsta.
+    <value>Vispirms pārbaudiet [Multistrap Wiki]({0}), lai uzzinātu, vai šī problēma jau ir novērsta.
 
-Jei ne, praneškite apie šią išimtį šios atšakos prižiūrėtojams. NEPRANEŠKITE apie tai „Multistrap“ „GitHub“ problemoms, nes tai – neoficialus darinys.</value>
+Ja nē, tad, lūdzu, ziņojiet par šo izņēmumu šīs atvases uzturētājiem. NEZIŅOJIET par šo problēmu Bloxstrap GitHub problēmu sadaļā, jo šī ir neoficiāla kopija.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
-    <value>Tai – bendrosios nuorodos, kurios iškelia daugiapasirinkimų paleidimo meniu. Konkrečių funkcijų nuorodas galima sukurti vėliau nustatymuose.</value>
+    <value>Tie ir vispārīgi saīsnes taustiņi, ar kuriem tiek atvērta vairāku izvēļu palaišanas izvēlne. Īsceļus konkrētām funkcijām var izveidot vēlāk iestatījumos.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Konfigūruokite, kaip galima lengvai paleisti „Multistrap“.</value>
+    <value>Konfigurējiet, kā Multistrap var viegli palaist.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
-    <value>Bendrieji</value>
+    <value>Vispārīgi</value>
   </data>
   <data name="Menu.Shortcuts.General.Description" xml:space="preserve">
-    <value>Tai – nuorodos, kurios iškelia daugiapasirinkimų paleidimo meniu.</value>
+    <value>Šie ir saīsnes, kas izraisa vairāku izvēļu palaišanas izvēlni.</value>
   </data>
   <data name="Menu.Shortcuts.Function.Title" xml:space="preserve">
     <value>Funkcija</value>
   </data>
   <data name="Menu.Shortcuts.Function.Description" xml:space="preserve">
-    <value>Kurkite nuorodas, kad greitai pasiektumėte konkrečias funkcijas. Visos jos bus patalpintos darbalaukyje.</value>
+    <value>Izveidojiet īsceļus, lai ātri piekļūtu konkrētām funkcijām. Tie visi tiks izvietoti darbvirsmā.</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Private" xml:space="preserve">
-    <value>Prisijungta prie privataus serverio</value>
+    <value>Savienots ar privāto serveri</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Reserved" xml:space="preserve">
-    <value>Prisijungta prie rezervuoto serverio</value>
+    <value>Savienots ar rezervēto serveri</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Error" xml:space="preserve">
-    <value>Jaustukų modifikacijos šiuo metu negalima taikyti.</value>
+    <value>Pašlaik emodži modi nevar piemērot.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Installer" xml:space="preserve">
-    <value>Palaukite, kol diegimas bus baigtas.</value>
+    <value>Lūdzu, pagaidiet, līdz instalēšana tiks pabeigta.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Uninstaller" xml:space="preserve">
-    <value>Palaukite, kol išdiegimas bus baigtas.</value>
+    <value>Lūdzu, pagaidiet, līdz tiks pabeigta atinstalēšana.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>Apie „Multistrap“</value>
+    <value>Par Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
-    <value>Licencijos</value>
+    <value>Licences</value>
     <comment>Referring to code licenses; see https://opensource.org/licenses for example</comment>
   </data>
   <data name="About.Translators.Title" xml:space="preserve">
-    <value>Vertėjai</value>
+    <value>Tulkotāji</value>
   </data>
   <data name="Menu.UnsavedChanges" xml:space="preserve">
-    <value>Turite neišsaugotų pakeitimų. Ar tikrai norite uždaryti neišsaugojus?</value>
+    <value>Jums ir nesaglabātas izmaiņas. Vai esat pārliecināts, ka vēlaties aizvērt bez saglabāšanas?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>Paleista „Multistrap“ versija yra senesnė už šiuo metu įdiegtą versiją.
-Gali kilti problemų ir gali būti pakeisti jūsų nustatymai. Rekomenduojama iš naujo įdiegti.
-Ar tikrai norite tęsti?</value>
+    <value>Palaistā Multistrap versija ir vecāka par pašlaik instalēto versiju.
+Var rasties problēmas, un jūsu iestatījumi var tikt izmainīti. Ieteicams veikt atkārtotu instalēšanu.
+Vai esat pārliecināts, ka vēlaties turpināt?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
-    <value>Nepavyko paleisti „Roblox“.</value>
+    <value>Roblox neizdevās palaist.</value>
   </data>
   <data name="Dialog.PlayerError.Crash" xml:space="preserve">
-    <value>„Roblox“ sutriko.</value>
+    <value>Roblox ir avarējis.</value>
   </data>
   <data name="Dialog.PlayerError.HelpInformation" xml:space="preserve">
-    <value>Perskaitykite toliau esančią pagalbos informaciją, kuri bus atidaryta interneto naršyklėje, kai uždarysite šį dialogo langą.</value>
+    <value>Lūdzu, izlasiet tālāk sniegto palīdzības informāciju, kas tiks atvērta tīmekļa pārlūkprogrammā, kad aizvērsiet šo dialoglodziņu.</value>
   </data>
   <data name="Common.NetworkError" xml:space="preserve">
-    <value>Nepavyko įkelti duomenų dėl tinklo klaidos.</value>
+    <value>Nevar ielādēt datus tīkla kļūdas dēļ.</value>
   </data>
   <data name="Common.Loading" xml:space="preserve">
-    <value>Įkeliama. Palaukite...</value>
+    <value>Iekraušana, lūdzu, uzgaidiet...</value>
   </data>
   <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Palaikytojai</value>
+    <value>Atbalstītāji</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Tai – žmonės, šiuo metu palaikantys „Multistrap“ per [„Ko-fi“]({0}). Didelis dėkui visiems čia esantiems!</value>
+    <value>Tie ir cilvēki, kas pašlaik atbalsta Multistrap, izmantojot [Ko-fi]({0}). Liels paldies visiem šeit!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
-    <value>Nepavyko įkelti nustatymų. Jie buvo atkurti į numatytąją konfigūraciją.</value>
+    <value>Jūsu iestatījumus nevar ielādēt. Tajos ir atjaunota noklusējuma konfigurācija.</value>
   </data>
   <data name="JsonManager.FastFlagsLoadFailed" xml:space="preserve">
-    <value>Nepavyko įkelti „Fast Flags“. Jie buvo atkurti į numatytąją konfigūraciją.</value>
+    <value>Jūsu Fast Flags nevar ielādēt. Tika atjaunota noklusējuma konfigurācija.</value>
   </data>
   <data name="ContextMenu.GameHistory.Title" xml:space="preserve">
-    <value>Žaidimų istorija</value>
+    <value>Spēles vēsture</value>
   </data>
   <data name="ContextMenu.GameHistory.Rejoin" xml:space="preserve">
-    <value>Prisijungti iš naujo</value>
+    <value>Pievienojies</value>
   </data>
   <data name="ActivityWatcher.RichPresenceLoadFailed" xml:space="preserve">
-    <value>Dabartinis žaidimas nebus rodomas jūsų „Discord“ buvime, nes įvyko klaida įkeliant žaidimo informaciją.</value>
+    <value>Jūsu pašreizējā spēle nebūs redzama jūsu Discord klātbūtnē, jo, ielādējot spēles informāciju, notika kļūda.</value>
   </data>
   <data name="ContextMenu.GameHistory.Description" xml:space="preserve">
-    <value>Žaidimo istorija įrašoma tik dabartinės „Roblox“ seanso metu. Žaidimai čia bus rodomi, kai juos paliksite arba teleportuositės į juos. Ne į visus serverius bus galima prisijungti iš naujo.</value>
+    <value>Spēļu vēsture tiek ierakstīta tikai jūsu pašreizējai Roblox sesijai. Spēles šeit parādīsies, kad tās atstāsiet vai teleportēsieties tajās. Ne visos serveros būs iespējams atkārtoti pievienoties.</value>
   </data>
   <data name="ActivityWatcher.LocationQueryFailed" xml:space="preserve">
-    <value>Nepavyko užklausti serverio vietos. Gali būti, kad per greitai prisijungiate prie žaidimų.</value>
+    <value>Servera atrašanās vietu nevarēja uzmeklēt. Iespējams, jūs pārāk ātri pievienojaties spēlēm.</value>
   </data>
   <data name="Dialog.Connectivity.TryAgainLater" xml:space="preserve">
-    <value>Bandykite dar kartą vėliau.</value>
+    <value>Lūdzu, mēģiniet vēlreiz vēlāk.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeSkip" xml:space="preserve">
-    <value>Šiam paleidimui „Roblox“ nebus tikrinama, ar nėra atnaujinimų, ir modifikacijų pakeitimai nebus taikomi.</value>
+    <value>Šīs palaišanas laikā Roblox netiks pārbaudīts, vai tiek veikti jauninājumi, un netiks piemērotas izmaiņas modos.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Kadangi „Roblox“ reikia įdiegti arba atnaujinti, „Multistrap“ negalima tęsti.</value>
+    <value>Tā kā ir jāuzstāda vai jāatjaunina Roblox, Multistrap nevar turpināt.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>„Multistrap“ į šią vietą buvo įdiegta anksčiau ir vis dar yra, bet diegyklė negali perrašyti senos vykdomosios programos. 
+    <value>Multistrap šajā vietā ir bijis instalēts jau iepriekš un joprojām ir pieejams, tomēr instalētājs nevar pārrakstīt veco izpildāmo failu. 
 
-Rankiniu būdu ištrinkite Bloxstrap.exe iš diegimo vietos arba bandykite iš naujo paleisti sistemą, o po to dar kartą bandykite įdiegti.</value>
+Lūdzu, manuāli izdzēsiet Multistrap.exe no instalēšanas atrašanās vietas vai mēģiniet restartēt sistēmu un pēc tam atkārtoti mēģiniet instalēt.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
-    <value>Nepasiekiama</value>
+    <value>Nav pieejams</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Title" xml:space="preserve">
-    <value>Tvarkyti suderinamumo nustatymus</value>
+    <value>Savietojamības iestatījumu pārvaldība</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Description" xml:space="preserve">
-    <value>Konfigūruokite programos parametrus, pavyzdžiui, DPI mastelio keitimo elgseną ir [viso ekrano optimizavimą]({0}).</value>
+    <value>Konfigurējiet lietojumprogrammas parametrus, piemēram, DPI mērogošanas režīmu un [pilnekrāna optimizācijas]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>„Roblox“ kol kas neįdiegta. Prieš bandydami naudoti šią parinktį, bent kartą paleiskite „Roblox“ naudojant „Multistrap“.</value>
+    <value>Roblox vēl nav instalēts. Pirms mēģināt izmantot šo opciju, lūdzu, vismaz vienu reizi palaidiet Roblox, izmantojot Multistrap.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
-    <value>Ar tikrai norite atšaukti diegimą?</value>
+    <value>Vai esat pārliecināts, ka vēlaties atcelt instalēšanu?</value>
   </data>
   <data name="Bootstrapper.JsonManagerSaveFailed" xml:space="preserve">
-    <value>Nepavyko išsaugoti {0}: {1}</value>
+    <value>Neizdevās saglabāt {0}: {1}</value>
   </data>
   <data name="Dialog.IconLoadFailed" xml:space="preserve">
-    <value>Nepavyko įkelti pasirinktos pakopinės paleidyklės piktogramos.
+    <value>Izvēlēto bootstrapper ikonu neizdevās ielādēt.
 
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Title" xml:space="preserve">
-    <value>Išskleisti „Roblox“ piktogramas į aplanką</value>
+    <value>Izraksts Roblox ikonas mapē</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Leidžia naudoti „Multistrap“ „Roblox“ piktogramų asortimentą savo nuorodoms. [Žiūrėti, kaip.]({0})</value>
+    <value>Ļauj izmantot Multistrap piedāvāto Roblox ikonu klāstu īsceļiem. [Skatiet, kā]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>„Multistrap“ negali įrašyti į „Windows“ registrą. Greičiausiai trukdo antivirusinė programa ir sukelia problemų. Patikrinkite, ar nėra nieko, kas ribotų „Multistrap“ veikimą.</value>
+    <value>Multistrap nespēj rakstīt uz Windows reģistru. Iespējams, ka traucē un problēmas rada antivīruss. Lūdzu, pārbaudiet, vai nav nekā tāda, kas ierobežotu Multistrap darbību.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Mėnesinis</value>
+    <value>Ikmēneša</value>
   </data>
   <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Vienkartinis</value>
+    <value>Vienreizējs</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Konfigūruokite parinktis, susijusias su pačios „Multistrap“ elgsena.</value>
+    <value>Konfigurējiet opcijas, kas saistītas ar Multistrap uzvedību.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
-    <value>Įjungti analitikos siuntimą</value>
+    <value>Analītikas sūtīšanas iespējošana</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Description" xml:space="preserve">
-    <value>Tai – anonimiška ir nieko blogo, pažadame. Apie tai, ką ir kodėl renkame, žiūrėkite mūsų [privatumo politiką]({0}).</value>
+    <value>Tas ir anonīms un nekas ļauns, apsoliet. Lai uzzinātu, ko mēs apkopojam un kāpēc, skatiet mūsu [konfidencialitātes politiku]({0}).</value>
   </data>
   <data name="Common.Analytics" xml:space="preserve">
-    <value>Analitika</value>
+    <value>Analītika</value>
   </data>
   <data name="Menu.FastFlags.Reset.Title" xml:space="preserve">
-    <value>Iš naujo nustatyti viską į numatytąsias</value>
+    <value>Atiestatīt visu noklusējuma iestatījumus</value>
   </data>
   <data name="Dialog.Exception.Report" xml:space="preserve">
-    <value>Pranešti apie išimtį</value>
+    <value>Ziņot par izņēmumu</value>
   </data>
   <data name="Menu.TestMode" xml:space="preserve">
-    <value>Bandymo režimas</value>
+    <value>Testēšanas režīms</value>
     <comment>See the prompt for more context</comment>
   </data>
   <data name="Menu.TestMode.Prompt" xml:space="preserve">
-    <value>Bandymo režimas padeda lengviau kartotinai išbandyti, kaip jūsų nustatymai paveiks „Roblox“. 
+    <value>Testēšanas režīmā ir vieglāk iteratīvi pārbaudīt, kā jūsu iestatījumi ietekmē Roblox. 
 
-Kai režimas įjungtas, jis automatiškai paleis „Roblox“ uždarius nustatymus ir vėl atidarys nustatymus uždarius „Roblox“ cikle, tol, kol jį išjungsite.
+Kad šis režīms ir ieslēgts, tas automātiski iedarbina Roblox pēc iestatījumu aizvēršanas un atkal atver iestatījumus pēc Roblox aizvēršanas, un tas turpināsies tik ilgi, līdz to izslēgsiet.
 
-Ar norėtumėte įjungti bandymo režimą?</value>
+Vai vēlaties iespējot testa režīmu?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Visi „Multistrap“ vertimai sutelktinti per [„Crowdin“]({0}). Visi čia išvardyti žmonės dosniai savanoriškai skyrė savo laiką ir pastangas, kad padėtų lokalizuoti „Multistrap“. Didelis dėkui visiems esantiems čia!</value>
+    <value>Visi Multistrap tulkojumi tiek veikti ar [Crowdin] ({0}). Visi šeit uzskaitītie ir cilvēki, kuri dāsni ziedojuši savu laiku un pūles, lai palīdzētu lokalizēt Multistrap. Liels paldies ikvienam no jums!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
-    <value>Diegti</value>
+    <value>Uzstādīt</value>
     <comment>The word "Install" is being used as a verb in this instance, like the other navigation button texts of "Next" and "Back"</comment>
   </data>
   <data name="LaunchMenu.Donate" xml:space="preserve">
-    <value>Palaikyti mus platformoje „Ko-fi“!</value>
+    <value>Atbalstiet mūs Ko-fi!</value>
     <comment>Call-to-action button</comment>
   </data>
   <data name="Paths.Icons" xml:space="preserve">
-    <value>Piktogramos</value>
+    <value>Ikonas</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
   </data>
   <data name="Dialog.Exception.Version" xml:space="preserve">
-    <value>Version {0}</value>
+    <value>Versija {0}</value>
   </data>
 </root>
