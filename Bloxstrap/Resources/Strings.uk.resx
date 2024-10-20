@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap не зміг автоматично оновитися до версії {0}. Будь ласка, оновіть його вручну, завантаживши та запустивши з вебсайту.</value>
+    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox вже запущено, і запуск нового сеансу призведе до його завершення. Ви впевнені, що хочете продовжити запуск?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Ймовірно, щось заважає Bloxstrap приєднатися до інтернету.</value>
+    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox може зараз не працювати. Дивіться {0} для отримання додаткової інформації.</value>
@@ -133,10 +133,10 @@
     <value>Час з'єднання вичерпано, що може вказувати на погане інтернет-з'єднання або блокування брандмауером.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Ви маєте спочатку встановити Bloxstrap, перед його видаленням.</value>
+    <value>You must first install Multistrap before uninstalling.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Bloxstrap не вистачає місця на диску, щоб завантажити та встановити Roblox. Будь ласка, звільніть місце на диску і спробуйте знову.</value>
+    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Застосовуємо модифікації Roblox...</value>
@@ -161,7 +161,7 @@
     <value>Оновлюємо {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Отримання останньої версії Bloxstrap...</value>
+    <value>Getting the latest Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>Чекаємо на інші інстанції...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap було успішно деінстальовано</value>
+    <value>Multistrap has successfully uninstalled</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Перед деінсталяцією Bloxstrap необхідно закрити Roblox. Бажаєте зараз закрити Roblox?</value>
+    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>Roblox вимагає використання компонентів Windows Media Foundation. Схоже що вони відсутні, ймовірно, тому що ви використовуєте видання Windows N. Будь ласка, спочатку встановіть їх, а потім запустіть Roblox.</value>
@@ -282,22 +282,22 @@
     <value>Помилка підключення</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap не може під'єднатися до {0}</value>
+    <value>Multistrap is unable to connect to {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>Копіювати вміст логів</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>Під час запуску Bloxstrap виникла помилка</value>
+    <value>An exception occurred while running Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Перевірте спочатку [Bloxstrap Вікі]({0}), щоб побачити, чи ця проблема вже була вирішена за допомогою виправлення.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Якщо ні, то повідомте про цей виняток за допомогою [GitHub issue]({1}) разом з копією створеного лог-файлу.</value>
+If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Виняток для Bloxstrap</value>
+    <value>Multistrap Exception</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Користувацький</value>
@@ -312,10 +312,10 @@
     <value>Fake Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Класичний)</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Скляний)</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Старий (2008 - 2011)</value>
@@ -393,11 +393,11 @@
     <value>Світла</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap було оновлено до версії {0}</value>
+    <value>Multistrap has been upgraded to v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>Версія Bloxstrap, яку ви запустили, відрізняється від версії, яку ви зараз встановили.
-Бажаєте оновити встановлену версію?</value>
+    <value>The version of Multistrap you've launched is different to the version you currently have installed.
+Would you like to upgrade your currently installed version?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>Помічники</value>
@@ -406,7 +406,7 @@
     <value>Код</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Це люди, які зробили значний внесок у розвиток Bloxstrap, допомагаючи зробити його таким, яким він є.</value>
+    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Ідеї щодо функцій</value>
@@ -452,7 +452,7 @@
     <value>Зверніть увагу, що не всі ваші зміни будуть негайно застосовані, поки ви не закриєте Roblox.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap вже запущений</value>
+    <value>Multistrap is already running</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Ви можете зробити його інакшим, ретро або навіть просто як Roblox.</value>
@@ -479,7 +479,7 @@
     <value>Заголовок</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Налаштуйте, як має виглядати Bloxstrap.</value>
+    <value>Configure how Multistrap should look.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>Глобальна Тема</value>
@@ -503,10 +503,10 @@
     <value>Вигляд</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap автоматично перевірятиме та оновлюватиметься під час запуску Roblox.</value>
+    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Автоматично оновлювати Bloxstrap</value>
+    <value>Automatically update Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Захистіть закриття наявної гри від випадкового запуску іншої.</value>
@@ -515,13 +515,19 @@
     <value>Запит на підтвердження під час запуску нового сеансу Roblox</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Налаштуйте, що Bloxstrap має робити при запуску Roblox.</value>
+    <value>Configure what Multistrap should do when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox буде заново встановлено на наступному запуску.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Примусово перевстановити Roblox</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>Завантажник</value>
@@ -629,7 +635,7 @@
     <value>Обмеження частоти кадрів</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Вмикається за допомогою [комбінацій клавіш]({0}). Працює лише якщо ви перебуваєте у [групі Bloxstrap]({1}).</value>
+    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Увімкнути можливість приховування інтерфейсу</value>
@@ -653,23 +659,23 @@
     <value>Файли з іконками</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Bloxstrap не може бути встановлений тут. Будь ласка, виберіть інше місце або скористайтеся місцем за замовчуванням, натиснувши кнопку скидання.</value>
+    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>Папка, яку ви обрали для встановлення Bloxstrap, вже існує і НЕ є пустою. Наполегливо рекомендується встановлювати Bloxstrap у власну незалежну папку.
+    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
 
-Пропонуємо змінити її на наступну:
+Changing to the following location is suggested:
 {0}
 
-Бажаєте змінити місце розташування на запропоноване?
-Якщо ви виберете "Ні", ви проігноруєте це попередження і продовжите встановлення.</value>
+Would you like to change to the suggested location?
+Selecting 'No' will ignore this warning and continue installation.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>Ви повинні встановити місце встановлення</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Bloxstrap не має доступу на запис до вибраного вами місця встановлення. Будь ласка, виберіть інше місце.</value>
+    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Відстеження активності</value>
@@ -720,7 +726,7 @@
     <value>Не виходити в десктопний додаток</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Дозволяє Bloxstrap визначати, в яку гру Roblox ви граєте. Це може знадобитися для певних функцій.</value>
+    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Увімкнути відстеження активності</value>
@@ -817,7 +823,7 @@
     <value>Налаштування збережено!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Налаштування Bloxstrap</value>
+    <value>Multistrap Settings</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>Оберіть бажану мову</value>
@@ -847,7 +853,7 @@
     <value>Інтерфейс і макет</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Дозволити Bloxstrap налаштовувати Fast Flags</value>
+    <value>Allow Multistrap to manage Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Вимкненням цього буде заборонено все що тут налаштовано застосовуватись до Roblox.</value>
@@ -892,7 +898,7 @@
     <value>Вимкнути текстури навколишнього світу</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap не може завантажити Roblox</value>
+    <value>Multistrap is unable to download Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Зараз Roblox неможливо завантажити. Будь ласка, прочитайте ось цю сторінку для додаткової інформації: {0}</value>
@@ -912,7 +918,7 @@
     <value>Запис для '{0}' є недійсним, оскільки значення має бути числом</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Для цього запуску не буде записано жодного лог-файлу, оскільки Bloxstrap не може записувати в папку за адресою '{0}'</value>
+    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>За умовчанням</value>
@@ -927,7 +933,7 @@
     <value>Запис для '{0}' недійсний, оскільки фільтр місця неправильно відформатований.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Установник Bloxstrap</value>
+    <value>Multistrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Ласкаво просимо</value>
@@ -946,18 +952,18 @@
     <value>Далі</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Дякуємо за завантаження Bloxstrap.
+    <value>Thank you for downloading Multistrap. 
 
-Єдині офіційні вебсайти для завантаження Bloxstrap — це {0} та {1}, тому, будь ласка, переконайтеся, що ви отримали його з офіційного джерела.
+The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
 
-Цей процес встановлення буде швидким і простим, і ви зможете налаштувати будь-які параметри Bloxstrap після встановлення.</value>
+This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>Будь ласка, натисніть "Далі", щоб продовжити.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>Ви намагаєтеся встановити версію {0} Bloxstrap, але доступна остання версія {1}. Бажаєте завантажити її?</value>
+    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>Виберіть місце встановлення</value>
@@ -978,16 +984,16 @@
     <value>Значок у меню Пуск</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap успішно встановлено.
+    <value>Multistrap has successfully been installed.
 
-Roblox ще не встановлено; це станеться, коли ви запустите його з Bloxstrap вперше. Однак перед цим ви можете налаштувати параметри Bloxstrap.
+Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
 
-Також уникайте використання ярлика "Roblox Player" для запуску Roblox, оскільки Bloxstrap не запуститься разом з ним. Якщо ви не бачите, що Bloxstrap з'являється при запуску з вебсайту, просто запустіть Roblox через Bloxstrap один раз з робочого столу, щоб виправити це.
+Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
 
-Що ви бажаєте зробити?</value>
+What would you like to do?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Налаштувати параметри Bloxstrap</value>
+    <value>Configure Multistrap's settings</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>Налаштуйте всі функції, які Bloxstrap пропонує</value>
@@ -999,22 +1005,22 @@ Roblox ще не встановлено; це станеться, коли ви 
     <value>Після того як усе буде готово, ви перейдете у настільний додаток</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Видалення Bloxstrap</value>
+    <value>Uninstall Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Видалення видалить Bloxstrap із вашої системи та автоматично переналаштує програму запуску Roblox за умовчанням, якщо вона все ще встановлена.
+    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
 
-Якщо ви видаляєте або перевстановлюєте через проблеми з Roblox, спочатку прочитайте [цю довідкову сторінку]({0}).
+If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
 
-Можливо, процес видалення не зможе повністю очистити себе, тому вам може знадобитися вручну очистити залишки файлів, де було встановлено Bloxstrap.
+The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
 
-Bloxstrap встановлено на "{1}".</value>
+Multistrap was installed at "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Зберегти мої налаштування та моди</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Вони будуть збережені там, де встановлено Bloxstrap, і автоматично відновляться при перевстановленні.</value>
+    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Видалити</value>
@@ -1035,19 +1041,19 @@ Bloxstrap встановлено на "{1}".</value>
     <value>У вас наразі не встановлено середовище виконання WebView2. Деякі функції Roblox не працюватимуть належним чином без нього, такі як настільний додаток. Бажаєте завантажити його зараз?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap не вдалося створити ярлики для Робочого столу та меню Пуск. Спробуйте створити їх пізніше через налаштування.</value>
+    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Спочатку перевірте [Bloxstrap Wiki]({0}), щоб побачити, чи ця проблема вже була вирішена за допомогою виправлення.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Якщо ні, то, будь ласка, повідомте про цей виняток супровідникам цієї збірки. НЕ повідомляйте про це на GitHub Bloxstrap, оскільки це неофіційна збірка.</value>
+If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>Це загальні ярлики, які відкривають меню запуску з кількома варіантами. Ярлики для конкретних функцій можна створити пізніше в налаштуваннях.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Налаштуйте, як можна легко запустити Bloxstrap.</value>
+    <value>Configure how Multistrap can be readily launched.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Загальні</value>
@@ -1077,7 +1083,7 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Будь ласка, дочекайтеся завершення видалення.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>Про Bloxstrap</value>
+    <value>About Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>Ліцензії</value>
@@ -1090,9 +1096,9 @@ Bloxstrap встановлено на "{1}".</value>
     <value>У вас є незбережені зміни. Ви впевнені, що хочете закрити без збереження?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>Версія Bloxstrap, яку ви запустили, старіша за версію, яку ви наразі маєте встановленою.
-Можуть виникнути проблеми, і ваші налаштування можуть бути змінені. Рекомендується перевстановлення.
-Ви дійсно бажаєте продовжити?</value>
+    <value>The version of Multistrap you've launched is older than the version you currently have installed.
+Issues may occur and your settings may be altered. A reinstall is recommended.
+Are you sure you want to continue?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Не вдалося запустити Roblox.</value>
@@ -1113,7 +1119,7 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Підтримка</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Це люди, які наразі підтримують Bloxstrap через [Ko-fi]({0}). Велика подяка всім тут!</value>
+    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Ваші налаштування не вдалося завантажити. Вони були скинуті до стандартної конфігурації.</value>
@@ -1143,12 +1149,12 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Для цього запуску Roblox не буде перевірятися на оновлення, і зміни до модів не будуть застосовані.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Оскільки Roblox потрібно встановити або оновити, Bloxstrap не може продовжити.</value>
+    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap вже був встановлений у цьому місці та все ще присутній, однак установник не може перезаписати старий виконуваний файл.
+    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
 
-Будь ласка, вручну видаліть Bloxstrap.exe з місця встановлення або спробуйте перезавантажити систему, а потім повторіть установку.</value>
+Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>Недоступно</value>
@@ -1160,7 +1166,7 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Налаштуйте параметри застосунку, такі як поведінка масштабування DPI та [оптимізації повноекранного режиму] ({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox ще не встановлено. Будь ласка, запустіть Roblox за допомогою Bloxstrap принаймні один раз перед спробою використати цю опцію.</value>
+    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Ви впевнені, що хочете скасувати встановлення?</value>
@@ -1178,10 +1184,10 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Видобути значки Roblox до папки</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Дозволяє використовувати асортимент іконок Roblox від Bloxstrap для ваших ярликів. [Дізнайтеся як.]({0})</value>
+    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap не може записати до реєстру Windows. Ймовірно, антивірус заважає і викликає проблеми. Будь ласка, перевірте, щоб переконатися, що немає нічого, що обмежує роботу Bloxstrap.</value>
+    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Щомісячно</value>
@@ -1190,7 +1196,7 @@ Bloxstrap встановлено на "{1}".</value>
     <value>Одноразово</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Налаштуйте параметри, пов'язані з поведінкою самого Bloxstrap.</value>
+    <value>Configure options related to Multistrap's behaviour itself.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>Увімкнути надсилання аналітики</value>
@@ -1219,7 +1225,7 @@ Bloxstrap встановлено на "{1}".</value>
 Бажаєте увімкнути тестовий режим?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Усі переклади Bloxstrap виконано на основі краудсорсингу за допомогою [Crowdin]({0}). Усі перелічені тут люди щедро пожертвували свій час і зусилля, щоб допомогти локалізувати Bloxstrap. Щиро дякуємо усім!</value>
+    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>Встановити</value>
