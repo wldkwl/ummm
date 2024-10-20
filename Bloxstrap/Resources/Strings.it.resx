@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap non è stato in grado di aggiornarsi automaticamente alla versione {0}. Per favore, aggiornalo manualmente scaricandolo ed eseguendolo dal sito.</value>
+    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox è già in esecuzione e l'avvio di un'altra istanza lo chiuderà. Sei sicuro di voler continuare ad avviarlo?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>È probabile che qualcosa stia impedendo a Bloxstrap di connettersi a Internet.</value>
+    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
     <value>Roblox potrebbe non essere raggiungibile in questo momento. Vai su {0} per più informazioni.</value>
@@ -133,10 +133,10 @@
     <value>La connessione è scaduta, il che potrebbe indicare una connessione scarsa o un blocco dal firewall.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Devi prima installare Bloxstrap per disinstallarlo.</value>
+    <value>You must first install Multistrap before uninstalling.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Bloxstrap non ha abbastanza spazio per scaricare e installare Roblox. Per favore libera dello spazio e riprova.</value>
+    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Applicando le modifiche di Roblox...</value>
@@ -161,7 +161,7 @@
     <value>Aggiornando {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Ricerca della versione più recente di Bloxstrap...</value>
+    <value>Getting the latest Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>In attesa di altre istanze...</value>
@@ -175,10 +175,10 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap è stato disinstallato con successo</value>
+    <value>Multistrap has successfully uninstalled</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox è attualmente in esecuzione, deve essere chiuso prima di poter disinstallare Bloxstrap. Desideri chiudere Roblox ora?</value>
+    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
     <value>Roblox richiede l'uso dei componenti Windows Media Foundation, che sembrano mancare. Probabilmente perché stai utilizzando un'edizione di Windows N. Per favore, installali prima di avviare Roblox.</value>
@@ -282,22 +282,22 @@ Clicca per maggiori informazioni</value>
     <value>Errore di connessione</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap non è in grado di connettersi a {0}</value>
+    <value>Multistrap is unable to connect to {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
     <value>Copia il contenuto del registro</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>Si è verificata un'eccezione durante l'esecuzione di bloxtrap</value>
+    <value>An exception occurred while running Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Controlla la [Bloxstrap Wiki]({0}) prima per vedere se il problema è già stato risolto.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Se no, per favore segnala questa eccezione attraverso una [GitHub issue]({1}) con una copia del file di registro che è stato creato.</value>
+If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Errore di Bloxstrap</value>
+    <value>Multistrap Exception</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Personalizzato</value>
@@ -312,10 +312,10 @@ Se no, per favore segnala questa eccezione attraverso una [GitHub issue]({1}) co
     <value>Finto Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Classico)</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Vetro)</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Legacy (2008 - 2011)</value>
@@ -393,11 +393,11 @@ Se no, per favore segnala questa eccezione attraverso una [GitHub issue]({1}) co
     <value>Chiaro</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap è stato aggiornato alla versione {0}</value>
+    <value>Multistrap has been upgraded to v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>La versione di Bloxstrap che hai avviato è diversa da quella attualmente installata.
-Vorresti aggiornare la versione attualmente installata?</value>
+    <value>The version of Multistrap you've launched is different to the version you currently have installed.
+Would you like to upgrade your currently installed version?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
     <value>Contributori</value>
@@ -406,7 +406,7 @@ Vorresti aggiornare la versione attualmente installata?</value>
     <value>Codice</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Queste sono le persone che hanno dato un contributo notevole per Bloxstrap, rendendolo ciò che è.</value>
+    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Idee per le funzionalità</value>
@@ -452,7 +452,7 @@ Vorresti aggiornare la versione attualmente installata?</value>
     <value>Nota che non tutti i tuoi cambiamenti verranno immediatamente applicati finché non verranno chiuse tutte le istanze di Roblox aperte.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap è già in esecuzione</value>
+    <value>Multistrap is already running</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Si può dare un aspetto diverso, retro o simile a quello di Roblox.</value>
@@ -479,7 +479,7 @@ Vorresti aggiornare la versione attualmente installata?</value>
     <value>Titolo</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Configura come Bloxstrap dovrebbe apparire.</value>
+    <value>Configure how Multistrap should look.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
     <value>Tema</value>
@@ -503,10 +503,10 @@ Vorresti aggiornare la versione attualmente installata?</value>
     <value>Aspetto</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap verificherà se ci sono aggiornamenti e gli eseguirà automaticamente al lancio di Roblox.</value>
+    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Aggiorna automaticamente Bloxstrap</value>
+    <value>Automatically update Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Evita la chiusura di un gioco aperto aprendone uno accidentalmente.</value>
@@ -515,13 +515,19 @@ Vorresti aggiornare la versione attualmente installata?</value>
     <value>Richiedi conferma prima di avviare un'altra istanza di Roblox</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Configura cosa dovrebbe fare Bloxstrap quando avvia Roblox.</value>
+    <value>Configure what Multistrap should do when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox verrà installato da capo al prossimo avvio.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
     <value>Forza la reinstallazione di Roblox</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
+    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+  </data>
+  <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
+    <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
     <value>Bootstrapper</value>
@@ -632,7 +638,7 @@ NON usare questo editor per importare lunghi ‘elenchi di flag’ creati da alt
     <value>Limite di Framerate</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Attivato/Disattivato con [keyboard shortcuts]({0}). Funziona solo se fai parte del gruppo [Bloxstrap group]({1}).</value>
+    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Abilita la possibilità di nascondere le GUI</value>
@@ -656,23 +662,23 @@ NON usare questo editor per importare lunghi ‘elenchi di flag’ creati da alt
     <value>File delle icone</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Bloxstrap non può essere installato qui. Seleziona una cartella diversa, oppure utilizza la posizione predefinita cliccando il tasto reset.</value>
+    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>La cartella che hai scelto per l'installazione di Bloxstrap esiste già e NON è vuota. È consigliato installare Bloxstrap in una nuova cartella indipendente.
+    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
 
-È consigiabile proseguire l'installazione nella posizione suggerita:
+Changing to the following location is suggested:
 {0}
 
-Vuoi utilizzare questa posizione per procedere con l'installazione?
-Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazione.</value>
+Would you like to change to the suggested location?
+Selecting 'No' will ignore this warning and continue installation.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
     <value>Devi impostare una posizione d'installazione</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Bloxstrap non ha il permesso di scrittura alla posizione selezionata per l'installazione. Per favore, scegli un'altra posizione.</value>
+    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Tracciamento delle attività</value>
@@ -723,7 +729,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Non avviare l'applicazione del desktop alla chiusura</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Permetti a Bloxstrap di rilevare il gioco di Roblox che stai giocando. Alcune funzionalità potrebbero richiederlo.</value>
+    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Abilita il tracciamento delle attività</value>
@@ -820,7 +826,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Impostazioni salvate!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Impostazioni di Bloxstrap</value>
+    <value>Multistrap Settings</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
     <value>Scegli la lingua preferita</value>
@@ -850,7 +856,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Interfaccia Utente e Layout</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Permetti a Bloxstrap di configurare Fast Flags</value>
+    <value>Allow Multistrap to manage Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Disabilitando questo non permetterà qualsiasi cosa configurata qui a essere applicata a Roblox.</value>
@@ -895,7 +901,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Disabilita le texture del terreno</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap non può scaricare Roblox</value>
+    <value>Multistrap is unable to download Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Roblox non può essere scaricato al momento. Per favore leggi la seguente pagina di aiuto per più informazioni: {0}</value>
@@ -915,7 +921,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Il valore di '{0}' non è valido perché deve essere un numero</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Nessun file di registro sarà scritto perché Bloxstrap non ha accesso alla cartella a '{0}'</value>
+    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Base</value>
@@ -930,7 +936,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>La voce per '{0}' non è valida perché il filtro di luogo non è formattato correttamente.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Bloxstrap Installer</value>
+    <value>Multistrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Benvenuto/a</value>
@@ -949,18 +955,18 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>Avanti</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Grazie per aver scaricato Bloxstrap.
+    <value>Thank you for downloading Multistrap. 
 
-Gli unici siti ufficiali per scaricare Bloxstrap sono {0} e {1}, quindi per favore verifica che l'hai ottenuto da una fonte ufficiale.
+The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
 
-Questo processo di installazione sarà veloce e semplice, e sarai in grado di configurare qualsiasi impostazione di Bloxstrap dopo l'installazione.</value>
+This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
     <value>Per favore clicca 'Avanti' per continuare.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>Stai cercando d'installare la versione {0} di Bloxstrap, ma l'ultima versione disponibile è {1}. Vorresti scaricarla?</value>
+    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
     <value>Scegli dove installare</value>
@@ -981,16 +987,16 @@ Questo processo di installazione sarà veloce e semplice, e sarai in grado di co
     <value>Icona menu iniziale</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap è stato installato con successo.
+    <value>Multistrap has successfully been installed.
 
-Roblox non è stato ancora installato, questo accadrà quando lo avvierai insieme a Bloxstrap per la prima volta. Tuttavia, prima che tu lo faccia, potresti voler configurare prima le impostazioni di Bloxstrap.
+Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
 
-Inoltre, evita di utilizzare la scorciatoia "Roblox Player" per avviare Roblox, poiché Bloxstrap non si avvierà con Roblox. Se non vedi Bloxstrap apparire quando stai avviando attraverso il sito web, semplicemente avvia Roblox insieme a Bloxstrap da desktop una volta per risolvere il problema.
+Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
 
-Cosa preferiresti fare?</value>
+What would you like to do?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Configura le impostazioni di Bloxstrap</value>
+    <value>Configure Multistrap's settings</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
     <value>Modifica con tutte le funzionalità che offre</value>
@@ -1002,22 +1008,22 @@ Cosa preferiresti fare?</value>
     <value>Ti porterà all'interno dell'app desktop una volta che tutto sarà finito</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Disinstalla Bloxstrap</value>
+    <value>Uninstall Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Con la disinstallazione verrà rimosso Bloxstrap dal tuo sistema, e automaticamente riconfiguererà al launcher predefinito di Roblox se è installato.
+    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
 
-Se lo stai disinstallando o lo stai reinstallando perchè stai avendo problemi con Roblox, per favore leggi prima [questa pagina d'aiuto]({0}).
+If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
 
-Il processo di disinstallazione potrebbe non essere capace di completamente eliminarsi, quindi potresti dovere manualmente pulire i file rimanenti rimasti dove Bloxstrap è stato installato.
+The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
 
-Bloxstrap è stato installato in "{1}".</value>
+Multistrap was installed at "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Mantieni le mie impostazioni e mod</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Verranno mantenuti dove Bloxstrap è stato installato, e verranno ripristinati automaticamente su una reinstallazione.</value>
+    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Disinstalla</value>
@@ -1038,19 +1044,19 @@ Bloxstrap è stato installato in "{1}".</value>
     <value>Al momento non hai il runtime WebView2 installato. Alcune funzionalità di Roblox potrebbero non funzionare correttamente senza di esso, come l’applicazione desktop. Vorresti scaricarlo ora?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap non è stato in grado di creare scorciatoie per il Desktop e il menu Start. Prova a crearle più tardi tramite le impostazioni.</value>
+    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Controlla prima la [Wiki di Bloxstrap]({0}) per vedere se il problema è stato già risolto.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-In caso contrario, si prega di segnalare questa eccezione ai manutentori di questo fork. NON segnalarlo ai problemi di GitHub di Bloxstrap, perché si tratta di una build non ufficiale.</value>
+If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
     <value>Si trattano di scorciatoie generiche che consentono di visualizzare un menu di avvio a scelta multipla. I collegamenti per funzioni specifiche possono essere creati successivamente nelle impostazioni.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Configura il modo in cui Bloxstrap può essere avviato.</value>
+    <value>Configure how Multistrap can be readily launched.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Generale</value>
@@ -1080,7 +1086,7 @@ In caso contrario, si prega di segnalare questa eccezione ai manutentori di ques
     <value>Per favore attendi che la disinstallazione finisca.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>Riguardante Bloxstrap</value>
+    <value>About Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
     <value>Licenze</value>
@@ -1093,9 +1099,9 @@ In caso contrario, si prega di segnalare questa eccezione ai manutentori di ques
     <value>Hai delle modifiche non salvate. Sei sicuro che vuoi chiudere senza salvare?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>La versione di Bloxstrap che hai avviato è più vecchia di quella installata attualmente.
-Potresti riscontrare dei problemi e alcune impostazioni potrebbero cambiare. Una reinstallazione è consigliata.
-Sei sicuro di voler continuare?</value>
+    <value>The version of Multistrap you've launched is older than the version you currently have installed.
+Issues may occur and your settings may be altered. A reinstall is recommended.
+Are you sure you want to continue?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
     <value>Roblox non è riuscito ad avviarsi.</value>
@@ -1116,7 +1122,7 @@ Sei sicuro di voler continuare?</value>
     <value>Sostenitori</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Queste sono le persone che stanno al momento supportando Bloxstrap tramite [Ko-fi]({0}). Un grandissimo grazie a tutti loro!</value>
+    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Le tue impostazioni non posso essere caricate. Verranno ripristinate alle configurazioni predefinite.</value>
@@ -1146,12 +1152,12 @@ Sei sicuro di voler continuare?</value>
     <value>Per questo avvio, Roblox non sarà controllato per gli aggiornamenti, e le modifiche alle mod non saranno applicate.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Dato che Roblox deve essere installato o aggiornato, Bloxstrap non può continuare.</value>
+    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap è stato installato in questa posizione prima che ed è ancora presente, tuttavia l'installer non può sovrascrivere il vecchio eseguibile.
+    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
 
-Per favore elimina manualmente Bloxstrap.exe dalla posizione d'installazione o prova a riavviare il sistema, e poi riprovare l'installazione.</value>
+Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
     <value>Non disponibile</value>
@@ -1163,7 +1169,7 @@ Per favore elimina manualmente Bloxstrap.exe dalla posizione d'installazione o p
     <value>Configura i parametri della applicazione come lo scaling dei DPI e le [ottimizzazioni a schermo intero]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox non è ancora stato installato. Si prega di avviare Roblox utilizzando Bloxstrap almeno una volta prima di provare a utilizzare questa opzione.</value>
+    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Sei sicuro di volere annullare l'installazione?</value>
@@ -1181,11 +1187,10 @@ Per favore elimina manualmente Bloxstrap.exe dalla posizione d'installazione o p
     <value>Estrai le icone di Roblox nella cartella</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Permette di utilizzare la gamma di icone Roblox di Bloxstrap per i collegamenti. [Vedi come]({0})</value>
+    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap non è in grado di scrivere nel Registro di Windows. Probabilmente un antivirus sta interferendo e causando problemi.
-Assicurati che non ci sia nulla che possa limitare le operazioni di Bloxstrap.</value>
+    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Mensilmente</value>
@@ -1194,7 +1199,7 @@ Assicurati che non ci sia nulla che possa limitare le operazioni di Bloxstrap.</
     <value>Una volta</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Configura le opzioni a riguardo del comportamento di Bloxstrap.</value>
+    <value>Configure options related to Multistrap's behaviour itself.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
     <value>Abilita l'invio delle statistiche</value>
@@ -1223,7 +1228,7 @@ Quando è attiva, avvierà automaticamente Roblox dopo aver chiuso le Impostazio
 Vuoi abilitare la modalità di prova?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Tutte le traduzioni di Bloxstrap provengono dalla community attraverso [Crowdin]({0}). Tutte le persone elencate qui hanno volontariamente dedicato il loro tempo e impegno ad aiutare a tradurre Bloxstrap. Un grande grazie a tutti!</value>
+    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
     <value>Installa</value>
