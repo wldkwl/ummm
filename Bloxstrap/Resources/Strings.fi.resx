@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap ei pystynyt automaattisesti päivittämään versioon {0}. Ole hyvä ja päivitä se manuaalisesti lataamalla ja suorittamalla sen verkkosivulta.</value>
+    <value>Multistrap ei pystynyt automaattisesti päivittämään versioon {0}. Ole hyvä ja päivitä se manuaalisesti lataamalla ja suorittamalla sen verkkosivulta.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox on tällä hetkellä käynnissä, ja toisen instanssin käynnistäminen tulee sulkemaan aiemman. Oletko varma, että haluat jatkaa?</value>
@@ -133,7 +133,7 @@
     <value>Yhteys aikakatkaistiin, mikä voisi merkitä huonoa internetyhteyttä tai palomuurin estoa.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Sinun pitää asentaa Bloxstrap ennen poistamista.</value>
+    <value>Sinun pitää asentaa Multistrap ennen poistamista.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
     <value>Bloxstrapilla ei ole tarpeeksi levytilaa ladatakseen ja asentaakseen Robloxin. Vapauta levytilaa ja yritä uudelleen.</value>
@@ -161,7 +161,7 @@
     <value>Päivitetään {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Haetaan uusinta Bloxstrap-versiota...</value>
+    <value>Haetaan uusinta Multistrap-versiota...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
     <value>Odotetaan muita instansseja...</value>
@@ -175,7 +175,7 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap poistettiin onnistuneesti</value>
+    <value>Multistrap poistettiin onnistuneesti</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
     <value>Roblox on auki juuri nyt, mutta sen täytyy olla suljettu ennen Bloxstrapin poistamista. Haluatko sulkea Robloxin nyt?</value>
@@ -282,7 +282,7 @@ Klikkaa saadaksesi lisätietoja</value>
     <value>Yhteysvirhe</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap ei voi yhdistää kohteeseen {0}</value>
+    <value>Multistrap ei voi yhdistää kohteeseen {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
@@ -297,7 +297,7 @@ Klikkaa saadaksesi lisätietoja</value>
 Jos se ei ole korjattu, ole hyvä ja raportoi tämä poikkeus [GitHub-issuen]({1}) kautta ja liitä mukana kopio luodusta lokitiedostosta.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Bloxstrap-poikkeus</value>
+    <value>Multistrap-poikkeus</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Mukautettu</value>
@@ -312,10 +312,10 @@ Jos se ei ole korjattu, ole hyvä ja raportoi tämä poikkeus [GitHub-issuen]({1
     <value>Feikki Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Klassinen)</value>
+    <value>Multistrap (Klassinen)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Lasi)</value>
+    <value>Multistrap (Lasi)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Vanha (2008 - 2011)</value>
@@ -393,7 +393,7 @@ Jos se ei ole korjattu, ole hyvä ja raportoi tämä poikkeus [GitHub-issuen]({1
     <value>Vaalea</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap on päivitetty versioon v{0}</value>
+    <value>Multistrap on päivitetty versioon v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
     <value>Bloxstrapin versio, jonka käynnistit, eroaa asennetusta versiosta.
@@ -452,7 +452,7 @@ Haluatko päivittää tällä hetkellä asennetun version?</value>
     <value>Huomioi, etteivät kaikki muutoksesi astu voimaan, kunnes suljet kaikki käynnissä olevat Roblox-instanssit.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap on jo käynnissä</value>
+    <value>Multistrap on jo käynnissä</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Voit saada sen näyttämään erilaiselta, retrolta, tai jopa juuri kuin Robloxilta.</value>
@@ -503,10 +503,10 @@ Haluatko päivittää tällä hetkellä asennetun version?</value>
     <value>Ulkonäkö</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap automaattisesti tarkistaa ja päivittää itsensä, kun Roblox avataan.</value>
+    <value>Multistrap automaattisesti tarkistaa ja päivittää itsensä, kun Roblox avataan.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Päivitä Bloxstrap automaattisesti</value>
+    <value>Päivitä Multistrap automaattisesti</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Estä valmiiksi käynnissä olevan pelin sulkemisen sen takia, että vahingossa käynnistit toisen.</value>
@@ -632,7 +632,7 @@ Haluatko varmasti jatkaa?</value>
     <value>Kuvataajuuden rajoitus</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Vaihda käyttämällä [näppäinyhdistelmiä]({0}). Toimii vain, jos olet [Bloxstrap Roblox-ryhmässä]({1}).</value>
+    <value>Vaihda käyttämällä [näppäinyhdistelmiä]({0}). Toimii vain, jos olet [Multistrap Roblox-ryhmässä]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Antaa sinun piilottaa pelin GUI:t</value>
@@ -895,7 +895,7 @@ Vastaus 'Ei' ohittaa tämän varoituksen ja jatkaa asentamista.</value>
     <value>Poista maaston tekstuurit käytöstä</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap ei voi ladata Robloxia</value>
+    <value>Multistrap ei voi ladata Robloxia</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Robloxia ei voi ladata tällä hetkellä. Ole hyvä ja lue seuraava ohjesivu saadaksesi lisätietoja: {0}</value>
@@ -915,7 +915,7 @@ Vastaus 'Ei' ohittaa tämän varoituksen ja jatkaa asentamista.</value>
     <value>Merkintä flagille '{0}' ei kelpaa, koska arvon pitää olla numero</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Lokitiedostoa ei tulla kirjoittamaan tälle käynnistykselle, koska Bloxstrap ei voi kirjoittaa kansioon '{0}'</value>
+    <value>Lokitiedostoa ei tulla kirjoittamaan tälle käynnistykselle, koska Multistrap ei voi kirjoittaa kansioon '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Oletus</value>
@@ -981,11 +981,11 @@ Tämä asennusprosessi tulee olemaan nopea ja yksinkertainen, ja voit konfiguroi
     <value>Käynnistysvalikon kuvake</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap asennettiin onnistuneesti.
+    <value>Multistrap asennettiin onnistuneesti.
 
 Roblox ei ole vielä asennettu, se tapahtuu vasta, kun käynnistät sen Bloxstrapin avulla ensimmäisen kerran. Kuitenkin ennen kuin teet näin, saattaisit tahtoa määrittää Bloxstrapin asetukset ensin.
 
-Muuten, vältä käyttämästä "Roblox Player" -pikakuvaketta käynnistääksesi Robloxin, koska Bloxstrap ei silloin käynnisty Robloxin mukana. Jos et näe Bloxstrapin ilmestyvän käynnistäessä pelin verkkosivustolta, käynnistä Roblox Bloxstrapin avulla työpöydältä kerran korjataksesi sen.
+Muuten, vältä käyttämästä "Roblox Player" -pikakuvaketta käynnistääksesi Robloxin, koska Multistrap ei silloin käynnisty Robloxin mukana. Jos et näe Bloxstrapin ilmestyvän käynnistäessä pelin verkkosivustolta, käynnistä Roblox Bloxstrapin avulla työpöydältä kerran korjataksesi sen.
 
 Mitä tahtoisit tehdä?</value>
   </data>
@@ -1011,13 +1011,13 @@ Jos poistat asennuksen tai asennat uudelleen, koska koet ongelmia Robloxin kanss
 
 Poistoprosessi ei saata pystyä siivoamaan itsensä täysin, joten sinun täytyy mahdollisesti siivota jäljelle jääneet tiedostot Bloxstrapin asennussijainnista.
 
-Bloxstrap asennettiin polkuun "{1}".</value>
+Multistrap asennettiin polkuun "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Säilytä asetukseni ja modini</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Ne pidetään siellä, missä Bloxstrap asennettiin ja palautetaan uudelleenasennuksen yhteydessä.</value>
+    <value>Ne pidetään siellä, missä Multistrap asennettiin ja palautetaan uudelleenasennuksen yhteydessä.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
     <value>Poista asennus</value>
@@ -1038,7 +1038,7 @@ Bloxstrap asennettiin polkuun "{1}".</value>
     <value>Sinulla ei tällä hetkellä ole WebView2-ajoympäristöä asennettuna. Jotkin Robloxin ominaisuudet, kuten työpöytäohjelma, eivät toimi ilman sitä. Haluaisitko ladata sen nyt?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap ei pystynyt luomaan pikakuvakkeita työpöydälle ja aloitusvalikkoon. Yritä luoda ne myöhemmin asetuksista.</value>
+    <value>Multistrap ei pystynyt luomaan pikakuvakkeita työpöydälle ja aloitusvalikkoon. Yritä luoda ne myöhemmin asetuksista.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
     <value>Tarkista [Bloxstrapin wiki]({0}) ensin nähdäksesi, onko tämä ongelma jo ratkaistu korjauksella.
@@ -1050,7 +1050,7 @@ Jos ei, ole hyvä ja raportoi tämä poikkeus tämän forkin ylläpitäjille. Ä
     <value>Nämä ovat yleisiä pikakuvakkeita, jotka tuovat esiin monivalintaisen käynnistysvalikon. Pikakuvakkeet tietyille toiminnoille voidaan luoda myöhemmin asetuksista.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Määritä, miten Bloxstrap voidaan käynnistää helposti.</value>
+    <value>Määritä, miten Multistrap voidaan käynnistää helposti.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Yleinen</value>
@@ -1093,7 +1093,7 @@ Jos ei, ole hyvä ja raportoi tämä poikkeus tämän forkin ylläpitäjille. Ä
     <value>Sinulla on tallentamattomia muutoksia. Oletko varma, että tahdot sulkea tallentamatta?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>Käynnistämäsi Bloxstrap-versio on vanhempi kuin versio, joka sinulla on tällä hetkenä asennettuna.
+    <value>Käynnistämäsi Multistrap-versio on vanhempi kuin versio, joka sinulla on tällä hetkenä asennettuna.
 Ongelmia voi esiintyä ja asetuksesi saattavat muuttua. Uudelleenasennus on suositeltavaa.
 Oletko varma, että tahdot jatkaa?</value>
   </data>
@@ -1146,10 +1146,10 @@ Oletko varma, että tahdot jatkaa?</value>
     <value>Tänä käynnistyksenä Robloxin päivityksiä ei tarkisteta, eivätkä muutokset modeihin astu voimaan.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Koska Roblox on asennettava tai päivitettävä, Bloxstrap ei voi jatkaa.</value>
+    <value>Koska Roblox on asennettava tai päivitettävä, Multistrap ei voi jatkaa.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap on asennettu tähän sijaintiin ennen ja on edelleen läsnä, mutta asennusohjelma ei voi korvata vanhaa ohjelmaa.
+    <value>Multistrap on asennettu tähän sijaintiin ennen ja on edelleen läsnä, mutta asennusohjelma ei voi korvata vanhaa ohjelmaa.
 
 Ole hyvä ja poista Bloxstrap.exe manuaalisesti asennussijainnista tai käynnistä järjestelmäsi uudelleen ja yritä sitten asentaa uudelleen.</value>
   </data>
@@ -1184,7 +1184,7 @@ Ole hyvä ja poista Bloxstrap.exe manuaalisesti asennussijainnista tai käynnist
     <value>Antaa sinun käyttää Bloxstrapin Roblox-ikonien valikoimaa pikakuvakkeissasi. [Katso, miten.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap ei pysty kirjoittamaan Windowsin rekisteriin. Antivirusohjelma todennäköisesti häiritsee ja aiheuttaa ongelmia. Ole hyvä ja tarkista, ettei ole mitään, joka rajoittaisi Bloxstrapin toimintaa.</value>
+    <value>Multistrap ei pysty kirjoittamaan Windowsin rekisteriin. Antivirusohjelma todennäköisesti häiritsee ja aiheuttaa ongelmia. Ole hyvä ja tarkista, ettei ole mitään, joka rajoittaisi Bloxstrapin toimintaa.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Kuukausittainen</value>

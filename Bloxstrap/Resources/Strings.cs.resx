@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Bloxstrap nebyl schopen automaticky aktulizovat na verzi {0}. Prosím aktualizujte ručně stažením a spuštěním z webové stránky.</value>
+    <value>Multistrap nebyl schopen automaticky aktulizovat na verzi {0}. Prosím aktualizujte ručně stažením a spuštěním z webové stránky.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
     <value>Roblox už běží, a spouštění další objektů se roblox zavře. Opravdu chcete pokračovat se spuštění?</value>
@@ -133,10 +133,10 @@
     <value>Vypršel časový limit připojení, což může znamenat špatné připojení k internetu nebo zablokování brány firewall.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>První si musíš nainstalovat Bloxstrap než odinstaluješ.</value>
+    <value>První si musíš nainstalovat Multistrap než odinstaluješ.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Bloxstrap nemá dostatek volného místa na disku aby instaloval Roblox. Prosím uvolněte nějaké místo na disku a zkuste to znovu.</value>
+    <value>Multistrap nemá dostatek volného místa na disku aby instaloval Roblox. Prosím uvolněte nějaké místo na disku a zkuste to znovu.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
     <value>Aplikování Roblox modifikací...</value>
@@ -175,7 +175,7 @@
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Bloxstrap byl úspěšně odinstalován</value>
+    <value>Multistrap byl úspěšně odinstalován</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
     <value>Roblox teď běží, ale musí být zavřen, před tím, než odinstalujete Bloxstrap.
@@ -283,7 +283,7 @@ Klikněte pro více informací</value>
     <value>Chyba připojení</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Bloxstrap není schopen se připojit k {0}u</value>
+    <value>Multistrap není schopen se připojit k {0}u</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
@@ -293,12 +293,12 @@ Klikněte pro více informací</value>
     <value>Došlo k výjimce při běžení Bloxstrapu</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Nejprve zkontrolujte [Bloxstrap Wiki]({0}), zda byl tento problém již vyřešen opravou.
+    <value>Nejprve zkontrolujte [Multistrap Wiki]({0}), zda byl tento problém již vyřešen opravou.
 
 Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) spolu s kopií log souboru, který byl vytvořen.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Bloxstrap výjimka</value>
+    <value>Multistrap výjimka</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
     <value>Vlastní</value>
@@ -313,10 +313,10 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Falešný Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Klasický)</value>
+    <value>Multistrap (Klasický)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Sklo)</value>
+    <value>Multistrap (Sklo)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Legacy (2008 - 2011)</value>
@@ -394,7 +394,7 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Světlý</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Bloxstrap byl aktualizován na v{0}</value>
+    <value>Multistrap byl aktualizován na v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
     <value>Verze Bloxstrapu kterou jste spustili je jiná než tu kterou máte instalovanou. Chcete aktualizovat vaší instalovanou verzi?</value>
@@ -406,7 +406,7 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Kód</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>Tohle jsou ti lidé, kteří významně přispěli a pomohli z Bloxstrap udělat to, čím je teď.</value>
+    <value>Tohle jsou ti lidé, kteří významně přispěli a pomohli z Multistrap udělat to, čím je teď.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
     <value>Nápady vlastností</value>
@@ -452,7 +452,7 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Prosíme poznamenejte si, že všechny vaše změny se aplikují ihned až zavřete všechny otevřené instance Roblox.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Bloxstrap již běží</value>
+    <value>Multistrap již běží</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
     <value>Můžete tomu změnit vzhled, aby to vypadalo jinak, retro, nebo prostě jako Roblox.</value>
@@ -503,10 +503,10 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Vzhled</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Bloxstrap automaticky kontroluje a aktualizuje se když se spouští Roblox.</value>
+    <value>Multistrap automaticky kontroluje a aktualizuje se když se spouští Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automaticky aktualizovat Bloxstrap</value>
+    <value>Automaticky aktualizovat Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
     <value>Prevence proti uzavření vaší existující hry při omylnému spuštění další.</value>
@@ -515,7 +515,7 @@ Pokud ne, prosím nahlaste tuto výjimku prostřednictvím [GitHub issue]({1}) s
     <value>Zeptat se k potvrzení při spouštění další instance Roblox</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Konfigurovat co Bloxstrap by měl udělat při spuštění Roblox.</value>
+    <value>Konfigurovat co Multistrap by měl udělat při spuštění Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
     <value>Roblox se přeinstaluje při dalším spuštení.</value>
@@ -632,7 +632,7 @@ NEPOUŽÍVEJTE tohle aby jste importovali velké "Fast flags" listy udělané os
     <value>Limit frekvence</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Přepíná se pomocí [klávesových zkratek]({0}). Funguje pouze, pokud jste ve [skupině Bloxstrap na Robloxu]({1}).</value>
+    <value>Přepíná se pomocí [klávesových zkratek]({0}). Funguje pouze, pokud jste ve [skupině Multistrap na Robloxu]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
     <value>Povolit možnost skrýt GUI</value>
@@ -656,10 +656,10 @@ NEPOUŽÍVEJTE tohle aby jste importovali velké "Fast flags" listy udělané os
     <value>Ikonové soubory</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Bloxstrap zde nelze nainstalovat. Zvolte prosím jiné umístění nebo se uchylte k použití výchozího umístění kliknutím na tlačítko reset.</value>
+    <value>Multistrap zde nelze nainstalovat. Zvolte prosím jiné umístění nebo se uchylte k použití výchozího umístění kliknutím na tlačítko reset.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>Složka do které jste se rozhodli nainstalovat Bloxstrap již existuje a NENÍ prázdná. Je důrazně doporučeno aby byl Bloxstrap nainstalován do své vlastní nezávislé složky.
+    <value>Složka do které jste se rozhodli nainstalovat Multistrap již existuje a NENÍ prázdná. Je důrazně doporučeno aby byl Multistrap nainstalován do své vlastní nezávislé složky.
 
 Je navrhováno změnit umístění do následujícího umístění:
 {0}
@@ -672,7 +672,7 @@ Při výběru 'Ne' bude toto varování ignorováno a bude pokračovat v instala
     <value>Musíš si nastavit lokaci pro instalaci</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Bloxstrap nemá přístup k zápisu do umístění instalace kterou jste vybrali. Vyberte prosím jiné umístění.</value>
+    <value>Multistrap nemá přístup k zápisu do umístění instalace kterou jste vybrali. Vyberte prosím jiné umístění.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
     <value>Trackování aktivity</value>
@@ -723,7 +723,7 @@ Při výběru 'Ne' bude toto varování ignorováno a bude pokračovat v instala
     <value>Nevypínejte na desktopovou aplikaci</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Povoluje Bloxstrap, aby detektoval, jaké hry na Robloxu hraješ. Určité funkce mohou vyžadovat toto.</value>
+    <value>Povoluje Multistrap, aby detektoval, jaké hry na Robloxu hraješ. Určité funkce mohou vyžadovat toto.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
     <value>Povolit trackování aktivity</value>
@@ -850,7 +850,7 @@ Při výběru 'Ne' bude toto varování ignorováno a bude pokračovat v instala
     <value>Uživatelské Rozhrání a rozložení</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Dovolit Bloxstrap spravovat Fast Flags</value>
+    <value>Dovolit Multistrap spravovat Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
     <value>Vypnutí tohoto nastavení zakáže použití vlastní konfigurace v Robloxu.</value>
@@ -895,7 +895,7 @@ Při výběru 'Ne' bude toto varování ignorováno a bude pokračovat v instala
     <value>Vypnout terénové textury</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Bloxstrap nemůže stáhnout Roblox</value>
+    <value>Multistrap nemůže stáhnout Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
     <value>Roblox nemůže být v tuto dobu nainstalovaný. Prosím přečtěte si tuto stránku pro pomoc a více informací: {0}</value>
@@ -915,7 +915,7 @@ Při výběru 'Ne' bude toto varování ignorováno a bude pokračovat v instala
     <value>Záznam pro '{0}' není platný, protože hodnota musí být číslo</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Žádný log soubor nebude zapsán pro toto spuštění, protože Bloxstrap nemůže zapisovat do složky v '{0}'</value>
+    <value>Žádný log soubor nebude zapsán pro toto spuštění, protože Multistrap nemůže zapisovat do složky v '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
     <value>Výchozí</value>
@@ -981,11 +981,11 @@ Instalační proces bude rychlý a jednoduchý a po instalaci budete moci nakonf
     <value>Ikona v Start menu</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Bloxstrap byl úspěšně nainstalován.
+    <value>Multistrap byl úspěšně nainstalován.
 
 Roblox ještě nebyl nainstalován, k čemuž dojde při prvním spuštění Bloxstrapu. Než to uděláte, možná budete chtít nejdříve nakonfigurovat Bloxstrap.
 
-Nepoužívejte také zkratku "Roblox Player" pro spuštění Robloxu, protože Bloxstrap nebude spuštěn s Robloxem. Pokud se nespustí Bloxstrap při spuštění z webové stránky, jednoduše spusťte Bloxstrap jednou z plochy, abyste to opravili.
+Nepoužívejte také zkratku "Roblox Player" pro spuštění Robloxu, protože Multistrap nebude spuštěn s Robloxem. Pokud se nespustí Multistrap při spuštění z webové stránky, jednoduše spusťte Multistrap jednou z plochy, abyste to opravili.
 
 Co chcete udělat?</value>
   </data>
@@ -1002,16 +1002,16 @@ Co chcete udělat?</value>
     <value>Hodí vás do desktopové aplikace Robloxu po dokončení</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Odinstalovat Bloxstrap</value>
+    <value>Odinstalovat Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Odinstalace odstraní Bloxstrap z vašeho systému a automaticky znovu nastaví výchozího spouštěčtě Robloxu, pokud je stále nainstalován.
+    <value>Odinstalace odstraní Multistrap z vašeho systému a automaticky znovu nastaví výchozího spouštěčtě Robloxu, pokud je stále nainstalován.
 
 Pokud odinstalujete nebo přeinstalujete, protože máte problémy s Robloxem, přečtěte si nejprve [tuto stránku pomoci]({0}).
 
 Odinstalace možná nebude moct odstranit všechny data sama, takže možná budete muset ručně vyčistit zbylé soubory po Bloxstrapu.
 
-Bloxstrap byl nainstalován na "{1}".</value>
+Multistrap byl nainstalován na "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
     <value>Uložit moje nastavení a módy</value>
@@ -1038,7 +1038,7 @@ Bloxstrap byl nainstalován na "{1}".</value>
     <value>Nemáte momentálně nainstalovaný WebView2 runtime. Různé funkce Robloxu nebudou bez něj fungovat správně, jako například desktopová aplikace. Chcete jej nyní stáhnout?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Bloxstrap nebyl schopen vytvořit zkratky na ploše a v menu Start. Zkuste je vytvořit později v nastavení.</value>
+    <value>Multistrap nebyl schopen vytvořit zkratky na ploše a v menu Start. Zkuste je vytvořit později v nastavení.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
     <value>Nejprve zkontrolujte [Bloxstrapovou Wiki]({0}), jestli náhodou váš problém nebyl již vyřešen.
@@ -1050,7 +1050,7 @@ Pokud ne, pak prosím nahlaste tento error správcům této forky. NENAHLAŠUJTE
     <value>Tohle jsou obecné zkratky, které zobrazí spouštěcí nabídku s vícemi možnostmi. Zkratky pro konkrétní funkce mohou být vytvořeny později v nastavení.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Nakonfigurujte, jak může být Bloxstrap snadno spuštěn.</value>
+    <value>Nakonfigurujte, jak může být Multistrap snadno spuštěn.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
     <value>Obecný</value>
@@ -1116,7 +1116,7 @@ Opravdu chcete pokračovat?</value>
     <value>Podporovatelé</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>Toto jsou lidé, kteří momentálně podporují Bloxstrap skrze [Ko-fi]({0}). Obrovské díky všem zde!</value>
+    <value>Toto jsou lidé, kteří momentálně podporují Multistrap skrze [Ko-fi]({0}). Obrovské díky všem zde!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
     <value>Nezdařilo se načíst vaše nastavení. Byly obnoveny na výchozí konfiguraci.</value>
@@ -1146,10 +1146,10 @@ Opravdu chcete pokračovat?</value>
     <value>Pro toto spuštění nebude Roblox kontrolován pro aktualizace a změny v módech nebudou aplikovány.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Jelikož Roblox musí být nainstalován nebo potřebuje aktualizaci, Bloxstrap nemůže pokračovat.</value>
+    <value>Jelikož Roblox musí být nainstalován nebo potřebuje aktualizaci, Multistrap nemůže pokračovat.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Bloxstrap byl nainstalován na toto místo a je stále přítomen, ale instalátor nemůže přepsat starý.exe soubor. 
+    <value>Multistrap byl nainstalován na toto místo a je stále přítomen, ale instalátor nemůže přepsat starý.exe soubor. 
 
 Prosím manuálně smažte Bloxstrap.exe z instalačního místa nebo zkuste restartovat systém a poté zkuste instalaci znovu.</value>
   </data>
@@ -1163,7 +1163,7 @@ Prosím manuálně smažte Bloxstrap.exe z instalačního místa nebo zkuste res
     <value>Konfigurace parametrů aplikace, jako je škálování DPI a [optimizace pro rozlišení celé obrazovky]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox již nebyl nainstalován. Před použitím této možnosti spusťte Bloxstrap alespoň jednou.</value>
+    <value>Roblox již nebyl nainstalován. Před použitím této možnosti spusťte Multistrap alespoň jednou.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
     <value>Opravdu chcete zrušit instalaci?</value>
@@ -1181,7 +1181,7 @@ Prosím manuálně smažte Bloxstrap.exe z instalačního místa nebo zkuste res
     <value>Extrahovat ikony Robloxu do složky</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Bloxstrap není schopen zapisovat do registru Windows. Antivirus pravděpodobně zasahuje a způsobuje problémy. Prosím zkontrolujte, zda nemáte nic, co by omezilo funkci Bloxstrapu.</value>
+    <value>Multistrap není schopen zapisovat do registru Windows. Antivirus pravděpodobně zasahuje a způsobuje problémy. Prosím zkontrolujte, zda nemáte nic, co by omezilo funkci Bloxstrapu.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
     <value>Měsíčně</value>
