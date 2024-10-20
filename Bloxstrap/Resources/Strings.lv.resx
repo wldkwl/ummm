@@ -118,228 +118,228 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Multistrap 未能自動更新到版本 {0}。請自行到官方網站下載最新版本並執行它來手動更新。</value>
+    <value>Multistrap neizdevās automātiski atjaunināt uz versiju {0}. Lūdzu, atjauniniet to manuāli, lejupielādējot un palaižot to no vietnes.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
-    <value>Roblox 當前正在運行，開啟另一個窗口將會關掉它。您確定要繼續開啟嗎？</value>
+    <value>Roblox pašlaik darbojas, un, palaižot citu gadījumu, tas tiks slēgts. Vai esat pārliecināts, ka vēlaties turpināt palaišanu?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>可能有東西正在阻止 Multistrap 去連接網路。</value>
+    <value>Iespējams, ka kaut kas neļauj Multistrap izveidot savienojumu ar internetu.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
-    <value>Roblox 的伺服器可能已經炸了。請參考 {0} 來了解更多資訊。</value>
+    <value>Roblox šobrīd, iespējams, nedarbojas. Lai iegūtu vairāk informācijas, skatiet {0}.</value>
   </data>
   <data name="Dialog.Connectivity.TimedOut" xml:space="preserve">
-    <value>連接超時。這可能是因為較差的網路或被防火牆阻止連線。</value>
+    <value>Savienojums beidzās, kas varētu liecināt par sliktu interneta savienojumu vai ugunsmūra bloķēšanu.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>您要先安裝Multistrap才能解除安裝。</value>
+    <value>Pirms atinstalēšanas vispirms jāinstalē Multistrap.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>你的電腦沒有足夠磁碟空間來安裝Multistrap和Roblox，請先釋放一些磁碟空間然後再試一遍。</value>
+    <value>Multistrap nav pietiekami daudz vietas uz diska, lai lejupielādētu un instalētu Roblox. Lūdzu, atbrīvojiet diska vietu un mēģiniet vēlreiz.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
-    <value>正在應用 Roblox 修改</value>
+    <value>Roblox modifikāciju piemērošana...</value>
   </data>
   <data name="Bootstrapper.Status.Configuring" xml:space="preserve">
-    <value>正在設定{product}...</value>
+    <value>Konfigurēšana {product}...</value>
   </data>
   <data name="Bootstrapper.Status.Connecting" xml:space="preserve">
-    <value>正在連接至Roblox...</value>
+    <value>Savienošanās ar Roblox...</value>
   </data>
   <data name="Bootstrapper.Status.Installing" xml:space="preserve">
-    <value>正在安裝 {product}...</value>
+    <value>Uzstādīšana {product}...</value>
   </data>
   <data name="Bootstrapper.Status.InstallingWebView2" xml:space="preserve">
-    <value>正在安裝WebView2，請稍候...</value>
+    <value>WebView2 instalēšana, lūdzu, uzgaidiet...</value>
   </data>
   <data name="Bootstrapper.Status.Starting" xml:space="preserve">
-    <value>正在啟動{product}...</value>
+    <value>Startējot {product}...</value>
     <comment>"Starting Roblox" or "Starting Roblox Studio"</comment>
   </data>
   <data name="Bootstrapper.Status.Upgrading" xml:space="preserve">
-    <value>正在更新{product}...</value>
+    <value>Atjaunina {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>正在取得最新的Bloxstrap...</value>
+    <value>Iegūst jaunāko Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
-    <value>正在等待其他Roblox程式...</value>
+    <value>Gaidām citus gadījumus...</value>
   </data>
   <data name="Bootstrapper.StylePreview.ImageCancel" xml:space="preserve">
-    <value>風格外觀預覽 - 點擊右上角的 X 按鈕關閉</value>
+    <value>Stila priekšskatījums - Noklikšķiniet uz X pogas labajā augšējā stūrī, lai aizvērtu</value>
     <comment>Text for style previews that use an X button. Currently only applies to Byfron</comment>
   </data>
   <data name="Bootstrapper.StylePreview.TextCancel" xml:space="preserve">
-    <value>風格外觀 - 點擊取消以關閉</value>
+    <value>Stila priekšskatījums - Noklikšķiniet uz Atcelt, lai aizvērtu</value>
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Multistrap解除安裝成功</value>
+    <value>Multistrap ir veiksmīgi atinstalēts</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox正在運行中，刪除Multistrap之前需要關閉Roblox，你確定要現在關閉Roblox嗎？</value>
+    <value>Pašlaik darbojas Roblox, bet pirms Multistrap atinstalēšanas tas ir jāaizver. Vai tagad vēlaties aizvērt Roblox?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
-    <value>似乎您的系統缺少Windows媒體基礎元件，這很大機會是你的Windows作業系統是N版本，請先安裝它然後再開啟Roblox。</value>
+    <value>Roblox ir jāizmanto Windows Media Foundation komponenti. Šķiet, ka jums to trūkst, iespējams, tāpēc, ka izmantojat Windows N versiju. Lūdzu, vispirms instalējiet tos un pēc tam palaidiet Roblox.</value>
   </data>
   <data name="Common.AddSingle" xml:space="preserve">
-    <value>新增單個</value>
+    <value>Pievienot vienu</value>
   </data>
   <data name="Common.Browse" xml:space="preserve">
-    <value>瀏覽</value>
+    <value>Pārlūkot</value>
   </data>
   <data name="Common.Cancel" xml:space="preserve">
-    <value>取消</value>
+    <value>Atcelt</value>
   </data>
   <data name="Common.Close" xml:space="preserve">
-    <value>關閉</value>
+    <value>Aizvērt</value>
   </data>
   <data name="Common.Delete" xml:space="preserve">
-    <value>刪除</value>
+    <value>Dzēst</value>
   </data>
   <data name="Common.DiscordRichPresence" xml:space="preserve">
-    <value>Discord 活動狀態</value>
+    <value>Discord Rich Presence</value>
   </data>
   <data name="Common.Help" xml:space="preserve">
-    <value>幫助</value>
+    <value>Palīdzība</value>
   </data>
   <data name="Common.ImportJson" xml:space="preserve">
-    <value>導入 JSON</value>
+    <value>JSON importēšana</value>
   </data>
   <data name="Common.OpenLogFile" xml:space="preserve">
-    <value>打開日誌文件</value>
+    <value>Atvērt žurnāla failu</value>
   </data>
   <data name="Common.Miscellaneous" xml:space="preserve">
-    <value>其他</value>
+    <value>Dažādi</value>
   </data>
   <data name="Common.Name" xml:space="preserve">
-    <value>名稱</value>
+    <value>Nosaukums</value>
   </data>
   <data name="Common.New" xml:space="preserve">
-    <value>新</value>
+    <value>Jauns</value>
   </data>
   <data name="Common.No" xml:space="preserve">
-    <value>否</value>
+    <value>Nē</value>
   </data>
   <data name="Common.OK" xml:space="preserve">
-    <value>OK</value>
+    <value>LABI</value>
   </data>
   <data name="Common.Presets" xml:space="preserve">
-    <value>預設</value>
+    <value>Sākotnējie iestatījumi</value>
   </data>
   <data name="Common.Reset" xml:space="preserve">
-    <value>重設</value>
+    <value>Atiestatīt</value>
     <comment>In the context of resetting something to a default value</comment>
   </data>
   <data name="Common.Value" xml:space="preserve">
-    <value>數值</value>
+    <value>Value</value>
   </data>
   <data name="Common.Warning" xml:space="preserve">
-    <value>警告</value>
+    <value>Brīdinājums</value>
   </data>
   <data name="Common.Yes" xml:space="preserve">
-    <value>是</value>
+    <value>Jā</value>
   </data>
   <data name="ContextMenu.CloseRoblox" xml:space="preserve">
-    <value>關閉Roblox</value>
+    <value>Aizvērt Roblox</value>
   </data>
   <data name="ContextMenu.CloseRobloxMessage" xml:space="preserve">
-    <value>您確定想關閉Roblox嗎？這個會強制關閉所有Roblox程式。</value>
+    <value>Vai esat pārliecināts, ka vēlaties aizvērt Roblox? Tas piespiedu kārtā izbeigs procesu.</value>
   </data>
   <data name="ContextMenu.CopyDeeplinkInvite" xml:space="preserve">
-    <value>複製邀請連結</value>
+    <value>Kopēt ielūguma dziļāko saiti</value>
   </data>
   <data name="ContextMenu.ServerInformation.CopyInstanceId" xml:space="preserve">
-    <value>複製伺服器Job ID</value>
+    <value>Kopēt Instance ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.InstanceId" xml:space="preserve">
-    <value>伺服器Job ID</value>
+    <value>Instances ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.Location" xml:space="preserve">
-    <value>地區</value>
+    <value>Atrašanās vieta</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Text" xml:space="preserve">
-    <value>地區：{0} 
-點擊查看更多</value>
+    <value>Atrašanās vieta: {0}
+Noklikšķiniet, lai iegūtu vairāk informācijas</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Public" xml:space="preserve">
-    <value>已連接至公共伺服器</value>
+    <value>Savienots ar publisko serveri</value>
   </data>
   <data name="ContextMenu.ServerInformation.Title" xml:space="preserve">
-    <value>伺服器資訊</value>
+    <value>Servera informācija</value>
   </data>
   <data name="ContextMenu.ServerInformation.Type" xml:space="preserve">
-    <value>類型</value>
+    <value>Tips</value>
   </data>
   <data name="Dialog.AddFastFlag.Title" xml:space="preserve">
-    <value>新增Fast Flag</value>
+    <value>Fast Flag pievienošana</value>
   </data>
   <data name="Dialog.Connectivity.MoreInfo" xml:space="preserve">
-    <value>伺服器資訊:</value>
+    <value>Vairāk informācijas:</value>
   </data>
   <data name="Dialog.Connectivity.Title" xml:space="preserve">
-    <value>連接錯誤</value>
+    <value>Savienojamības kļūda</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Multistrap 未能連接至 {0}</value>
+    <value>Multistrap nevar izveidot savienojumu ar {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
-    <value>複製日誌内容</value>
+    <value>Kopēt žurnāla saturu</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>執行Multistrap時出現了錯誤</value>
+    <value>Multistrap palaišanas laikā radās izņēmums</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>請先瀏覽[Multistrap Wiki]({0}) 來看此問題是否已解決。
+    <value>Vispirms pārbaudiet [Multistrap Wiki]({0}), lai uzzinātu, vai šī problēma jau ir novērsta.
 
-如果尚未被解決的話，那請透過[GitHub Issue]({1}) 中回報此問題，並附上所創建的日誌文件副本。</value>
+Ja nē, tad, lūdzu, ziņojiet par šo izņēmumu, izmantojot [GitHub issue]({1}) kopā ar izveidotā žurnāla faila kopiju.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Multistrap異常</value>
+    <value>Multistrap izņēmums</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
-    <value>自定義</value>
+    <value>Custom</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconEarly2015" xml:space="preserve">
-    <value>2015年初</value>
+    <value>Early 2015</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconLate2015" xml:space="preserve">
-    <value>2015年末</value>
+    <value>Late 2015</value>
   </data>
   <data name="Enums.BootstrapperStyle.ByfronDialog" xml:space="preserve">
-    <value>僞Byfron（2023）</value>
+    <value>Fake Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Multistrap（經典）</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Multistrap（透明）</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
-    <value>經典（2008 - 2011）</value>
+    <value>Legacy (2008 - 2011)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2011" xml:space="preserve">
-    <value>經典（2011 - 2014）</value>
+    <value>Legacy (2011 - 2014)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ProgressDialog" xml:space="preserve">
     <value>Roblox (~2014)</value>
   </data>
   <data name="Enums.BootstrapperStyle.VistaDialog" xml:space="preserve">
-    <value>Vista （2008 - 2011）</value>
+    <value>Vista (2008 - 2011)</value>
   </data>
   <data name="Enums.CursorType.From2006" xml:space="preserve">
-    <value>2006 (卡通風)</value>
+    <value>2006 (Cartoony)</value>
   </data>
   <data name="Enums.CursorType.From2013" xml:space="preserve">
-    <value>2013 (菱角型)</value>
+    <value>2013 (Angular)</value>
   </data>
   <data name="Enums.EmojiType.Catmoji" xml:space="preserve">
     <value>Catmoji</value>
   </data>
   <data name="Enums.EmojiType.Default" xml:space="preserve">
-    <value>預設（Twemoji）</value>
+    <value>Noklusējuma iestatījumi (Twemoji)</value>
   </data>
   <data name="Enums.EmojiType.Windows10" xml:space="preserve">
     <value>Windows 10</value>
@@ -360,16 +360,16 @@
     <value>2023 (V4)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Default" xml:space="preserve">
-    <value>以游戲預設為主</value>
+    <value>Izvēlēts pēc spēles</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Future" xml:space="preserve">
-    <value>Future (第三階段)</value>
+    <value>Nākotne (3. posms)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.ShadowMap" xml:space="preserve">
-    <value>ShadowMap (第二階段)</value>
+    <value>Ēnu karte (2. posms)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Voxel" xml:space="preserve">
-    <value>Voxel (第一階段)</value>
+    <value>Voxel (1. fāze)</value>
   </data>
   <data name="Enums.FlagPresets.RenderingMode.D3D10" xml:space="preserve">
     <value>Direct3D 10</value>
@@ -378,870 +378,871 @@
     <value>Direct3D 11</value>
   </data>
   <data name="Enums.ServerType.Private" xml:space="preserve">
-    <value>私人伺服器</value>
+    <value>Privātais serveris</value>
   </data>
   <data name="Enums.ServerType.Public" xml:space="preserve">
-    <value>公共伺服器</value>
+    <value>Publiskais serveris</value>
   </data>
   <data name="Enums.ServerType.Reserved" xml:space="preserve">
-    <value>後備伺服器</value>
+    <value>Rezervēts serveris</value>
   </data>
   <data name="Enums.Theme.Dark" xml:space="preserve">
-    <value>深暗</value>
+    <value>Tumšs</value>
   </data>
   <data name="Enums.Theme.Light" xml:space="preserve">
-    <value>明亮</value>
+    <value>Gaisma</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Multistrap 已經更新至 v{0}</value>
+    <value>Multistrap ir atjaunināts līdz v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>你目前運行的Multistrap版本和你目前已安裝的版本不同。請問你要升級目前已安裝的版本嗎？</value>
+    <value>Palaistā Multistrap versija atšķiras no pašlaik instalētās versijas.
+Vai vēlaties atjaunināt pašlaik instalēto versiju?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
-    <value>貢獻者</value>
+    <value>Sniedzēji</value>
   </data>
   <data name="Menu.About.Contributors.Code" xml:space="preserve">
-    <value>代碼</value>
+    <value>Kods</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>以下是對Multistrap有顯著貢獻的人，幫助它成為現在的樣子。</value>
+    <value>Šie ir cilvēki, kuri ir devuši ievērojamu ieguldījumu Multistrap un palīdzējuši to padarīt tādu, kāds tas ir.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
-    <value>功能建議</value>
+    <value>Funkciju idejas</value>
   </data>
   <data name="Menu.About.Contributors.SpecialThanks" xml:space="preserve">
-    <value>特別感謝</value>
+    <value>Īpašs paldies</value>
   </data>
   <data name="Menu.About.Description" xml:space="preserve">
-    <value>一個專為Roblox設計，具有許多實用功能的第三方啟動器。</value>
+    <value>Alternatīvs Roblox bootstrapper ar vairākām papildu funkcijām.</value>
   </data>
   <data name="Menu.About.DiscordServer" xml:space="preserve">
-    <value>Discord伺服器</value>
+    <value>Discord serveris</value>
   </data>
   <data name="Menu.About.GithubRepository" xml:space="preserve">
-    <value>Github代碼庫</value>
+    <value>GitHub repozitorijs</value>
   </data>
   <data name="Menu.About.HelpInformation" xml:space="preserve">
-    <value>幫助和資訊</value>
+    <value>Palīdzība un informācija</value>
   </data>
   <data name="Menu.About.Licenses" xml:space="preserve">
-    <value>授權條款</value>
+    <value>Licences</value>
   </data>
   <data name="Menu.About.Licenses.BSD2" xml:space="preserve">
-    <value>BSD 2-clause授權條款</value>
+    <value>BSD 2-clause licence</value>
   </data>
   <data name="Menu.About.Licenses.MIT" xml:space="preserve">
-    <value>MIT授權條款</value>
+    <value>MIT licence</value>
   </data>
   <data name="Menu.About.ReportIssue" xml:space="preserve">
-    <value>報告錯誤</value>
+    <value>Ziņot par problēmu</value>
   </data>
   <data name="Menu.About.Title" xml:space="preserve">
-    <value>關於</value>
+    <value>Par</value>
   </data>
   <data name="Menu.About.Version" xml:space="preserve">
-    <value>版本 {0}</value>
+    <value>Versija {0}</value>
     <comment>{0} is replaced with the version, i.e. "Version 2.8.0"</comment>
   </data>
   <data name="Menu.AllFiles" xml:space="preserve">
-    <value>所有檔案</value>
+    <value>Visi faili</value>
   </data>
   <data name="Menu.AlreadyRunning.Caption" xml:space="preserve">
-    <value>在關閉所有目前開啟的Roblox用戶端之前，並非所有變更都會立即生效。</value>
+    <value>Lūdzu, ņemiet vērā, ka visas izmaiņas netiks piemērotas uzreiz, kamēr nebūsiet aizvēris visus pašlaik atvērtos Roblox gadījumus.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Multistrap已經在執行中</value>
+    <value>Multistrap jau darbojas</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
-    <value>你可以讓它看起來與眾不同，如經典，亦或者就像Roblox。</value>
+    <value>Varat to veidot atšķirīgu, retro vai pat tādu pašu kā Roblox.</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Title" xml:space="preserve">
-    <value>啟動器</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.Appearance.Customisation.Description" xml:space="preserve">
-    <value>設置其他各種各樣的可自訂的選項。</value>
+    <value>Konfigurējiet citas dažādas pielāgojamas opcijas.</value>
   </data>
   <data name="Menu.Appearance.Customisation.Title" xml:space="preserve">
-    <value>自定義</value>
+    <value>Pielāgošana</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Description" xml:space="preserve">
-    <value>必須是一個包含大小從16px到128px的多尺寸.ico文件。設定圖標時選擇“自定義”選項以使用它。</value>
+    <value>Jābūt dažāda izmēra .ico failam ar izmēriem no 16px līdz 128px. Lai to izmantotu, ikonu iestatiet kā "Custom".</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Title" xml:space="preserve">
-    <value>自定圖示</value>
+    <value>Custom ikona</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Description" xml:space="preserve">
-    <value>顯示啟動器標題的文字。</value>
+    <value>Teksts, kas tiek parādīts kā bootstrapper nosaukums.</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Title" xml:space="preserve">
-    <value>標題</value>
+    <value>Nosaukums</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>設定Multistrap的主題。</value>
+    <value>Konfigurējiet, kā jāizskatās Multistrap.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
-    <value>全局主題</value>
+    <value>Globālā tēma</value>
   </data>
   <data name="Menu.Appearance.Icon.Description" xml:space="preserve">
-    <value>選擇Multistrap的圖示。</value>
+    <value>Izvēlieties, kāda ikona tai jāizmanto.</value>
   </data>
   <data name="Menu.Appearance.Icon.Title" xml:space="preserve">
-    <value>圖標</value>
+    <value>Ikona</value>
   </data>
   <data name="Menu.Appearance.Preview" xml:space="preserve">
-    <value>預覽</value>
+    <value>Priekšskatījums</value>
   </data>
   <data name="Menu.Appearance.Style.Description" xml:space="preserve">
-    <value>選擇主題外觀，深色主題不可以套用在經典/Vista主題上。</value>
+    <value>Izvēlieties, kā tam jāizskatās. Tumšā tēma neattiecas uz Legacy/Vista.</value>
   </data>
   <data name="Menu.Appearance.Style.Title" xml:space="preserve">
-    <value>外貌</value>
+    <value>Stils</value>
   </data>
   <data name="Menu.Appearance.Title" xml:space="preserve">
-    <value>外觀</value>
+    <value>Izskats</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Multistrap在啟動Roblox時會自動進行檢查目前版本並且更新（如果有的話）。</value>
+    <value>Multistrap automātiski pārbaudīs un atjauninās sevi, kad tiks palaists Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>自動更新Multistrap</value>
+    <value>Automātiski atjaunināt Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
-    <value>防止因意外啟動另一個Roblox程式而導致當前運行的程式被關閉。</value>
+    <value>Novēršiet esošās spēles aizvēršanu no nejaušas citas spēles palaišanas.</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Title" xml:space="preserve">
-    <value>在啟動另一個Roblox程式時顯示的確認訊息</value>
+    <value>Raidījums apstiprināt, kad tiek palaists cits Roblox gadījums</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>設定 Multistrap 在啟動 Roblox 時應執行的操作。</value>
+    <value>Konfigurējiet, kas Multistrap jādara, palaižot Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
-    <value>Roblox會在下次啟動時進行重新安裝。</value>
+    <value>Roblox tiks instalēts svaigs nākamajā palaišanas reizē.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
-    <value>強制重新安裝Roblox</value>
+    <value>Piespiedu Roblox pārinstalēšana</value>
   </data>
   <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
-    <value>Allows for having more than one Roblox game client instance open simultanously.</value>
+    <value>Ļauj vienlaicīgi atvērt vairāk nekā vienu Roblox spēles klienta gadījumu.</value>
   </data>
   <data name="Menu.Behaviour.MultiInstance.Title" xml:space="preserve">
-    <value>Allow multi-instance launching</value>
+    <value>Atļaut vairāku instanču palaišanu</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
-    <value>啟動器</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.FastFlagEditor.AddNew" xml:space="preserve">
-    <value>增加</value>
+    <value>Pievienot jaunu</value>
   </data>
   <data name="Menu.FastFlagEditor.AlreadyExists" xml:space="preserve">
-    <value>此flag名稱的條目已存在。</value>
+    <value>Ieraksts ar šo karoga nosaukumu jau pastāv.</value>
   </data>
   <data name="Menu.FastFlagEditor.Back" xml:space="preserve">
-    <value>返回</value>
+    <value>Atpakaļ</value>
   </data>
   <data name="Menu.FastFlagEditor.BannerText" xml:space="preserve">
-    <value>錯誤地使用此功能會導致不穩定/意料之外的事情發生。</value>
+    <value>Nepareiza tās izmantošana var izraisīt nestabilitāti vai neparedzētus notikumus.</value>
     <comment>The element that this string is rendered in *cannot be wrapped* and may be truncated when displayed if too long. If so, try and paraphrase a shortened version.</comment>
   </data>
   <data name="Menu.FastFlagEditor.BannerTitle" xml:space="preserve">
-    <value>小心使用。</value>
+    <value>Lietojiet piesardzīgi.</value>
   </data>
   <data name="Menu.FastFlagEditor.ConflictingImport" xml:space="preserve">
-    <value>有些你嘗試去導入的flags已經設置了值。請問你要不要用你導入的值來覆蓋目前的值？
+    <value>Dažiem karodziņiem, kurus mēģināt importēt, jau ir iestatītas vērtības. Vai vēlaties pārrakstīt to pašreizējās vērtības ar importēšanas laikā noteiktajām?
 
-這裏有{0} 個已衝突的flag定義：
+Ir {0} konfliktējošas karogu definīcijas:
 {1}</value>
     <comment>{0} is a number, {1} is a comma-separated list</comment>
   </data>
   <data name="Menu.FastFlagEditor.DeleteSelected" xml:space="preserve">
-    <value>刪除所選擇的内容</value>
+    <value>Dzēst atlasīto</value>
   </data>
   <data name="Menu.FastFlagEditor.Description" xml:space="preserve">
-    <value>管理您的FastFlag，雙擊一個欄位來編輯。</value>
+    <value>Pārvaldiet savus ātros karogus. Divreiz noklikšķiniet uz kolonnas, lai to rediģētu.</value>
   </data>
   <data name="Menu.FastFlagEditor.ExportJson" xml:space="preserve">
-    <value>導出 JSON</value>
+    <value>Eksportēt JSON</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidCharacter" xml:space="preserve">
-    <value>您所輸入'{0}'的條目無效，名字中只能包含字母，數字和下劃綫。</value>
+    <value>Ieraksts "{0}" nav derīgs, jo nosaukumā var būt tikai burti, cipari un pasvītrojumi</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidJSON" xml:space="preserve">
-    <value>您所輸入的JSON無效，請仔細檢查它並再試一次。
+    <value>Jūsu ievadītais JSON nav derīgs. Lūdzu, pārbaudiet to vēlreiz un mēģiniet vēlreiz.
 
-更多資訊:
+Vairāk informācijas:
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPrefix" xml:space="preserve">
-    <value>您所輸入'{0}'的條目無效，名字必須以 "FFlag"，"DFInt"，等作開頭。</value>
+    <value>Ieraksts '{0}' nav derīgs, jo nosaukumam jāsākas ar FFlag, DFInt utt</value>
   </data>
   <data name="Menu.FastFlagEditor.JsonCopiedToClipboard" xml:space="preserve">
-    <value>已複製到剪貼板。</value>
+    <value>Kopēts uz starpliktuvi.</value>
   </data>
   <data name="Menu.FastFlagEditor.LargeConfig" xml:space="preserve">
-    <value>您似乎正在導入一個非常龐大的配置表。您應該只導入您完全理解的配置表。請不要盲目地貼上他人製作的配置表。如果繼續，很可能會導致穩定性問題，並且可能會遇到意外的變化。
+    <value>Šķiet, ka importējat ļoti lielu konfigurāciju. Jums vajadzētu importēt tikai tās konfigurācijas, kuras pilnībā saprotat. Neielīmējiet citu cilvēku izveidotas konfigurācijas akli. Ja turpināsiet, ļoti iespējams, ka radīsies stabilitātes problēmas un saskarsieties ar neparedzētām izmaiņām.
 
-您確定要繼續嗎？</value>
+Vai esat pārliecināts, ka vēlaties turpināt?</value>
   </data>
   <data name="Menu.FastFlagEditor.Search" xml:space="preserve">
-    <value>搜尋</value>
+    <value>Meklēšana</value>
   </data>
   <data name="Menu.FastFlagEditor.ShowPresetFlags" xml:space="preserve">
-    <value>顯示預設的Flags</value>
+    <value>Rādīt iepriekš iestatītos karogus</value>
   </data>
   <data name="Menu.FastFlagEditor.Title" xml:space="preserve">
-    <value>Fast Flag 編輯器</value>
+    <value>Fast Flag redaktors</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Back" xml:space="preserve">
-    <value>返回上一步</value>
+    <value>Atgriezties</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Continue" xml:space="preserve">
-    <value>我知道我在做什麼</value>
+    <value>Es zinu, ko daru</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Header" xml:space="preserve">
-    <value>你知道你在做什麼嗎？</value>
+    <value>Vai jūs zināt, ko darāt?</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Text" xml:space="preserve">
-    <value>Fast Flags 是非常強大的，因為它通常只給Roblox工程師用。雖然它們很有用，但是手動更改它們可能對穩定性和功能性造成嚴重影響。如果你不清楚您在做什麼，請不要用此編輯器。
+    <value>Ātrie karodziņi ir ļoti spēcīgi, jo tos ir paredzēts izmantot tikai Roblox inženieriem. Lai gan tie var būt ļoti noderīgi, to manuāla konfigurēšana var radīt nopietnas problēmas ar stabilitāti un funkcionalitāti. Nelietojiet redaktoru, ja neesat pārliecināts par to, ko darāt.
 
-不要用這它來導入別人製作的大型「flag lists」，例如那些聲稱可以改善效能的Fast Flags。它們受上述問題的影響，而它們會因為你不會完全意識到它們正在改變什麼而造成問題。如果你打算這樣做，回頭是岸。</value>
+NEIZMANTOJIET to, lai importētu lielus "karogu sarakstus", ko izveidojuši citi cilvēki un kas sola uzlabot veiktspēju vai tamlīdzīgi. Uz tiem attiecas iepriekš minētās problēmas, un tie radīs jums problēmas, jo jūs pilnībā nezināsiet, ko tie maina. Ja esat gatavojies to darīt, ATGRIEZIETIES ATPAKAĻ.</value>
   </data>
   <data name="Menu.FastFlags.Description" xml:space="preserve">
-    <value>控制Roblox引擎的特定參數和功能的設定。</value>
+    <value>Kontrolējiet, kā tiek konfigurēti konkrēti Roblox dzinēja parametri un funkcijas.</value>
   </data>
   <data name="Menu.FastFlags.Editor.Description" xml:space="preserve">
-    <value>管理您的Fast Flags；請小心使用。</value>
+    <value>Pārvaldiet savus ātros karogus. Izmantojiet piesardzīgi.</value>
     <comment>Title is Menu.FastFlagEditor.Title</comment>
   </data>
   <data name="Menu.FastFlags.Help.Description" xml:space="preserve">
-    <value>了解更多有關Fast Flags的資訊，了解這些預設的功能以及如何使用它們。</value>
+    <value>Uzziniet vairāk par ātriem karodziņiem, šo iestatījumu funkcijām un to lietošanu.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.FastFlags.Presets.D3DExclusiveFullscreenInfo" xml:space="preserve">
-    <value>Alt + Enter鍵啟用為Direct3D [全螢幕獨佔模式]({0}) 已預設啟用。</value>
+    <value>Direct3D [ekskluzīvs pilnekrāna režīms]({0}), izmantojot Alt+Enter, ir iespējots pēc noklusējuma.</value>
   </data>
   <data name="Menu.FastFlags.Presets.EscapeMenuVersion.Title" xml:space="preserve">
-    <value>首選的ESC選單版本</value>
+    <value>Vēlamā escape izvēlnes versija</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Description" xml:space="preserve">
-    <value>Roblox會根據顯示縮放來降低渲染品質；啟用此選項將禁用此功能。</value>
+    <value>Roblox samazina atveidošanas kvalitāti atkarībā no tā, kā jūsu displejs ir mērogots operētājsistēmā Windows.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Title" xml:space="preserve">
-    <value>透過顯示縮放來保持渲染質量</value>
+    <value>Rādīšanas kvalitātes saglabāšana, izmantojot displeja mērogošanu</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Description" xml:space="preserve">
-    <value>如果您想使用Roblox原本就有的幀率解鎖器，將數字設置為0以使用默認設置。</value>
+    <value>Iestatiet 0 kā noklusējuma iestatījumu, ja vēlaties izmantot Roblox framerate atbloķētāju.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Title" xml:space="preserve">
-    <value>幀數（FPS）上限</value>
+    <value>Kadru ātruma ierobežojums</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>用快捷鍵({0})開啟，此設定需加入[Multistrap group]({1})。</value>
+    <value>Pārslēdzams ar [tastatūras saīsnēm]({0}). Darbojas tikai tad, ja esat [Multistrap grupā]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
-    <value>啟用隱藏介面功能</value>
+    <value>Iespēja paslēpt GUI</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Description" xml:space="preserve">
-    <value>此選擇會強制在全部遊戲使用。[小心，這可能會造成遊戲內的照明問題！]({0})</value>
+    <value>Izvēlētais tiks piespiedu kārtā ieslēgts visās spēlēs. [Uzmanieties, var rasties problēmas ar apgaismojumu!]({0})</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Title" xml:space="preserve">
-    <value>首選的照明技術</value>
+    <value>Vēlamā apgaismojuma tehnoloģija</value>
   </data>
   <data name="Menu.FastFlags.Presets.RenderingMode.Title" xml:space="preserve">
-    <value>渲染模式</value>
+    <value>Renderošanas režīms</value>
   </data>
   <data name="Menu.FastFlags.Title" xml:space="preserve">
-    <value>引擎設定</value>
+    <value>Dzinēja iestatījumi</value>
   </data>
   <data name="Menu.FontFiles" xml:space="preserve">
-    <value>字體文件</value>
+    <value>Fontu faili</value>
   </data>
   <data name="Menu.IconFiles" xml:space="preserve">
-    <value>圖標文件</value>
+    <value>Ikonu faili</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Multistrap無法在此處資料夾安裝，請選擇在其他位置安裝，或點擊“重設”按鈕來使用其預設安裝路徑。</value>
+    <value>Šeit nevar instalēt Multistrap. Lūdzu, izvēlieties citu atrašanās vietu vai izmantojiet noklusējuma atrašanās vietu, noklikšķinot uz pogas Atiestatīt.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>您所選擇用來安裝Multistrap的資料夾已經存在而且還有其他檔案。強烈建議將Multistrap安裝到自己的獨立資料夾中。
+    <value>Mapē, kurā esat izvēlējies instalēt Multistrap, jau pastāv un tā NAV tukša. Ir ļoti ieteicams Multistrap instalēt atsevišķā mapē.
 
-建議更改為以下路徑：
+Ieteicams mainīt atrašanās vietu uz šādu:
 {0}
 
-請問您是否更改為建議路徑？
-選擇「不」會無視此警告並繼續安裝。</value>
+Vai vēlaties mainīt uz ieteikto atrašanās vietu?
+Izvēloties "Nē", šis brīdinājums tiks ignorēts un instalēšana tiks turpināta.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
-    <value>你必須設置一個安裝路徑</value>
+    <value>Jānosaka instalēšanas vieta</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Multistrap對您選擇的安裝路徑沒有寫入權限，請選擇其他路徑。</value>
+    <value>Programmai Multistrap nav rakstīšanas piekļuves jūsu izvēlētajai instalēšanas vietai. Lūdzu, izvēlieties citu atrašanās vietu.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
-    <value>活動追蹤</value>
+    <value>Aktivitātes izsekošana</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Description" xml:space="preserve">
-    <value>允許任何人透過你的Discord個人檔案來加入您正在玩的遊戲。</value>
+    <value>Ļauj ikvienam pievienoties spēlei, kurā pašlaik atrodaties, izmantojot jūsu Discord profilu.</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Title" xml:space="preserve">
-    <value>允許其他人利用Discord活動狀態來加入遊戲</value>
+    <value>Atļaut darbības pievienošanu</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Description" xml:space="preserve">
-    <value>在您的 Discord 個人資料上顯示您正在使用的 Roblox 帳號。</value>
+    <value>Rāda Roblox kontu, ar kuru spēlējat savā Discord profilā.</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Title" xml:space="preserve">
-    <value>顯示 Roblox 帳號</value>
+    <value>Rādīt Roblox kontu</value>
   </data>
   <data name="Menu.Integrations.Custom.AppLocation" xml:space="preserve">
-    <value>應用程式路徑</value>
+    <value>Aplikācijas atrašanās vieta</value>
   </data>
   <data name="Menu.Integrations.Custom.AutoClose" xml:space="preserve">
-    <value>當Roblox關閉的時候自動關閉</value>
+    <value>Automātiska aizvēršana, kad Roblox aizveras</value>
   </data>
   <data name="Menu.Integrations.Custom.Description" xml:space="preserve">
-    <value>在這裡，你可以讓其他程式和Roblox一起啟動。</value>
+    <value>Šeit varat automātiski palaist citas programmas, kas tiek palaistas kopā ar Roblox.</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs" xml:space="preserve">
-    <value>目標參數</value>
+    <value>Palaišanas argumenti</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs.Placeholder" xml:space="preserve">
-    <value>Roblox 正在運行！</value>
+    <value>Roblox darbojas!</value>
   </data>
   <data name="Menu.Integrations.Custom.NewIntegration" xml:space="preserve">
-    <value>新整合功能</value>
+    <value>Jauna integrācija</value>
   </data>
   <data name="Menu.Integrations.Custom.NoneSelected" xml:space="preserve">
-    <value>沒有整合功能被選擇，請選擇或加一個新的。</value>
+    <value>Nav izvēlēta integrācija, lūdzu, izvēlieties vai pievienojiet jaunu</value>
   </data>
   <data name="Menu.Integrations.Custom.Title" xml:space="preserve">
-    <value>自訂整合功能</value>
+    <value>Custom integrācijas</value>
   </data>
   <data name="Menu.Integrations.Description" xml:space="preserve">
-    <value>設定Roblox的附設功能。</value>
+    <value>Konfigurējiet papildu funkcionalitāti, lai to izmantotu kopā ar Roblox.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Description" xml:space="preserve">
-    <value>當你離開遊戲時，Roblox會直接關閉而不是返回主介面。</value>
+    <value>Roblox pilnībā aizveras, kad atstājat spēli, tā vietā, lai jūs atgrieztos lietotnē.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Title" xml:space="preserve">
-    <value>不要在離開遊戲後返回主介面</value>
+    <value>Neiziet uz darbvirsmas lietotni</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>允許Multistrap偵測您正在游玩Roblox的游戲，某些功能需要此選項被啟用。</value>
+    <value>Ļauj Multistrap noteikt, kādu Roblox spēli tu spēlē. Dažām funkcijām tas var būt nepieciešams.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
-    <value>開啟活動追蹤</value>
+    <value>Aktivitātes izsekošanas iespējošana</value>
   </data>
   <data name="Menu.Integrations.RequiresActivityTracking" xml:space="preserve">
-    <value>此功能要求開啟活動追蹤功能，並且安裝和運行Discord桌面應用程式。[了解更多]({0})</value>
+    <value>Šai funkcijai ir jābūt iespējotai aktivitātes izsekošanai un jābūt instalētai un darbinātai Discord datora lietotnei. [Uzzināt vairāk]({0}).</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Description" xml:space="preserve">
-    <value>您正在玩的Roblox遊戲會被顯示在您的Discord個人資料上。 [不起作用？]({0})</value>
+    <value>Roblox spēle, kuru spēlējat, būs redzama jūsu Discord profilā. [Nedarbojas?]({0})</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Title" xml:space="preserve">
-    <value>顯示Roblox遊戲狀態</value>
+    <value>Rādīt spēles aktivitāti</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Description" xml:space="preserve">
-    <value>在遊戲中，您可以通過 [ipinfo.io]({0}) 查看您所在伺服器的位置。</value>
+    <value>Spēlē, izmantojot [ipinfo.io]({0}), varēsiet redzēt, kur atrodas jūsu serveris.</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Title" xml:space="preserve">
-    <value>查詢伺服器位置</value>
+    <value>Vaicājuma servera atrašanās vieta</value>
   </data>
   <data name="Menu.Integrations.Title" xml:space="preserve">
-    <value>整合功能</value>
+    <value>Integrācijas</value>
   </data>
   <data name="Menu.Mods.Description" xml:space="preserve">
-    <value>管理並啟用Roblox用戶端模組。</value>
+    <value>Pārvaldiet un piemērojiet failu modus Roblox spēles klientam.</value>
   </data>
   <data name="Menu.Mods.Help.Description" xml:space="preserve">
-    <value>查看關於如何管理和創造模組的資訊。</value>
+    <value>Skatiet informāciju par modu pārvaldību un izveidi.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Choose" xml:space="preserve">
-    <value>選擇字體...</value>
+    <value>Izvēlieties fontu...</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Description" xml:space="preserve">
-    <value>字體大小可在Fast Flags欄內修改。</value>
+    <value>Fonta lielumu var pielāgot cilnē Fast Flags.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Invalid" xml:space="preserve">
-    <value>你選擇的文件不是一個有效的字體文件。</value>
+    <value>Izvēlētais fails, šķiet, nav derīgs fonta fails.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Remove" xml:space="preserve">
-    <value>移除已套用的字體</value>
+    <value>Noņemt piemēroto fontu</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Title" xml:space="preserve">
-    <value>使用自訂字體</value>
+    <value>Izmantot custom fontu</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Description" xml:space="preserve">
-    <value>在這管理Roblox自訂模組。</value>
+    <value>Pārvaldiet pielāgotus Roblox modus šeit.</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Title" xml:space="preserve">
-    <value>開啟模組資料夾</value>
+    <value>Atveriet Mods mapi</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Description" xml:space="preserve">
-    <value>選擇Roblox應使用表情符號的類型。</value>
+    <value>Izvēlieties, kāda veida emodži būtu jāizmanto Roblox.</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Title" xml:space="preserve">
-    <value>首選表情符號類型</value>
+    <value>Vēlamais emodži veids</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Description" xml:space="preserve">
-    <value>選擇兩種不同的經典鼠標風格。</value>
+    <value>Izvēlieties izmantot divus klasiskos Roblox kursoru stilus.</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Title" xml:space="preserve">
-    <value>滑鼠游標</value>
+    <value>Peles kursors</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Description" xml:space="preserve">
-    <value>在Roblox應用程式中使用2020年之前舊版本的角色編輯器背景。</value>
+    <value>Atgrieziet veco avatāru redaktora fonu, kas tika izmantots Roblox lietotnē pirms 2020. gada.</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Title" xml:space="preserve">
-    <value>使用舊的角色編輯器的背景</value>
+    <value>Izmantot veco avatāru redaktora fonu</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Description" xml:space="preserve">
-    <value>大致還原在2014 年之前使用的角色音效。</value>
+    <value>Mēģinājums aptuveni atjaunot līdz 2014. gadam izmantotās rakstzīmju skaņas.</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Title" xml:space="preserve">
-    <value>模擬經典角色音效。</value>
+    <value>Atdariniet vecās rakstzīmju skaņas</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Description" xml:space="preserve">
-    <value>把之前的"Oof"死亡音效帶回來。</value>
+    <value>Atgrieziet klasisko "oof" nāves skaņu.</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Title" xml:space="preserve">
-    <value>使用舊版死亡音效</value>
+    <value>Izmantot veco nāves skaņu</value>
   </data>
   <data name="Menu.Mods.Title" xml:space="preserve">
-    <value>模組</value>
+    <value>Moduļi</value>
   </data>
   <data name="Menu.MoreInfo" xml:space="preserve">
-    <value>點擊以獲得此設定的更多資訊。</value>
+    <value>Noklikšķiniet, lai iegūtu vairāk informācijas par šo iespēju.</value>
   </data>
   <data name="Menu.Save" xml:space="preserve">
-    <value>儲存</value>
+    <value>Saglabāt</value>
   </data>
   <data name="Menu.SettingsSaved.Message" xml:space="preserve">
-    <value>新的設定將會在你下次開啟 Roblox 時生效。</value>
+    <value>Izmaiņas stāsies spēkā nākamreiz, kad iedarbināsiet Roblox.</value>
   </data>
   <data name="Menu.SettingsSaved.Title" xml:space="preserve">
-    <value>設定已保存！</value>
+    <value>Iestatījumi saglabāti!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Multistrap 設定</value>
+    <value>Multistrap iestatījumi</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
-    <value>選擇啟動器語言</value>
+    <value>Izvēlieties vēlamo valodu</value>
   </data>
   <data name="Dialog.LanguageSelector.Subtext" xml:space="preserve">
-    <value>在繼續安裝之前，請選擇一種語言。</value>
+    <value>Pirms instalēšanas turpināšanas izvēlieties valodu.</value>
   </data>
   <data name="Menu.Appearance.Language.Title" xml:space="preserve">
-    <value>語言</value>
+    <value>Valoda</value>
   </data>
   <data name="Menu.Appearance.Language.Description" xml:space="preserve">
-    <value>重新啟動Multistrap以讓變更生效。</value>
+    <value>Lai izmaiņas stātos spēkā, ir jāveic atkārtota palaišana.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Title" xml:space="preserve">
-    <value>允許使用Roblox官方不支援的語言</value>
+    <value>Atļaut izmantot neatbalstītas Roblox valodas</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Description" xml:space="preserve">
-    <value>只適用於從Roblox網站啟動的遊戲。</value>
+    <value>Tas attiecas tikai uz spēlēm, kas ir sāktas no Roblox vietnes.</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V4Chrome" xml:space="preserve">
-    <value>2023（V4 + 最新UI）</value>
+    <value>2023 (V4 + jauna UI)</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.Rendering" xml:space="preserve">
-    <value>渲染和畫質</value>
+    <value>Kārtošana un grafika</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.UserInterface" xml:space="preserve">
-    <value>使用者介面與布局</value>
+    <value>Lietotāja saskarne un izkārtojums</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>允許Multistrap管理Fast Flags</value>
+    <value>Ļaujiet Multistrap pārvaldīt Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
-    <value>禁用此功能將阻止任何在此設定的內容應用到Roblox。</value>
+    <value>Ja šo opciju atspējosiet, Roblox netiks piemērotas nekādas šeit konfigurētās opcijas.</value>
   </data>
   <data name="Menu.FastFlags.Presets.MSAA.Title" xml:space="preserve">
-    <value>反鋸齒等級（MSAA）</value>
+    <value>Izlīdzināšanas novēršanas kvalitāte (MSAA)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePostFX.Title" xml:space="preserve">
-    <value>禁用後期處理效果</value>
+    <value>Izslēgt pēcapstrādes efektus</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Title" xml:space="preserve">
-    <value>關閉視窗標題列</value>
+    <value>Pilnekrāna virsraksta joslas atspējošana</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Description" xml:space="preserve">
-    <value>阻止在滑鼠移上頂部的時候出現標題列。</value>
+    <value>Aptur tā rādīšanu, kad vien pārceļat peli uz ekrāna augšējo daļu.</value>
   </data>
   <data name="Menu.FastFlags.Presets.TextureQuality.Title" xml:space="preserve">
-    <value>紋理品質</value>
+    <value>Tekstūras kvalitāte</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level0" xml:space="preserve">
-    <value>等級 0（最低）</value>
+    <value>0 līmenis (zemākais)</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level1" xml:space="preserve">
-    <value>等級 1</value>
+    <value>1. līmenis</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level2" xml:space="preserve">
-    <value>等級 2</value>
+    <value>2. līmenis</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level3" xml:space="preserve">
-    <value>等級 3（最高）</value>
+    <value>3. līmenis (augstākais)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePlayerShadows.Title" xml:space="preserve">
-    <value>關閉玩家陰影</value>
+    <value>Atslēgt spēlētāju ēnas</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Title" xml:space="preserve">
-    <value>字體大小</value>
+    <value>Fonta lielums</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Description" xml:space="preserve">
-    <value>預設值為1。如果使用自訂字體，可進行調整。</value>
+    <value>Noklusējuma vērtība ir 1. Pielāgojiet, ja izmantojat pielāgotu fontu.</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisableTerrainTextures.Title" xml:space="preserve">
-    <value>關閉地形材質</value>
+    <value>Atslēgt reljefa tekstūras</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Multistrap無法下載Roblox</value>
+    <value>Multistrap nevar lejupielādēt Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
-    <value>目前無法下載Roblox。請閱讀此說明頁面以獲取更多資訊：{0}</value>
+    <value>Roblox šobrīd nav iespējams lejupielādēt. Lai iegūtu vairāk informācijas, lūdzu, izlasiet šo palīdzības lapu: {0}</value>
     <comment>{0} is a URL</comment>
   </data>
   <data name="Common.ImportFromFile" xml:space="preserve">
-    <value>從文件匯入</value>
+    <value>Importēt no faila</value>
   </data>
   <data name="FileTypes.JSONFiles" xml:space="preserve">
-    <value>JSON 文件</value>
+    <value>JSON faili</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidBoolValue" xml:space="preserve">
-    <value>'{0}'的條目無效；內容必須是布林值 ('True' 或 'False')</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vērtībai jābūt boolean (vai nu "True", vai "False")</value>
     <comment>Do not translate 'True' and 'False', those must stay in English</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidNumberValue" xml:space="preserve">
-    <value>'{0}'的條目無效；內容必須是數字</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vērtībai jābūt skaitlim</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>這次啟動的日誌文件沒有被寫入因為Multistrap未能寫入至在'{0}'的文件夾</value>
+    <value>Par šo palaišanu netiks uzrakstīts žurnāla fails, jo Multistrap nespēj rakstīt uz mapi '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
-    <value>預設</value>
+    <value>Noklusējuma</value>
   </data>
   <data name="Common.Automatic" xml:space="preserve">
-    <value>自動</value>
+    <value>Automātiskais</value>
   </data>
   <data name="Common.SystemDefault" xml:space="preserve">
-    <value>系統預設</value>
+    <value>Sistēmas noklusējuma iestatījumi</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPlaceFilter" xml:space="preserve">
-    <value>'{0}' 的條件無效，因為位置過濾器的條件格式不正確。</value>
+    <value>Ieraksts "{0}" nav derīgs, jo vietas filtrs nav pareizi formatēts.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Multistrap 安裝程式</value>
+    <value>Multistrap Instalētājs</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
-    <value>歡迎</value>
+    <value>Laipni lūdzam</value>
   </data>
   <data name="Installer.Install.Title" xml:space="preserve">
-    <value>安裝</value>
+    <value>Instalēt</value>
     <comment>Refers to "Install" as a verb</comment>
   </data>
   <data name="Installer.Completion.Title" xml:space="preserve">
-    <value>完成</value>
+    <value>Pabeigšana</value>
   </data>
   <data name="Common.Navigation.Back" xml:space="preserve">
-    <value>返回</value>
+    <value>Atpakaļ</value>
   </data>
   <data name="Common.Navigation.Next" xml:space="preserve">
-    <value>下一個</value>
+    <value>Nākamais</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>感謝您下載 Multistrap。 
+    <value>Paldies, ka lejupielādējāt Multistrap. 
 
- {0} 或 {1} 都是 Multistrap 的官方網站。請確保您的 Multistrap 都是從官方來源下載來的。
+Vienīgās oficiālās vietnes, no kurām var lejupielādēt Multistrap, ir {0} un {1}, tāpēc, lūdzu, pārbaudiet, vai tas ir iegūts no oficiāla avota.
 
-安裝過程快速簡單，安裝後您將能夠配置 Multistrap 的任何設定。</value>
+Šis instalēšanas process būs ātrs un vienkāršs, un pēc instalēšanas varēsiet konfigurēt jebkurus Multistrap iestatījumus.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
-    <value>請點擊 “下一步” 以繼續。</value>
+    <value>Lai turpinātu, noklikšķiniet uz "Tālāk".</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>您正在嘗試安裝 Multistrap 的 {0} 版本，但是最新版本是 {1} 。您想下載嗎？</value>
+    <value>Jūs mēģināt instalēt Multistrap versiju {0}, taču jaunākā pieejamā versija ir {1}. Vai vēlaties to lejupielādēt?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
-    <value>選擇安裝位置</value>
+    <value>Izvēlieties, kur instalēt</value>
   </data>
   <data name="Installer.Install.Location.Text" xml:space="preserve">
-    <value>Roblox 也將安裝在此路徑中。如果您希望將所有遊戲安裝到其他的硬碟，請更改此設定。否則，建議您保持不變。</value>
+    <value>Šajā ceļā tiks instalēts arī Roblox. Ja vēlaties visas spēles instalēt atsevišķā diskā, mainiet šo iestatījumu. Pretējā gadījumā ieteicams saglabāt šo ceļu tādu, kāds tas ir.</value>
   </data>
   <data name="Installer.Install.Location.DataFound" xml:space="preserve">
-    <value>發現現有數據。您的模組和設定將被恢復。</value>
+    <value>Atrasti esošie dati. Jūsu modi un iestatījumi tiks atjaunoti.</value>
   </data>
   <data name="Common.Shortcuts" xml:space="preserve">
-    <value>捷徑</value>
+    <value>Īsceļi</value>
   </data>
   <data name="Common.Shortcuts.Desktop" xml:space="preserve">
-    <value>桌面圖示</value>
+    <value>Darbvirsmas ikona</value>
   </data>
   <data name="Common.Shortcuts.StartMenu" xml:space="preserve">
-    <value>開始功能表圖示</value>
+    <value>Sākuma izvēlnes ikona</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Multistrap 已成功安裝。
+    <value>Multistrap ir veiksmīgi instalēts.
 
-Roblox 尚未安裝，這將在您第一次使用 Multistrap 啟動時進行。在此之前，您可能想先配置 Multistrap 的設定。
+Roblox vēl nav instalēts, tas notiks, kad pirmo reizi to iedarbināsiet ar Multistrap. Tomēr, pirms to darāt, vispirms varat konfigurēt Multistrap iestatījumus.
 
-另外，請避免使用「Roblox Player」快捷方式來啟動 Roblox，因為 Multistrap 不會與 Roblox 一起啟動。如果您在從網站啟動時看不到 Multistrap 隨同 Roblox 一起啟動，請從桌面上使用 Multistrap 啟動 Roblox 以解決此問題。
+Izvairieties arī no "Roblox Player" saīsnes izmantošanas, lai palaistu Roblox, jo Multistrap netiks palaists kopā ar Roblox. Ja, palaižot no tīmekļa vietnes, nerādās Multistrap, vienkārši palaidiet Roblox ar Multistrap vienu reizi no darbvirsmas, lai to novērstu.
 
-請問您想做什麼？</value>
+Ko vēlaties darīt?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>更改 Multistrap 的設定</value>
+    <value>Konfigurējiet Multistrap iestatījumus</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
-    <value>調整它所提供的所有功能</value>
+    <value>Tweak ar visām funkcijām, ko tā var piedāvāt</value>
   </data>
   <data name="Installer.Completion.Launch.Title" xml:space="preserve">
-    <value>安裝並啟動 Roblox</value>
+    <value>Instalēt un palaist Robloxu</value>
   </data>
   <data name="Installer.Completion.Launch.Description" xml:space="preserve">
-    <value>一切完成後將帶您進入桌面應用程式</value>
+    <value>Pēc tam, kad viss būs paveikts, jūs nokritīs darbvirsmas lietotnē</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>解除安裝 Multistrap</value>
+    <value>Multistrap atinstalēšana</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>解除安裝將從您的系統中刪除 Multistrap，並重新配置默認的 Roblox 啟動器。
+    <value>Atinstalējot noņemsiet Multistrap no sistēmas un automātiski pārkonfigurēsiet noklusējuma Roblox palaišanas programmu, ja tā joprojām ir instalēta.
 
-如果您是因為 Roblox 出現問題，想要解除安裝，請先閱讀 [此幫助頁面]({0})。
+Ja veicat atinstalēšanu vai pārinstalēšanu, jo jums ir problēmas ar Roblox, vispirms izlasiet [šo palīdzības lapu]({0}).
 
-解除安裝的過程可能無法刪除全部文件。 所以你可能需要手動清理 Multistrap 的殘留文件。
+Atinstalēšanas process var nespēt pilnībā attīrīt pats sevi, tāpēc var būt nepieciešams manuāli iztīrīt atlikušos failus, kuros bija instalēta programma Multistrap.
 
-Multistrap 安裝在 "{1}"。</value>
+Multistrap tika instalēta "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
-    <value>保留我的設定和模組</value>
+    <value>Saglabājiet manus iestatījumus un modus</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>它們將保存在 Multistrap 安裝的位置，並且會在重新安裝時自動恢復</value>
+    <value>Tie tiks saglabāti tur, kur tika instalēta Multistrap, un tiks automātiski atjaunoti pēc atkārtotas instalēšanas.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
-    <value>解除安裝</value>
+    <value>Atinstalēt</value>
   </data>
   <data name="LaunchMenu.LaunchRoblox" xml:space="preserve">
-    <value>啟動 Roblox</value>
+    <value>Roblox palaišana</value>
   </data>
   <data name="LaunchMenu.ConfigureSettings" xml:space="preserve">
-    <value>更改設定</value>
+    <value>Konfigurēt iestatījumus</value>
   </data>
   <data name="LaunchMenu.Wiki.Title" xml:space="preserve">
-    <value>遇到問題了嗎？</value>
+    <value>Ir problēmas?</value>
   </data>
   <data name="LaunchMenu.Wiki.Description" xml:space="preserve">
-    <value>查看 Wiki 以獲取幫助</value>
+    <value>Lai saņemtu palīdzību, skatiet Wiki</value>
   </data>
   <data name="Bootstrapper.WebView2NotFound" xml:space="preserve">
-    <value>您目前未安裝 WebView2 執行階段。某些 Roblox 功能（例如桌面應用程式）在沒有它的情況下將無法正常運行。您想現在下載 WebView2 嗎？</value>
+    <value>Jums pašlaik nav instalēta WebView2 izpildmehānisma programma. Dažas Roblox funkcijas bez tās nedarbosies pareizi, piemēram, darbvirsmas lietotne. Vai vēlaties to lejupielādēt tagad?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Multistrap 無法為桌面和開始功能表創建捷徑。請稍後通過設置創建捷徑。</value>
+    <value>Multistrap nevarēja izveidot īsceļus darbvirsmā un sākuma izvēlnē. Mēģiniet tos izveidot vēlāk, izmantojot iestatījumus.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>請您首先在 [Multistrap Wiki]({0}) 查看這個問題是否已被修復。
+    <value>Vispirms pārbaudiet [Multistrap Wiki]({0}), lai uzzinātu, vai šī problēma jau ir novērsta.
 
-如果沒有，請向此分支的維護者報告此異常。請勿在 Multistrap 的 GitHub 上開 Issues，因為這是一個非官方的版本。</value>
+Ja nē, tad, lūdzu, ziņojiet par šo izņēmumu šīs atvases uzturētājiem. NEZIŅOJIET par šo problēmu Bloxstrap GitHub problēmu sadaļā, jo šī ir neoficiāla kopija.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
-    <value>這些是調出多選啟動菜單的一般快捷鍵。特定功能的快捷鍵可以在設定中稍後創建。</value>
+    <value>Tie ir vispārīgi saīsnes taustiņi, ar kuriem tiek atvērta vairāku izvēļu palaišanas izvēlne. Īsceļus konkrētām funkcijām var izveidot vēlāk iestatījumos.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>設定 Multistrap 的快速啟動方式。</value>
+    <value>Konfigurējiet, kā Multistrap var viegli palaist.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
-    <value>一般設定</value>
+    <value>Vispārīgi</value>
   </data>
   <data name="Menu.Shortcuts.General.Description" xml:space="preserve">
-    <value>這些是調出多選啟動選單的捷徑。</value>
+    <value>Šie ir saīsnes, kas izraisa vairāku izvēļu palaišanas izvēlni.</value>
   </data>
   <data name="Menu.Shortcuts.Function.Title" xml:space="preserve">
-    <value>功能</value>
+    <value>Funkcija</value>
   </data>
   <data name="Menu.Shortcuts.Function.Description" xml:space="preserve">
-    <value>創建捷徑以快速訪問特定功能。這些將會全部放置在桌面上。</value>
+    <value>Izveidojiet īsceļus, lai ātri piekļūtu konkrētām funkcijām. Tie visi tiks izvietoti darbvirsmā.</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Private" xml:space="preserve">
-    <value>已連接至私人伺服器</value>
+    <value>Savienots ar privāto serveri</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Reserved" xml:space="preserve">
-    <value>已連接至後備伺服器</value>
+    <value>Savienots ar rezervēto serveri</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Error" xml:space="preserve">
-    <value>表情符號暫時無法被套用。</value>
+    <value>Pašlaik emodži modi nevar piemērot.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Installer" xml:space="preserve">
-    <value>請等待安裝完成。</value>
+    <value>Lūdzu, pagaidiet, līdz instalēšana tiks pabeigta.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Uninstaller" xml:space="preserve">
-    <value>請等待解除安裝完成。</value>
+    <value>Lūdzu, pagaidiet, līdz tiks pabeigta atinstalēšana.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>關於 Multistrap</value>
+    <value>Par Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
-    <value>授權條款</value>
+    <value>Licences</value>
     <comment>Referring to code licenses; see https://opensource.org/licenses for example</comment>
   </data>
   <data name="About.Translators.Title" xml:space="preserve">
-    <value>翻譯人員</value>
+    <value>Tulkotāji</value>
   </data>
   <data name="Menu.UnsavedChanges" xml:space="preserve">
-    <value>您有未儲存的變更。確定要在不儲存的情況下關閉嗎？</value>
+    <value>Jums ir nesaglabātas izmaiņas. Vai esat pārliecināts, ka vēlaties aizvērt bez saglabāšanas?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>您啟動的 Multistrap 版本比當前已安裝的版本舊。
-可能會發生問題，並且您的設定可能會被更改，請建議重新安裝。
-您確定要繼續嗎？</value>
+    <value>Palaistā Multistrap versija ir vecāka par pašlaik instalēto versiju.
+Var rasties problēmas, un jūsu iestatījumi var tikt izmainīti. Ieteicams veikt atkārtotu instalēšanu.
+Vai esat pārliecināts, ka vēlaties turpināt?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
-    <value>Roblox 啟動失敗。</value>
+    <value>Roblox neizdevās palaist.</value>
   </data>
   <data name="Dialog.PlayerError.Crash" xml:space="preserve">
-    <value>Roblox 已崩潰。</value>
+    <value>Roblox ir avarējis.</value>
   </data>
   <data name="Dialog.PlayerError.HelpInformation" xml:space="preserve">
-    <value>請閱讀以下幫助資訊，關閉此對話框後，它將在您的瀏覽器中打開。</value>
+    <value>Lūdzu, izlasiet tālāk sniegto palīdzības informāciju, kas tiks atvērta tīmekļa pārlūkprogrammā, kad aizvērsiet šo dialoglodziņu.</value>
   </data>
   <data name="Common.NetworkError" xml:space="preserve">
-    <value>由於網絡錯誤，無法載入數據。</value>
+    <value>Nevar ielādēt datus tīkla kļūdas dēļ.</value>
   </data>
   <data name="Common.Loading" xml:space="preserve">
-    <value>正在載入，請稍等...</value>
+    <value>Iekraušana, lūdzu, uzgaidiet...</value>
   </data>
   <data name="About.Supporters.Title" xml:space="preserve">
-    <value>贊助者</value>
+    <value>Atbalstītāji</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>這是目前通過 [Ko-fi]({0}) 支持 Multistrap 的人。非常感激不盡！</value>
+    <value>Tie ir cilvēki, kas pašlaik atbalsta Multistrap, izmantojot [Ko-fi]({0}). Liels paldies visiem šeit!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
-    <value>無法載入您的設置 。它們已被重設為默認設置。</value>
+    <value>Jūsu iestatījumus nevar ielādēt. Tajos ir atjaunota noklusējuma konfigurācija.</value>
   </data>
   <data name="JsonManager.FastFlagsLoadFailed" xml:space="preserve">
-    <value>無法載入您的 Flast Flags 。它們已被重設為默認設置。</value>
+    <value>Jūsu Fast Flags nevar ielādēt. Tika atjaunota noklusējuma konfigurācija.</value>
   </data>
   <data name="ContextMenu.GameHistory.Title" xml:space="preserve">
-    <value>遊戲歷史</value>
+    <value>Spēles vēsture</value>
   </data>
   <data name="ContextMenu.GameHistory.Rejoin" xml:space="preserve">
-    <value>重新加入</value>
+    <value>Pievienojies</value>
   </data>
   <data name="ActivityWatcher.RichPresenceLoadFailed" xml:space="preserve">
-    <value>由於載入遊戲資訊時發生錯誤，您當前的遊戲將不會在您的 Discord 活動狀態上顯示。</value>
+    <value>Jūsu pašreizējā spēle nebūs redzama jūsu Discord klātbūtnē, jo, ielādējot spēles informāciju, notika kļūda.</value>
   </data>
   <data name="ContextMenu.GameHistory.Description" xml:space="preserve">
-    <value>遊戲歷史僅在您當前的 Roblox 工作階段中記錄下來。當您離開遊戲或在遊戲中傳送時，您所遊玩的遊戲將出現在這裡。並非所有伺服器都可以重新加入。</value>
+    <value>Spēļu vēsture tiek ierakstīta tikai jūsu pašreizējai Roblox sesijai. Spēles šeit parādīsies, kad tās atstāsiet vai teleportēsieties tajās. Ne visos serveros būs iespējams atkārtoti pievienoties.</value>
   </data>
   <data name="ActivityWatcher.LocationQueryFailed" xml:space="preserve">
-    <value>無法查詢伺服器位置。您可能加入遊戲的速度太快了。</value>
+    <value>Servera atrašanās vietu nevarēja uzmeklēt. Iespējams, jūs pārāk ātri pievienojaties spēlēm.</value>
   </data>
   <data name="Dialog.Connectivity.TryAgainLater" xml:space="preserve">
-    <value>請稍後再試。</value>
+    <value>Lūdzu, mēģiniet vēlreiz vēlāk.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeSkip" xml:space="preserve">
-    <value>此次啟動將不會檢查 Roblox 更新，對模組的更改將不會被套用。</value>
+    <value>Šīs palaišanas laikā Roblox netiks pārbaudīts, vai tiek veikti jauninājumi, un netiks piemērotas izmaiņas modos.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>因為 Roblox 需要安裝或更新，Multistrap 無法繼續執行。</value>
+    <value>Tā kā ir jāuzstāda vai jāatjaunina Roblox, Multistrap nevar turpināt.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Multistrap 之前已安裝到此位置並且仍然存在，但安裝程式無法覆蓋舊的可執行文件。
+    <value>Multistrap šajā vietā ir bijis instalēts jau iepriekš un joprojām ir pieejams, tomēr instalētājs nevar pārrakstīt veco izpildāmo failu. 
 
-請手動刪除安裝位置中的 Bloxstrap.exe，或者嘗試重啟系統，然後再嘗試重新安裝。</value>
+Lūdzu, manuāli izdzēsiet Multistrap.exe no instalēšanas atrašanās vietas vai mēģiniet restartēt sistēmu un pēc tam atkārtoti mēģiniet instalēt.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
-    <value>無法使用</value>
+    <value>Nav pieejams</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Title" xml:space="preserve">
-    <value>管理相容性設定</value>
+    <value>Savietojamības iestatījumu pārvaldība</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Description" xml:space="preserve">
-    <value>配置應用程式參數，例如 DPI 縮放行為和 [全螢幕最佳化]({0})。</value>
+    <value>Konfigurējiet lietojumprogrammas parametrus, piemēram, DPI mērogošanas režīmu un [pilnekrāna optimizācijas]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox 尚未安裝。請至少使用 Multistrap 啟動一次 Roblox，然後再嘗試使用此選項。</value>
+    <value>Roblox vēl nav instalēts. Pirms mēģināt izmantot šo opciju, lūdzu, vismaz vienu reizi palaidiet Roblox, izmantojot Multistrap.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
-    <value>您確定要取消安裝嗎？</value>
+    <value>Vai esat pārliecināts, ka vēlaties atcelt instalēšanu?</value>
   </data>
   <data name="Bootstrapper.JsonManagerSaveFailed" xml:space="preserve">
-    <value>無法儲存 {0}: {1}</value>
+    <value>Neizdevās saglabāt {0}: {1}</value>
   </data>
   <data name="Dialog.IconLoadFailed" xml:space="preserve">
-    <value>無法加載所選擇的啟動器圖標。
+    <value>Izvēlēto bootstrapper ikonu neizdevās ielādēt.
 
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Title" xml:space="preserve">
-    <value>提取 Roblox 圖示到資料夾</value>
+    <value>Izraksts Roblox ikonas mapē</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
+    <value>Ļauj izmantot Multistrap piedāvāto Roblox ikonu klāstu īsceļiem. [Skatiet, kā]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Multistrap 無法寫入進 Windows 登錄檔。可能是防毒軟體干擾並導致問題。請檢查是否有任何會限制 Multistrap 操作的應用程式。</value>
+    <value>Multistrap nespēj rakstīt uz Windows reģistru. Iespējams, ka traucē un problēmas rada antivīruss. Lūdzu, pārbaudiet, vai nav nekā tāda, kas ierobežotu Multistrap darbību.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>每月</value>
+    <value>Ikmēneša</value>
   </data>
   <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>一次性</value>
+    <value>Vienreizējs</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>調整 Multistrap 自身行為相關的選項。</value>
+    <value>Konfigurējiet opcijas, kas saistītas ar Multistrap uzvedību.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
-    <value>允許 Multistrap 對數據進行分析</value>
+    <value>Analītikas sūtīšanas iespējošana</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Description" xml:space="preserve">
-    <value>這是匿名的，絕對沒有像政府一樣幹走您的個人資料。我們收集的內容和其原因，請參考我們的[隱私政策]({0})。</value>
+    <value>Tas ir anonīms un nekas ļauns, apsoliet. Lai uzzinātu, ko mēs apkopojam un kāpēc, skatiet mūsu [konfidencialitātes politiku]({0}).</value>
   </data>
   <data name="Common.Analytics" xml:space="preserve">
-    <value>數據分析</value>
+    <value>Analītika</value>
   </data>
   <data name="Menu.FastFlags.Reset.Title" xml:space="preserve">
-    <value>將所有設定重設為預設值</value>
+    <value>Atiestatīt visu noklusējuma iestatījumus</value>
   </data>
   <data name="Dialog.Exception.Report" xml:space="preserve">
-    <value>報告錯誤</value>
+    <value>Ziņot par izņēmumu</value>
   </data>
   <data name="Menu.TestMode" xml:space="preserve">
-    <value>測試模式</value>
+    <value>Testēšanas režīms</value>
     <comment>See the prompt for more context</comment>
   </data>
   <data name="Menu.TestMode.Prompt" xml:space="preserve">
-    <value>「測試模式」使您更輕鬆地反覆測試您的設定是如何影響 Roblox 的。
+    <value>Testēšanas režīmā ir vieglāk iteratīvi pārbaudīt, kā jūsu iestatījumi ietekmē Roblox. 
 
-啟用後，它將在關閉設定視窗後自動啟動 Roblox，並在關閉 Roblox 後重新打開設定視窗，如此循環，直到您關閉該功能。
+Kad šis režīms ir ieslēgts, tas automātiski iedarbina Roblox pēc iestatījumu aizvēršanas un atkal atver iestatījumus pēc Roblox aizvēršanas, un tas turpināsies tik ilgi, līdz to izslēgsiet.
 
-您想要啟用測試模式嗎？</value>
+Vai vēlaties iespējot testa režīmu?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Multistrap 的所有翻譯都是通過 [Crowdin]({0}) 群眾外包而來。這裡列出的每一個人都是慷慨地志願貢獻時間和精力來幫助本地化 Multistrap 的人。對這裡的每一位，我們深表感謝！</value>
+    <value>Visi Multistrap tulkojumi tiek veikti ar [Crowdin] ({0}). Visi šeit uzskaitītie ir cilvēki, kuri dāsni ziedojuši savu laiku un pūles, lai palīdzētu lokalizēt Multistrap. Liels paldies ikvienam no jums!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
-    <value>安裝</value>
+    <value>Uzstādīt</value>
     <comment>The word "Install" is being used as a verb in this instance, like the other navigation button texts of "Next" and "Back"</comment>
   </data>
   <data name="LaunchMenu.Donate" xml:space="preserve">
-    <value>在 Ko-fi 上支持我們！</value>
+    <value>Atbalstiet mūs Ko-fi!</value>
     <comment>Call-to-action button</comment>
   </data>
   <data name="Paths.Icons" xml:space="preserve">
-    <value>圖示</value>
+    <value>Ikonas</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
   </data>
   <data name="Dialog.Exception.Version" xml:space="preserve">
-    <value>Version {0}</value>
+    <value>Versija {0}</value>
   </data>
 </root>
