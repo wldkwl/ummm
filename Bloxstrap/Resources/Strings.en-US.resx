@@ -118,204 +118,204 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Bootstrapper.AutoUpdateFailed" xml:space="preserve">
-    <value>Automatyczna aktualizacja do wersji {0} nie powiodła się. Prosimy zaktualizować Multistrap ręcznie, pobierając i uruchomiając program z oficjalnej strony internetowej.</value>
+    <value>Multistrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website.</value>
   </data>
   <data name="Bootstrapper.ConfirmLaunch" xml:space="preserve">
-    <value>Roblox jest aktualnie uruchomiony. Uruchomienie następnej instancji spowoduje zamknięcie procesu. Czy jesteś pewien, że chcesz kontynuować uruchamianie?</value>
+    <value>Roblox is currently running, and launching another instance will close it. Are you sure you want to continue launching?</value>
   </data>
   <data name="Dialog.Connectivity.Preventing" xml:space="preserve">
-    <value>Coś prawdopodobnie uniemożliwia aplikacji połączenia się do internetu.</value>
+    <value>Something is likely preventing Multistrap from connecting to the internet.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxDown" xml:space="preserve">
-    <value>Możliwe, że Roblox w tej chwili ma awarię. Więcej informacji na {0}.</value>
+    <value>Roblox may be down right now. See {0} for more information.</value>
   </data>
   <data name="Dialog.Connectivity.TimedOut" xml:space="preserve">
-    <value>Połączenie zostało przerwane, co może wskazywać na słabe połączenie internetowe lub zablokowanie przez zaporę sieciową.</value>
+    <value>The connection timed out, which could indicate a poor internet connection or a firewall block.</value>
   </data>
   <data name="Bootstrapper.FirstRunUninstall" xml:space="preserve">
-    <value>Musisz najpierw zainstalować Multistrap, żeby móc go odinstalować.</value>
+    <value>You must first install Multistrap before uninstalling.</value>
   </data>
   <data name="Bootstrapper.NotEnoughSpace" xml:space="preserve">
-    <value>Multistrap nie ma wystarczającej ilości miejsca na dysku, aby pobrać i zainstalować Roblox. Zwolnij trochę miejsca na dysku i spróbuj ponownie.</value>
+    <value>Multistrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again.</value>
   </data>
   <data name="Bootstrapper.Status.ApplyingModifications" xml:space="preserve">
-    <value>Stosowanie modyfikacji Roblox...</value>
+    <value>Applying Roblox modifications...</value>
   </data>
   <data name="Bootstrapper.Status.Configuring" xml:space="preserve">
-    <value>Konfigurowanie {product}...</value>
+    <value>Configuring {product}...</value>
   </data>
   <data name="Bootstrapper.Status.Connecting" xml:space="preserve">
-    <value>Łączenie do Roblox...</value>
+    <value>Connecting to Roblox...</value>
   </data>
   <data name="Bootstrapper.Status.Installing" xml:space="preserve">
-    <value>Instalowanie {product}...</value>
+    <value>Installing {product}...</value>
   </data>
   <data name="Bootstrapper.Status.InstallingWebView2" xml:space="preserve">
-    <value>Instalowanie WebWiew2, proszę czekać...</value>
+    <value>Installing WebView2, please wait...</value>
   </data>
   <data name="Bootstrapper.Status.Starting" xml:space="preserve">
-    <value>Uruchamianie {product}...</value>
+    <value>Starting {product}...</value>
     <comment>"Starting Roblox" or "Starting Roblox Studio"</comment>
   </data>
   <data name="Bootstrapper.Status.Upgrading" xml:space="preserve">
-    <value>Aktualizowanie {product}...</value>
+    <value>Upgrading {product}...</value>
   </data>
   <data name="Bootstrapper.Status.UpgradingBloxstrap" xml:space="preserve">
-    <value>Pobieranie najnowszej wersji Bloxstrap...</value>
+    <value>Getting the latest Multistrap...</value>
   </data>
   <data name="Bootstrapper.Status.WaitingOtherInstances" xml:space="preserve">
-    <value>Czekam na inne instancje...</value>
+    <value>Waiting for other instances...</value>
   </data>
   <data name="Bootstrapper.StylePreview.ImageCancel" xml:space="preserve">
-    <value>Podgląd stylu — Kliknij „X” w prawym górnym rogu, aby zamknąć</value>
+    <value>Style preview - Click the X button at the top right to close</value>
     <comment>Text for style previews that use an X button. Currently only applies to Byfron</comment>
   </data>
   <data name="Bootstrapper.StylePreview.TextCancel" xml:space="preserve">
-    <value>Podgląd stylu — Kliknij „Anuluj”, aby zamknąć</value>
+    <value>Style preview - Click Cancel to close</value>
     <comment>Text for style previews that use text button that says "Cancel"</comment>
   </data>
   <data name="Bootstrapper.SuccessfullyUninstalled" xml:space="preserve">
-    <value>Multistrap został pomyślnie odinstalowany</value>
+    <value>Multistrap has successfully uninstalled</value>
   </data>
   <data name="Bootstrapper.Uninstall.RobloxRunning" xml:space="preserve">
-    <value>Roblox jest obecnie uruchomiony w tle, natomiast musi zostać zamknięty przed odinstalowaniem Bloxstrap. Czy chcesz zamknąć Roblox teraz?</value>
+    <value>Roblox is currently running, but must be closed before uninstalling Multistrap. Would you like close Roblox now?</value>
   </data>
   <data name="Bootstrapper.WMFNotFound" xml:space="preserve">
-    <value>Roblox wymaga użycia komponentów Windows Media Foundation. Wygląda na to, że ich brakuje, prawdopodobnie dlatego, że używasz wersji N systemu Windows. Najpierw je zainstaluj, a następnie uruchom Roblox.</value>
+    <value>Roblox requires the use of Windows Media Foundation components. You appear to be missing them, likely because you are using an N edition of Windows. Please install them first, and then launch Roblox.</value>
   </data>
   <data name="Common.AddSingle" xml:space="preserve">
-    <value>Dodaj jedną</value>
+    <value>Add single</value>
   </data>
   <data name="Common.Browse" xml:space="preserve">
-    <value>Przeglądaj</value>
+    <value>Browse</value>
   </data>
   <data name="Common.Cancel" xml:space="preserve">
-    <value>Anuluj</value>
+    <value>Cancel</value>
   </data>
   <data name="Common.Close" xml:space="preserve">
-    <value>Zamknij</value>
+    <value>Close</value>
   </data>
   <data name="Common.Delete" xml:space="preserve">
-    <value>Usuń</value>
+    <value>Delete</value>
   </data>
   <data name="Common.DiscordRichPresence" xml:space="preserve">
-    <value>Status aktywności Discord</value>
+    <value>Discord Rich Presence</value>
   </data>
   <data name="Common.Help" xml:space="preserve">
-    <value>Pomoc</value>
+    <value>Help</value>
   </data>
   <data name="Common.ImportJson" xml:space="preserve">
-    <value>Importuj JSON</value>
+    <value>Import JSON</value>
   </data>
   <data name="Common.OpenLogFile" xml:space="preserve">
-    <value>Otwórz plik dziennika</value>
+    <value>Open log file</value>
   </data>
   <data name="Common.Miscellaneous" xml:space="preserve">
-    <value>Różne</value>
+    <value>Miscellaneous</value>
   </data>
   <data name="Common.Name" xml:space="preserve">
-    <value>Nazwa</value>
+    <value>Name</value>
   </data>
   <data name="Common.New" xml:space="preserve">
-    <value>Nowe</value>
+    <value>New</value>
   </data>
   <data name="Common.No" xml:space="preserve">
-    <value>Nie</value>
+    <value>No</value>
   </data>
   <data name="Common.OK" xml:space="preserve">
     <value>OK</value>
   </data>
   <data name="Common.Presets" xml:space="preserve">
-    <value>Presety</value>
+    <value>Presets</value>
   </data>
   <data name="Common.Reset" xml:space="preserve">
-    <value>Zresetuj</value>
+    <value>Reset</value>
     <comment>In the context of resetting something to a default value</comment>
   </data>
   <data name="Common.Value" xml:space="preserve">
-    <value>Wartość</value>
+    <value>Value</value>
   </data>
   <data name="Common.Warning" xml:space="preserve">
-    <value>Uwaga</value>
+    <value>Warning</value>
   </data>
   <data name="Common.Yes" xml:space="preserve">
-    <value>Tak</value>
+    <value>Yes</value>
   </data>
   <data name="ContextMenu.CloseRoblox" xml:space="preserve">
-    <value>Zamknij Roblox</value>
+    <value>Close Roblox</value>
   </data>
   <data name="ContextMenu.CloseRobloxMessage" xml:space="preserve">
-    <value>Czy na pewno chcesz zamknąć Roblox? To wymusi zakończenie procesu.</value>
+    <value>Are you sure you want to close Roblox? This will forcefully end the process.</value>
   </data>
   <data name="ContextMenu.CopyDeeplinkInvite" xml:space="preserve">
-    <value>Kopiuj zaproszenie deeplink</value>
+    <value>Copy invite deeplink</value>
   </data>
   <data name="ContextMenu.ServerInformation.CopyInstanceId" xml:space="preserve">
-    <value>Skopiuj ID Miejsca</value>
+    <value>Copy Instance ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.InstanceId" xml:space="preserve">
-    <value>ID Miejsca</value>
+    <value>Instance ID</value>
   </data>
   <data name="ContextMenu.ServerInformation.Location" xml:space="preserve">
-    <value>Położenie</value>
+    <value>Location</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Text" xml:space="preserve">
-    <value>Położone w {0}
-Kliknij, aby dowiedzieć się więcej</value>
+    <value>Location: {0}
+Click for more information</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Public" xml:space="preserve">
-    <value>Połączono z serwerem publicznym</value>
+    <value>Connected to public server</value>
   </data>
   <data name="ContextMenu.ServerInformation.Title" xml:space="preserve">
-    <value>Informacja o serwerze</value>
+    <value>Server information</value>
   </data>
   <data name="ContextMenu.ServerInformation.Type" xml:space="preserve">
-    <value>Rodzaj</value>
+    <value>Type</value>
   </data>
   <data name="Dialog.AddFastFlag.Title" xml:space="preserve">
-    <value>Dodaj Fast Flag</value>
+    <value>Add Fast Flag</value>
   </data>
   <data name="Dialog.Connectivity.MoreInfo" xml:space="preserve">
-    <value>Więcej informacji:</value>
+    <value>More information:</value>
   </data>
   <data name="Dialog.Connectivity.Title" xml:space="preserve">
-    <value>Błąd połączenia</value>
+    <value>Connectivity error</value>
   </data>
   <data name="Dialog.Connectivity.UnableToConnect" xml:space="preserve">
-    <value>Multistrap nie jest w stanie połączyć się z {0}</value>
+    <value>Multistrap is unable to connect to {0}</value>
     <comment>{0} is the name of a service (i.e. Roblox, GitHub)</comment>
   </data>
   <data name="Dialog.Exception.CopyLogContents" xml:space="preserve">
-    <value>Skopiuj zawartość dziennika</value>
+    <value>Copy log contents</value>
   </data>
   <data name="Dialog.Exception.Info.1" xml:space="preserve">
-    <value>Wystąpił błąd podczas uruchamiania Multistrap</value>
+    <value>An exception occurred while running Multistrap</value>
   </data>
   <data name="Dialog.Exception.Info.2" xml:space="preserve">
-    <value>Najpierw sprawdź [Multistrap Wiki]({0}), by zobaczyć czy ten problem nie został już rozwiązany.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Jeśli nie, zgłoś ten błąd przez [GitHub]({1}) wraz z utworzoną kopią pliku dziennika.</value>
+If not, then please report this exception through a [GitHub issue]({1}) along with a copy of the log file that was created.</value>
   </data>
   <data name="Dialog.Exception.Title" xml:space="preserve">
-    <value>Błąd Multistrap</value>
+    <value>Multistrap Exception</value>
   </data>
   <data name="Common.Custom" xml:space="preserve">
-    <value>Niestandardowy</value>
+    <value>Custom</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconEarly2015" xml:space="preserve">
-    <value>Wczesny 2015</value>
+    <value>Early 2015</value>
   </data>
   <data name="Enums.BootstrapperIcon.IconLate2015" xml:space="preserve">
-    <value>Koniec 2015</value>
+    <value>Late 2015</value>
   </data>
   <data name="Enums.BootstrapperStyle.ByfronDialog" xml:space="preserve">
     <value>Fake Byfron (2023)</value>
   </data>
   <data name="Enums.BootstrapperStyle.ClassicFluentDialog" xml:space="preserve">
-    <value>Bloxstrap (Classic)</value>
+    <value>Multistrap (Classic)</value>
   </data>
   <data name="Enums.BootstrapperStyle.FluentAeroDialog" xml:space="preserve">
-    <value>Bloxstrap (Glass)</value>
+    <value>Multistrap (Glass)</value>
   </data>
   <data name="Enums.BootstrapperStyle.LegacyDialog2008" xml:space="preserve">
     <value>Legacy (2008 - 2011)</value>
@@ -339,7 +339,7 @@ Jeśli nie, zgłoś ten błąd przez [GitHub]({1}) wraz z utworzoną kopią plik
     <value>Catmoji</value>
   </data>
   <data name="Enums.EmojiType.Default" xml:space="preserve">
-    <value>Domyślny (Twemoji)</value>
+    <value>Default (Twemoji)</value>
   </data>
   <data name="Enums.EmojiType.Windows10" xml:space="preserve">
     <value>Windows 10</value>
@@ -351,25 +351,25 @@ Jeśli nie, zgłoś ten błąd przez [GitHub]({1}) wraz z utworzoną kopią plik
     <value>Windows 8</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V1" xml:space="preserve">
-    <value>2015 (Wersja 1)</value>
+    <value>2015 (V1)</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V2" xml:space="preserve">
-    <value>2020 (Wersja 2)</value>
+    <value>2020 (V2)</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V4" xml:space="preserve">
-    <value>2023 (Wersja 4)</value>
+    <value>2023 (V4)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Default" xml:space="preserve">
-    <value>Wybrane przez grę</value>
+    <value>Chosen by game</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Future" xml:space="preserve">
-    <value>Future (Faza 3)</value>
+    <value>Future (Phase 3)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.ShadowMap" xml:space="preserve">
-    <value>Shadow Map (Faza 2)</value>
+    <value>Shadow Map (Phase 2)</value>
   </data>
   <data name="Enums.FlagPresets.LightingMode.Voxel" xml:space="preserve">
-    <value>Voxel (Faza 1)</value>
+    <value>Voxel (Phase 1)</value>
   </data>
   <data name="Enums.FlagPresets.RenderingMode.D3D10" xml:space="preserve">
     <value>Direct3D 10</value>
@@ -378,150 +378,150 @@ Jeśli nie, zgłoś ten błąd przez [GitHub]({1}) wraz z utworzoną kopią plik
     <value>Direct3D 11</value>
   </data>
   <data name="Enums.ServerType.Private" xml:space="preserve">
-    <value>Prywatny serwer</value>
+    <value>Private server</value>
   </data>
   <data name="Enums.ServerType.Public" xml:space="preserve">
-    <value>Publiczny serwer</value>
+    <value>Public server</value>
   </data>
   <data name="Enums.ServerType.Reserved" xml:space="preserve">
-    <value>Zarezerwowany serwer</value>
+    <value>Reserved server</value>
   </data>
   <data name="Enums.Theme.Dark" xml:space="preserve">
-    <value>Ciemny</value>
+    <value>Dark</value>
   </data>
   <data name="Enums.Theme.Light" xml:space="preserve">
-    <value>Jasny</value>
+    <value>Light</value>
   </data>
   <data name="InstallChecker.Updated" xml:space="preserve">
-    <value>Multistrap został zaktualizowany do wersji v{0}</value>
+    <value>Multistrap has been upgraded to v{0}</value>
   </data>
   <data name="InstallChecker.VersionDifferentThanInstalled" xml:space="preserve">
-    <value>Wersja Multistrap, którą uruchomiłeś, różni się od wersji, którą aktualnie zainstalowałeś. 
-Czy chcesz zaktualizować aktualnie zainstalowaną wersję?</value>
+    <value>The version of Multistrap you've launched is different to the version you currently have installed.
+Would you like to upgrade your currently installed version?</value>
   </data>
   <data name="Menu.About.Contributors" xml:space="preserve">
-    <value>Współautorzy</value>
+    <value>Contributors</value>
   </data>
   <data name="Menu.About.Contributors.Code" xml:space="preserve">
-    <value>Kod</value>
+    <value>Code</value>
   </data>
   <data name="Menu.About.Contributors.Description" xml:space="preserve">
-    <value>To ludzie, którzy wnieśli znaczący wkład w Multistrap, pomagając uczynić go tym, czym jest.</value>
+    <value>These are the people who have made notable contributions to Multistrap, helping make it what it is.</value>
   </data>
   <data name="Menu.About.Contributors.FeatureIdeas" xml:space="preserve">
-    <value>Pomysły</value>
+    <value>Feature Ideas</value>
   </data>
   <data name="Menu.About.Contributors.SpecialThanks" xml:space="preserve">
-    <value>Specjalne Podziękowania</value>
+    <value>Special Thanks</value>
   </data>
   <data name="Menu.About.Description" xml:space="preserve">
-    <value>Alternatywny launcher dla Roblox z wieloma dodatkowymi funkcjami.</value>
+    <value>An alternative bootstrapper for Roblox with a bunch of extra features.</value>
   </data>
   <data name="Menu.About.DiscordServer" xml:space="preserve">
-    <value>Serwer Discord</value>
+    <value>Discord server</value>
   </data>
   <data name="Menu.About.GithubRepository" xml:space="preserve">
-    <value>Repozytorium GitHub</value>
+    <value>GitHub repository</value>
   </data>
   <data name="Menu.About.HelpInformation" xml:space="preserve">
-    <value>Pomoc i informacje</value>
+    <value>Help and Information</value>
   </data>
   <data name="Menu.About.Licenses" xml:space="preserve">
-    <value>Licencje</value>
+    <value>Licenses</value>
   </data>
   <data name="Menu.About.Licenses.BSD2" xml:space="preserve">
-    <value>Licencja BSD 2-Clause</value>
+    <value>BSD 2-Clause License</value>
   </data>
   <data name="Menu.About.Licenses.MIT" xml:space="preserve">
-    <value>Licencja MIT</value>
+    <value>MIT License</value>
   </data>
   <data name="Menu.About.ReportIssue" xml:space="preserve">
-    <value>Zgłoś problem</value>
+    <value>Report an issue</value>
   </data>
   <data name="Menu.About.Title" xml:space="preserve">
-    <value>O</value>
+    <value>About</value>
   </data>
   <data name="Menu.About.Version" xml:space="preserve">
-    <value>Wersja {0}</value>
+    <value>Version {0}</value>
     <comment>{0} is replaced with the version, i.e. "Version 2.8.0"</comment>
   </data>
   <data name="Menu.AllFiles" xml:space="preserve">
-    <value>Wszystkie pliki</value>
+    <value>All files</value>
   </data>
   <data name="Menu.AlreadyRunning.Caption" xml:space="preserve">
-    <value>Pamiętaj, że nie wszystkie zmiany zostaną zastosowane natychmiast, dopóki nie zamkniesz wszystkich aktualnie otwartych instancji Roblox.</value>
+    <value>Please note that not all your changes will immediately apply until you close all currently open Roblox instances.</value>
   </data>
   <data name="Menu.AlreadyRunning.Title" xml:space="preserve">
-    <value>Multistrap już jest uruchomiony</value>
+    <value>Multistrap is already running</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Description" xml:space="preserve">
-    <value>Możesz sprawić, że będzie wyglądać inaczej, retro lub nawet po prostu jak Roblox.</value>
+    <value>You can make it look different, retro, or even just like Roblox.</value>
   </data>
   <data name="Menu.Appearance.Bootstrapper.Title" xml:space="preserve">
-    <value>Launcher</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.Appearance.Customisation.Description" xml:space="preserve">
-    <value>Skonfiguruj inne różne konfigurowalne opcje.</value>
+    <value>Configure other miscellaneous customisable options.</value>
   </data>
   <data name="Menu.Appearance.Customisation.Title" xml:space="preserve">
-    <value>Dostosowywanie</value>
+    <value>Customisation</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Description" xml:space="preserve">
-    <value>Musi to być plik .ico o rozmiarach od 16px do 128px. Ustaw ikonę jako „Niestandardową”, aby ją zastosować.</value>
+    <value>Must be a multi-size .ico file with sizes 16px to 128px. Set Icon as 'Custom' to use it.</value>
   </data>
   <data name="Menu.Appearance.CustomisationIcon.Title" xml:space="preserve">
-    <value>Niestandardowa Ikona</value>
+    <value>Custom Icon</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Description" xml:space="preserve">
-    <value>Tekst, który się wyświetla jako nazwa launchera.</value>
+    <value>The text that shows as the title of the bootstrapper.</value>
   </data>
   <data name="Menu.Appearance.CustomisationTitle.Title" xml:space="preserve">
-    <value>Tytuł</value>
+    <value>Title</value>
   </data>
   <data name="Menu.Appearance.Description" xml:space="preserve">
-    <value>Skonfiguruj jak Multistrap powinien wyglądać.</value>
+    <value>Configure how Multistrap should look.</value>
   </data>
   <data name="Menu.Appearance.Global.Theme.Title" xml:space="preserve">
-    <value>Globalny motyw</value>
+    <value>Global Theme</value>
   </data>
   <data name="Menu.Appearance.Icon.Description" xml:space="preserve">
-    <value>Wybierz jakiej ikony ma używać.</value>
+    <value>Choose what icon it should use.</value>
   </data>
   <data name="Menu.Appearance.Icon.Title" xml:space="preserve">
-    <value>Ikona</value>
+    <value>Icon</value>
   </data>
   <data name="Menu.Appearance.Preview" xml:space="preserve">
-    <value>Podgląd</value>
+    <value>Preview</value>
   </data>
   <data name="Menu.Appearance.Style.Description" xml:space="preserve">
-    <value>Wybierz, jak ma to wyglądać. Ciemny motyw nie dotyczy Legacy/Vista.</value>
+    <value>Choose how it should look. Dark theme does not apply to Legacy/Vista.</value>
   </data>
   <data name="Menu.Appearance.Style.Title" xml:space="preserve">
-    <value>Styl</value>
+    <value>Style</value>
   </data>
   <data name="Menu.Appearance.Title" xml:space="preserve">
-    <value>Wygląd</value>
+    <value>Appearance</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Description" xml:space="preserve">
-    <value>Multistrap automatycznie zaktualizuje się po uruchomieniu Roblox.</value>
+    <value>Multistrap will automatically check and update itself when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.AutoUpdate.Title" xml:space="preserve">
-    <value>Automatycznie zaktualizuj Multistrap</value>
+    <value>Automatically update Multistrap</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Description" xml:space="preserve">
-    <value>Zapobiegnij zamknięciu istniejącej sesji przed przypadkowym uruchomieniem innej.</value>
+    <value>Prevent against closures of your existing game from accidentally launching another one.</value>
   </data>
   <data name="Menu.Behaviour.ConfirmLaunches.Title" xml:space="preserve">
-    <value>Prośba o potwierdzenie podczas uruchamiania innej instancji Roblox</value>
+    <value>Prompt to confirm when launching another Roblox instance</value>
   </data>
   <data name="Menu.Behaviour.Description" xml:space="preserve">
-    <value>Skonfiguruj, co Multistrap powinien zrobić podczas uruchamiania Roblox.</value>
+    <value>Configure what Multistrap should do when launching Roblox.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Description" xml:space="preserve">
-    <value>Roblox będzie zainstalowany na nowo przy następnym uruchomieniu.</value>
+    <value>Roblox will be installed fresh on next launch.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxReinstall.Title" xml:space="preserve">
-    <value>Zmuś Roblox do re-instalacji</value>
+    <value>Force Roblox reinstallation</value>
   </data>
   <data name="Menu.Behaviour.MultiInstance.Description" xml:space="preserve">
     <value>Allows for having more than one Roblox game client instance open simultanously.</value>
@@ -530,715 +530,716 @@ Czy chcesz zaktualizować aktualnie zainstalowaną wersję?</value>
     <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Behaviour.Title" xml:space="preserve">
-    <value>Launcher</value>
+    <value>Bootstrapper</value>
   </data>
   <data name="Menu.FastFlagEditor.AddNew" xml:space="preserve">
-    <value>Dodaj nową</value>
+    <value>Add new</value>
   </data>
   <data name="Menu.FastFlagEditor.AlreadyExists" xml:space="preserve">
-    <value>Wpis dla tej nazwy flagi już istnieje.</value>
+    <value>An entry for this flag name already exists.</value>
   </data>
   <data name="Menu.FastFlagEditor.Back" xml:space="preserve">
-    <value>Wróć</value>
+    <value>Back</value>
   </data>
   <data name="Menu.FastFlagEditor.BannerText" xml:space="preserve">
-    <value>Niewłaściwe użycie tego może doprowadzić do niestabilności lub nieoczekiwanych zdarzeń.</value>
+    <value>Misusing this can lead to instability or unexpected things happening.</value>
     <comment>The element that this string is rendered in *cannot be wrapped* and may be truncated when displayed if too long. If so, try and paraphrase a shortened version.</comment>
   </data>
   <data name="Menu.FastFlagEditor.BannerTitle" xml:space="preserve">
-    <value>Używaj z ostrożnością.</value>
+    <value>Use with caution.</value>
   </data>
   <data name="Menu.FastFlagEditor.ConflictingImport" xml:space="preserve">
-    <value>Niektóre flagi, które próbujesz zaimportować, mają już ustawione wartości. Czy chcesz nadpisać ich aktualne wartości wartościami zdefiniowanymi w imporcie?
+    <value>Some of the flags you are attempting to import already have set values. Would you like to overwrite their current values with the ones defined in the import?
 
-Istnieje {0} sprzecznych definicji flag:
+There are {0} conflicting flag definitions:
 {1}</value>
     <comment>{0} is a number, {1} is a comma-separated list</comment>
   </data>
   <data name="Menu.FastFlagEditor.DeleteSelected" xml:space="preserve">
-    <value>Usuń wybrane</value>
+    <value>Delete selected</value>
   </data>
   <data name="Menu.FastFlagEditor.Description" xml:space="preserve">
-    <value>Zarządzaj własnymi Fast Flagami. Kliknij dwukrotnie kolumnę, którą chcesz edytować.</value>
+    <value>Manage your own Fast Flags. Double click a column to edit.</value>
   </data>
   <data name="Menu.FastFlagEditor.ExportJson" xml:space="preserve">
-    <value>Eksportuj JSON</value>
+    <value>Export JSON</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidCharacter" xml:space="preserve">
-    <value>Wpis dla '{0}' jest nieprawidłowy, ponieważ nazwa może zawierać tylko litery, cyfry i znaki podłogi</value>
+    <value>The entry for '{0}' is not valid as the name can only contain letters, numbers, and underscores</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidJSON" xml:space="preserve">
-    <value>JSON, który wprowadziłeś, wydaje się nieprawidłowy. Sprawdź to dokładnie i spróbuj ponownie.
+    <value>The JSON you've entered does not appear to be valid. Please double check it and try again.
 
-Więcej informacji:
+More information:
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPrefix" xml:space="preserve">
-    <value>Wpis dla '{0}' jest nieprawidłowy, ponieważ nazwa musi zaczynać się od FFlag, DFInt, itp</value>
+    <value>The entry for '{0}' is not valid as the name must start with FFlag, DFInt, etc</value>
   </data>
   <data name="Menu.FastFlagEditor.JsonCopiedToClipboard" xml:space="preserve">
-    <value>Skopiowano do schowka.</value>
+    <value>Copied to clipboard.</value>
   </data>
   <data name="Menu.FastFlagEditor.LargeConfig" xml:space="preserve">
-    <value>Wygląda na to, że importujesz bardzo dużą konfigurację. Powinieneś importować tylko konfiguracje, które w pełni rozumiesz. NIE wklejaj na ślepo konfiguracji stworzonych przez inne osoby. Jeśli będziesz kontynuować, najprawdopodobniej wystąpią problemy ze stabilnością i napotkasz nieoczekiwane zmiany.
+    <value>You appear to be importing a very large configuration. You should only be importing configurations that you fully understand. Do NOT blindly paste in configurations made by other people. If you continue, you will very likely end up with stability issues and encounter unexpected changes.
 
-Czy jesteś pewien, że chcesz kontynuować?</value>
+Are you sure you want to continue?</value>
   </data>
   <data name="Menu.FastFlagEditor.Search" xml:space="preserve">
-    <value>Szukaj</value>
+    <value>Search</value>
   </data>
   <data name="Menu.FastFlagEditor.ShowPresetFlags" xml:space="preserve">
-    <value>Pokaż ustawione flagi</value>
+    <value>Show preset flags</value>
   </data>
   <data name="Menu.FastFlagEditor.Title" xml:space="preserve">
-    <value>Edytor Fast Flag'ów</value>
+    <value>Fast Flag Editor</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Back" xml:space="preserve">
-    <value>Wróć</value>
+    <value>Go back</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Continue" xml:space="preserve">
-    <value>Wiem, co robię!</value>
+    <value>I know what I'm doing</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Header" xml:space="preserve">
-    <value>Czy na pewno wiesz, co robisz?</value>
+    <value>Do you know what you are doing?</value>
   </data>
   <data name="Menu.FastFlagEditor.Warning.Text" xml:space="preserve">
-    <value>Fast Flagi są niezwykle potężne, ponieważ są przeznaczone do użytku wyłącznie przez inżynierów Roblox. Chociaż mogą być bardzo przydatne, ręczna konfiguracja może spowodować poważne problemy ze stabilnością i funkcjonalnością. NIE używaj edytora, jeśli nie jesteś pewien, co robisz.
+    <value>Fast Flags are extremely powerful, being that they are intended to only be used by Roblox engineers. While they can be very useful, manually configuring them can cause serious issues with stability and functionality. Do NOT use the editor if you are unsure of what you are doing.
 
-Również NIE używaj tego do importowania dużych „list flag” utworzonych przez inne osoby, które obiecują poprawę wydajności lub tym podobne. Podlegają one wyżej wymienionym problemom i będą powodować problemy, ponieważ nie będziesz w pełni świadomy tego, co się zmienia. Jeśli miałeś zamiar to zrobić, WRÓĆ.</value>
+Do NOT use this to import large "flag lists" made by other people that promise to improve performance or such. They are subject to the aforementioned issues, and they will cause problems for you since you will not be fully aware of what they are changing. If you were about to do that, GO BACK.</value>
   </data>
   <data name="Menu.FastFlags.Description" xml:space="preserve">
-    <value>Kontroluj sposób konfiguracji określonych parametrów i funkcji silnika Roblox.</value>
+    <value>Control how specific Roblox engine parameters and features are configured.</value>
   </data>
   <data name="Menu.FastFlags.Editor.Description" xml:space="preserve">
-    <value>Zarządzaj własnymi Fast Flagami. Używaj ostrożnie.</value>
+    <value>Manage your own Fast Flags. Use with caution.</value>
     <comment>Title is Menu.FastFlagEditor.Title</comment>
   </data>
   <data name="Menu.FastFlags.Help.Description" xml:space="preserve">
-    <value>Dowiedz się więcej o Fast Flagach, działaniu tych presetów i o sposobach ich używania.</value>
+    <value>Learn more about Fast Flags, what these presets do, and how to use them.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.FastFlags.Presets.D3DExclusiveFullscreenInfo" xml:space="preserve">
-    <value>Direct3D [wyłącznie dla trybu pełnoekranowego]({0}) przy użyciu Alt+Enter jest już domyślnie włączone.</value>
+    <value>Direct3D [exclusive fullscreen]({0}) using Alt+Enter is enabled by default.</value>
   </data>
   <data name="Menu.FastFlags.Presets.EscapeMenuVersion.Title" xml:space="preserve">
-    <value>Preferowana wersja menu gry</value>
+    <value>Preferred escape menu version</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Description" xml:space="preserve">
-    <value>Roblox koryguje jakość renderowania w zależności od tego, jak twój ekran jest skalowany w systemie Windows.</value>
+    <value>Roblox reduces your rendering quality depending on how your display is scaled in Windows.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FixDisplayScaling.Title" xml:space="preserve">
-    <value>Zachowaj jakość renderowania dzięki skalowaniu wyświetlacza</value>
+    <value>Preserve rendering quality with display scaling</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Description" xml:space="preserve">
-    <value>Ustaw wartość na 0, jeśli chcesz użyć domyślnego limitera klatek na sekundę Roblox'a.</value>
+    <value>Set to 0 for defaults if you want to use Roblox's native framerate unlocker.</value>
   </data>
   <data name="Menu.FastFlags.Presets.FPSLimit.Title" xml:space="preserve">
-    <value>Limit liczby klatek na sekundę</value>
+    <value>Framerate limit</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Description" xml:space="preserve">
-    <value>Przełączane za pomocą [skrótów klawiaturowych]({0}). Działa tylko wtedy, gdy należysz do [grupy Multistrap]({1}) w Roblox.</value>
+    <value>Toggled with [keyboard shortcuts]({0}). Only works if you're in the [Multistrap group]({1}).</value>
   </data>
   <data name="Menu.FastFlags.Presets.HideGuis.Title" xml:space="preserve">
-    <value>Włącz możliwość ukrywania GUI (interfejsu gry)</value>
+    <value>Enable ability to hide GUIs</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Description" xml:space="preserve">
-    <value>Wybrany zostanie wymuszony we wszystkich grach. [Uwaga, to może powodować problemy z oświetleniem!]({0})</value>
+    <value>Chosen one will be force enabled in all games. [Beware, may cause lighting issues!]({0})</value>
   </data>
   <data name="Menu.FastFlags.Presets.LightingTechnology.Title" xml:space="preserve">
-    <value>Preferowana technologia oświetlenia</value>
+    <value>Preferred lighting technology</value>
   </data>
   <data name="Menu.FastFlags.Presets.RenderingMode.Title" xml:space="preserve">
-    <value>Tryb renderowania</value>
+    <value>Rendering mode</value>
   </data>
   <data name="Menu.FastFlags.Title" xml:space="preserve">
-    <value>Ustawienia silnika</value>
+    <value>Engine Settings</value>
   </data>
   <data name="Menu.FontFiles" xml:space="preserve">
-    <value>Pliki czcionek</value>
+    <value>Font files</value>
   </data>
   <data name="Menu.IconFiles" xml:space="preserve">
-    <value>Pliki ikon</value>
+    <value>Icon files</value>
   </data>
   <data name="Menu.InstallLocation.CantInstall" xml:space="preserve">
-    <value>Nie można tutaj zainstalować Bloxstrap. Wybierz inne miejsce instalacji lub skorzystaj z lokalizacji domyślnej, klikając przycisk resetowania.</value>
+    <value>Multistrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button.</value>
   </data>
   <data name="Menu.InstallLocation.NotEmpty" xml:space="preserve">
-    <value>Folder, w którym chcesz zainstalować Multistrap, już istnieje i NIE jest pusty. Zdecydowanie zaleca się instalację Multistrap w osobnym, niezależnym folderze.
+    <value>The folder you've chosen to install Multistrap to already exists and is NOT empty. It is strongly recommended for Multistrap to be installed to its own independent folder.
 
-Sugerowana jest zmiana lokalizacji na następującą:
+Changing to the following location is suggested:
 {0}
 
-Czy chcesz przejść do sugerowanej lokalizacji?
-Wybranie opcji „Nie” spowoduje zignorowanie tego ostrzeżenia i kontynuowanie instalacji.</value>
+Would you like to change to the suggested location?
+Selecting 'No' will ignore this warning and continue installation.</value>
     <comment>{0} is a file path</comment>
   </data>
   <data name="Menu.InstallLocation.NotSet" xml:space="preserve">
-    <value>Musisz ustawić miejsce instalacji</value>
+    <value>You must set an install location</value>
   </data>
   <data name="Menu.InstallLocation.NoWritePerms" xml:space="preserve">
-    <value>Multistrap nie ma uprawnień do zapisu w wybranym miejscu instalacji. Proszę wybrać inne miejsce.</value>
+    <value>Multistrap does not have write access to the install location you've selected. Please choose another location.</value>
   </data>
   <data name="Menu.Integrations.ActivityTracking" xml:space="preserve">
-    <value>Śledzenie aktywności</value>
+    <value>Activity tracking</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Description" xml:space="preserve">
-    <value>Umożliwia każdemu dołączenie do gry, w której aktualnie się znajdujesz, poprzez Twój profil Discord.</value>
+    <value>Allows for anybody to join the game you're currently in through your Discord profile.</value>
   </data>
   <data name="Menu.Integrations.AllowActivityJoining.Title" xml:space="preserve">
-    <value>Zezwól na dołączenie do aktywności</value>
+    <value>Allow activity joining</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Description" xml:space="preserve">
-    <value>Pokazuje konto Roblox, na którym grasz, na twoim profilu Discord.</value>
+    <value>Shows the Roblox account you're playing with on your Discord profile.</value>
   </data>
   <data name="Menu.Integrations.ShowAccountOnProfile.Title" xml:space="preserve">
-    <value>Pokaż konto Roblox</value>
+    <value>Show Roblox account</value>
   </data>
   <data name="Menu.Integrations.Custom.AppLocation" xml:space="preserve">
-    <value>Miejsce instalacji</value>
+    <value>Application Location</value>
   </data>
   <data name="Menu.Integrations.Custom.AutoClose" xml:space="preserve">
-    <value>Automatycznie zamknij, kiedy Roblox zostanie zamknięty</value>
+    <value>Auto close when Roblox closes</value>
   </data>
   <data name="Menu.Integrations.Custom.Description" xml:space="preserve">
-    <value>Tutaj możesz automatycznie uruchamiać inne programy wraz z Roblox.</value>
+    <value>Here, you can have other programs launch with Roblox automatically.</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs" xml:space="preserve">
-    <value>Parametry uruchomienia</value>
+    <value>Launch Arguments</value>
   </data>
   <data name="Menu.Integrations.Custom.LaunchArgs.Placeholder" xml:space="preserve">
-    <value>Roblox jest uruchomiony!</value>
+    <value>Roblox is running!</value>
   </data>
   <data name="Menu.Integrations.Custom.NewIntegration" xml:space="preserve">
-    <value>Nowa wtyczka</value>
+    <value>New Integration</value>
   </data>
   <data name="Menu.Integrations.Custom.NoneSelected" xml:space="preserve">
-    <value>Nie wybrano wtyczki. Wybierz lub dodaj nową</value>
+    <value>No integration selected, please select or add a new one</value>
   </data>
   <data name="Menu.Integrations.Custom.Title" xml:space="preserve">
-    <value>Niestandardowa wtyczka</value>
+    <value>Custom Integrations</value>
   </data>
   <data name="Menu.Integrations.Description" xml:space="preserve">
-    <value>Konfiguruj dodatkową funkcjonalność do użytku w Roblox.</value>
+    <value>Configure additional functionality to go alongside Roblox.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Description" xml:space="preserve">
-    <value>Roblox zostanie całkowicie zamknięty, gdy opuścisz grę, zamiast przerzucać Cię z powrotem do aplikacji.</value>
+    <value>Roblox will fully close when you leave a game instead of dropping you back into the app.</value>
   </data>
   <data name="Menu.Integrations.DesktopApp.Title" xml:space="preserve">
-    <value>Nie wychodź do aplikacji pulpitowej</value>
+    <value>Don't exit to desktop app</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Description" xml:space="preserve">
-    <value>Pozwala Multistrap wykryć, w jaką grę na Roblox grasz. Niektóre funkcje mogą tego wymagać.</value>
+    <value>Allows for Multistrap to detect what Roblox game you're playing. Certain features may require this.</value>
   </data>
   <data name="Menu.Integrations.EnableActivityTracking.Title" xml:space="preserve">
-    <value>Włącz śledzenie aktywności</value>
+    <value>Enable activity tracking</value>
   </data>
   <data name="Menu.Integrations.RequiresActivityTracking" xml:space="preserve">
-    <value>Ta funkcja wymaga włączonej opcji śledzenia aktywności oraz zainstalowanej i uruchomionej aplikacji Discord. [Dowiedz się więcej]({0}).</value>
+    <value>This feature requires activity tracking to be enabled and the Discord desktop app to be installed and running. [Find out more]({0}).</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Description" xml:space="preserve">
-    <value>Gra na Roblox, w którą grasz, będzie pokazywana na twoim profilu na Discord. [Coś nie tak?]({0})</value>
+    <value>The Roblox game you're playing will be shown on your Discord profile. [Not working?]({0})</value>
   </data>
   <data name="Menu.Integrations.ShowGameActivity.Title" xml:space="preserve">
-    <value>Pokaż aktywność w grze</value>
+    <value>Show game activity</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Description" xml:space="preserve">
-    <value>Podczas rozgrywki, możesz zobaczyć, gdzie znajduje się serwer, na którym grasz za pośrednictwem [ipinfo.io]({0}).</value>
+    <value>When in-game, you'll be able to see where your server is located via [ipinfo.io]({0}).</value>
   </data>
   <data name="Menu.Integrations.QueryServerLocation.Title" xml:space="preserve">
-    <value>Pokaż położenie serwera</value>
+    <value>Query server location</value>
   </data>
   <data name="Menu.Integrations.Title" xml:space="preserve">
-    <value>Wtyczki</value>
+    <value>Integrations</value>
   </data>
   <data name="Menu.Mods.Description" xml:space="preserve">
-    <value>Zarządzaj i stosuj modyfikacje plików w kliencie gry Roblox.</value>
+    <value>Manage and apply file mods to the Roblox game client.</value>
   </data>
   <data name="Menu.Mods.Help.Description" xml:space="preserve">
-    <value>Zobacz informacje o zarządzaniu i tworzeniu modów.</value>
+    <value>See info about managing and creating mods.</value>
     <comment>Title is Common.Help</comment>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Choose" xml:space="preserve">
-    <value>Wybierz czcionkę...</value>
+    <value>Choose font...</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Description" xml:space="preserve">
-    <value>Rozmiar czcionki może być dostosowany w zakładce Fast Flag'ów.</value>
+    <value>Font size can be adjusted in the Fast Flags tab.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Invalid" xml:space="preserve">
-    <value>Wybrany plik nie wydaje się być prawidłowym plikiem czcionki.</value>
+    <value>The file you have chosen does not appear to be a valid font file.</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Remove" xml:space="preserve">
-    <value>Usuń zastosowaną czcionkę</value>
+    <value>Remove applied font</value>
   </data>
   <data name="Menu.Mods.Misc.CustomFont.Title" xml:space="preserve">
-    <value>Zastosuj niestandardową czcionkę</value>
+    <value>Use custom font</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Description" xml:space="preserve">
-    <value>Tutaj zarządzaj modami.</value>
+    <value>Manage custom Roblox mods here.</value>
   </data>
   <data name="Menu.Mods.OpenModsFolder.Title" xml:space="preserve">
-    <value>Otwórz folder z modami</value>
+    <value>Open Mods Folder</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Description" xml:space="preserve">
-    <value>Wybierz jakich emotikonów Roblox ma używać.</value>
+    <value>Choose which type of emoji should Roblox use.</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Title" xml:space="preserve">
-    <value>Preferowany wygląd emotikonów</value>
+    <value>Preferred emoji type</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Description" xml:space="preserve">
-    <value>Wybierz, między dwoma klasycznymi kursorami.</value>
+    <value>Choose between using two classic Roblox cursor styles.</value>
   </data>
   <data name="Menu.Mods.Presets.MouseCursor.Title" xml:space="preserve">
-    <value>Kursor myszki</value>
+    <value>Mouse cursor</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Description" xml:space="preserve">
-    <value>Przywróć stare tło edytora awataru, które było używane w aplikacji Roblox przed 2020 rokiem.</value>
+    <value>Bring back the old avatar editor background used in the Roblox app prior to 2020.</value>
   </data>
   <data name="Menu.Mods.Presets.OldAvatarEditor.Title" xml:space="preserve">
-    <value>Użyj starego tła edytora awatara</value>
+    <value>Use old avatar editor background</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Description" xml:space="preserve">
-    <value>Próba przywrócenia z powrotem klasycznych dźwięków postaci, które były używane przed rokiem 2014.</value>
+    <value>An attempt to roughly bring back the character sounds used prior to 2014.</value>
   </data>
   <data name="Menu.Mods.Presets.OldCharacterSounds.Title" xml:space="preserve">
-    <value>Dodaj klasyczne dźwięki postaci</value>
+    <value>Emulate old character sounds</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Description" xml:space="preserve">
-    <value>Przynieś z powrotem klasyczny dźwięk śmierci 'oof'.</value>
+    <value>Bring back the classic 'oof' death sound.</value>
   </data>
   <data name="Menu.Mods.Presets.OldDeathSound.Title" xml:space="preserve">
-    <value>Użyj klasycznego dźwięku śmierci</value>
+    <value>Use old death sound</value>
   </data>
   <data name="Menu.Mods.Title" xml:space="preserve">
-    <value>Mody</value>
+    <value>Mods</value>
   </data>
   <data name="Menu.MoreInfo" xml:space="preserve">
-    <value>Kliknij, aby zobaczyć więcej informacji o tej opcji.</value>
+    <value>Click for more information on this option.</value>
   </data>
   <data name="Menu.Save" xml:space="preserve">
-    <value>Zapisz</value>
+    <value>Save</value>
   </data>
   <data name="Menu.SettingsSaved.Message" xml:space="preserve">
-    <value>Zmiany zostaną wprowadzone, kiedy otworzysz Roblox ponownie.</value>
+    <value>Changes will take effect the next time you launch Roblox.</value>
   </data>
   <data name="Menu.SettingsSaved.Title" xml:space="preserve">
-    <value>Ustawienia zostały zapisane!</value>
+    <value>Settings saved!</value>
   </data>
   <data name="Menu.Title" xml:space="preserve">
-    <value>Ustawienia Multistrap</value>
+    <value>Multistrap Settings</value>
   </data>
   <data name="Dialog.LanguageSelector.Header" xml:space="preserve">
-    <value>Wybierz preferowany język</value>
+    <value>Choose preferred language</value>
   </data>
   <data name="Dialog.LanguageSelector.Subtext" xml:space="preserve">
-    <value>Wybierz język przed kontynuowaniem instalacji.</value>
+    <value>Choose a language before continuing with installation.</value>
   </data>
   <data name="Menu.Appearance.Language.Title" xml:space="preserve">
-    <value>Język</value>
+    <value>Language</value>
   </data>
   <data name="Menu.Appearance.Language.Description" xml:space="preserve">
-    <value>Ponowne uruchomienie aplikacji jest wymagane, aby zmiany zostały zastosowane.</value>
+    <value>A relaunch is required for changes to take effect.</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Title" xml:space="preserve">
-    <value>Zezwól na użycie nieobsługiwanych języków</value>
+    <value>Allow use of unsupported Roblox languages</value>
   </data>
   <data name="Menu.Behaviour.ForceRobloxLanguage.Description" xml:space="preserve">
-    <value>Dotyczy tylko gier uruchamianych ze strony Roblox.</value>
+    <value>Only applies to games launched from the Roblox website.</value>
   </data>
   <data name="Enums.FlagPresets.InGameMenuVersion.V4Chrome" xml:space="preserve">
-    <value>2024 (Wersja 4 + Nowy interfejs gry)</value>
+    <value>2023 (V4 + New UI)</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.Rendering" xml:space="preserve">
-    <value>Renderowanie i grafika</value>
+    <value>Rendering and Graphics</value>
   </data>
   <data name="Menu.FastFlags.Presets.Categories.UserInterface" xml:space="preserve">
-    <value>Układ i interfejs użytkownika</value>
+    <value>User Interface and Layout</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Title" xml:space="preserve">
-    <value>Zezwól Multistrap'owi na zarządzanie Fast Flagami</value>
+    <value>Allow Multistrap to manage Fast Flags</value>
   </data>
   <data name="Menu.FastFlags.ManagerEnabled.Description" xml:space="preserve">
-    <value>Wyłączenie tego zapobiegnie zastosowaniu jakichkolwiek ustawień skonfigurowanych tutaj do Roblox.</value>
+    <value>Disabling this will prevent anything configured here from being applied to Roblox.</value>
   </data>
   <data name="Menu.FastFlags.Presets.MSAA.Title" xml:space="preserve">
-    <value>Jakość antyaliasingu (MSAA)</value>
+    <value>Anti-aliasing quality (MSAA)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePostFX.Title" xml:space="preserve">
-    <value>Wyłącz efekty post-processingu</value>
+    <value>Disable post-processing effects</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Title" xml:space="preserve">
-    <value>Wyłącz pasek tytułowy w trybie pełnoekranowym</value>
+    <value>Disable full-screen titlebar</value>
   </data>
   <data name="Menu.FastFlags.Presets.FullscreenTitlebar.Description" xml:space="preserve">
-    <value>Wyłącza pasek tytułowy, gdy przesuwasz mysz na górę ekranu.</value>
+    <value>Stops it from showing whenever you move your mouse to the top of the screen.</value>
   </data>
   <data name="Menu.FastFlags.Presets.TextureQuality.Title" xml:space="preserve">
-    <value>Jakość tekstur</value>
+    <value>Texture quality</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level0" xml:space="preserve">
-    <value>Poziom 0 (najniższy)</value>
+    <value>Level 0 (Lowest)</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level1" xml:space="preserve">
-    <value>Poziom 1</value>
+    <value>Level 1</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level2" xml:space="preserve">
-    <value>Poziom 2</value>
+    <value>Level 2</value>
   </data>
   <data name="Enums.FlagPresets.TextureQuality.Level3" xml:space="preserve">
-    <value>Poziom 3 (najwyższy)</value>
+    <value>Level 3 (Highest)</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisablePlayerShadows.Title" xml:space="preserve">
-    <value>Wyłącz cienie graczy</value>
+    <value>Disable player shadows</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Title" xml:space="preserve">
-    <value>Rozmiar czcionki</value>
+    <value>Font size</value>
   </data>
   <data name="Menu.FastFlags.Presets.FontPadding.Description" xml:space="preserve">
-    <value>Domyślna wartość to 1. Dostosuj, jeśli używasz niestandardowej czcionki.</value>
+    <value>Default value is 1. Adjust if you use a custom font.</value>
   </data>
   <data name="Menu.FastFlags.Presets.DisableTerrainTextures.Title" xml:space="preserve">
-    <value>Wyłącz tekstury terenu</value>
+    <value>Disable terrain textures</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownload" xml:space="preserve">
-    <value>Multistrap nie może pobrać Roblox</value>
+    <value>Multistrap is unable to download Roblox</value>
   </data>
   <data name="Dialog.Connectivity.UnableToDownloadReason" xml:space="preserve">
-    <value>Roblox nie może być pobrane w tym momencie. Więcej informacji znajdziesz na tej stronie: {0}</value>
+    <value>Roblox cannot be downloaded at this time. Please read the following help page for more information: {0}</value>
     <comment>{0} is a URL</comment>
   </data>
   <data name="Common.ImportFromFile" xml:space="preserve">
-    <value>Importuj z pliku</value>
+    <value>Import from file</value>
   </data>
   <data name="FileTypes.JSONFiles" xml:space="preserve">
-    <value>Pliki JSON</value>
+    <value>JSON files</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidBoolValue" xml:space="preserve">
-    <value>Wpis dla '{0}' jest nieprawidłowy, ponieważ wartość musi być albo 'True' (prawda), albo 'False' (fałsz)</value>
+    <value>The entry for '{0}' is not valid as the value must be a boolean (either 'True' or 'False')</value>
     <comment>Do not translate 'True' and 'False', those must stay in English</comment>
   </data>
   <data name="Menu.FastFlagEditor.InvalidNumberValue" xml:space="preserve">
-    <value>Wpis dla '{0}' jest nieprawidłowy, ponieważ wartość musi być liczbą</value>
+    <value>The entry for '{0}' is not valid as the value must be a number</value>
   </data>
   <data name="Logger.NoWriteMode" xml:space="preserve">
-    <value>Plik dziennika nie zostanie zapisany dla tego uruchomienia, ponieważ Multistrap nie może zapisać do folderu '{0}'</value>
+    <value>No log file will be written for this launch because Multistrap is unable to write to the folder at '{0}'</value>
   </data>
   <data name="Common.Default" xml:space="preserve">
-    <value>Domyślne</value>
+    <value>Default</value>
   </data>
   <data name="Common.Automatic" xml:space="preserve">
-    <value>Automatyczne</value>
+    <value>Automatic</value>
   </data>
   <data name="Common.SystemDefault" xml:space="preserve">
-    <value>Domyślne ustawienie systemowe</value>
+    <value>System default</value>
   </data>
   <data name="Menu.FastFlagEditor.InvalidPlaceFilter" xml:space="preserve">
-    <value>Wpis '{0}' nie jest prawidłowy, ponieważ filtr miejsca nie jest sformatowany poprawnie.</value>
+    <value>The entry for '{0}' is not valid as the place filter is not formatted correctly.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Instalator Multistrap</value>
+    <value>Multistrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
-    <value>Witaj</value>
+    <value>Welcome</value>
   </data>
   <data name="Installer.Install.Title" xml:space="preserve">
-    <value>Zainstaluj</value>
+    <value>Install</value>
     <comment>Refers to "Install" as a verb</comment>
   </data>
   <data name="Installer.Completion.Title" xml:space="preserve">
-    <value>Ukończenie</value>
+    <value>Completion</value>
   </data>
   <data name="Common.Navigation.Back" xml:space="preserve">
-    <value>Wstecz</value>
+    <value>Back</value>
   </data>
   <data name="Common.Navigation.Next" xml:space="preserve">
-    <value>Dalej</value>
+    <value>Next</value>
   </data>
   <data name="Installer.Welcome.MainText" xml:space="preserve">
-    <value>Dziękujemy za pobranie Multistrap!
+    <value>Thank you for downloading Multistrap. 
 
-Jedynymi oficjalnymi stronami internetowymi do pobrania Multistrap to {0} i {1}, więc potwierdź, że na pewno zainstalowałeś program z jednego z powyżej wymienionych źródeł.
+The only official websites to download Multistrap from are {0} and {1}, so please verify that you got it from an official source.
 
-Instalacja nie zajmie długo, i będziesz mógł skonfigurować wszystkie ustawienia dopiero po procesie instalacji.</value>
+This installation process will be quick and simple, and you will be able to configure any of Multistrap's settings after installation.</value>
     <comment>{0} and {1} are URLs</comment>
   </data>
   <data name="Installer.Welcome.NextToContinue" xml:space="preserve">
-    <value>Kliknij „Dalej”, aby kontynuować.</value>
+    <value>Please click 'Next' to continue.</value>
   </data>
   <data name="Installer.Welcome.UpdateNotice" xml:space="preserve">
-    <value>Próbujesz zainstalować wersję {0}, natomiast najnowsza dostępna wersja to {1}. Czy chcesz ją pobrać?</value>
+    <value>You are trying to install version {0} of Multistrap, but the latest version available is {1}. Would you like to download it?</value>
   </data>
   <data name="Installer.Install.Location.Title" xml:space="preserve">
-    <value>Wybierz folder instalacji</value>
+    <value>Choose where to install to</value>
   </data>
   <data name="Installer.Install.Location.Text" xml:space="preserve">
-    <value>Roblox zostanie zainstalowany w tym folderze. Zmień, jeśli preferujesz zainstalować wszystkie gry na oddzielny dysk. W przeciwnym wypadku zalecamy zachowanie tego w obecnej postaci.</value>
+    <value>Roblox will also be installed to this path. Change this if you prefer to install all your games to a separate drive. Otherwise, it's recommended that you keep this as it is.</value>
   </data>
   <data name="Installer.Install.Location.DataFound" xml:space="preserve">
-    <value>Znaleziono istniejące dane. Twoje mody i ustawienia zostaną przywrócone.</value>
+    <value>Existing data found. Your mods and settings will be restored.</value>
   </data>
   <data name="Common.Shortcuts" xml:space="preserve">
-    <value>Skróty</value>
+    <value>Shortcuts</value>
   </data>
   <data name="Common.Shortcuts.Desktop" xml:space="preserve">
-    <value>Ikona na pulpicie</value>
+    <value>Desktop icon</value>
   </data>
   <data name="Common.Shortcuts.StartMenu" xml:space="preserve">
-    <value>Ikona w Menu Start</value>
+    <value>Start Menu icon</value>
   </data>
   <data name="Installer.Completion.Text" xml:space="preserve">
-    <value>Instalacja Multistrap powiodła się.
+    <value>Multistrap has successfully been installed.
 
-Roblox nie został jeszcze zainstalowany, co powinno nastąpić po pierwszym uruchomieniu Bloxstrap. Jednak zanim to zrobisz, powinieneś najpierw skonfigurować ustawienia w Bloxstrap.
+Roblox has not yet been installed, that will happen when you launch it with Multistrap for the first time. However, before you do that, you may want to configure Multistrap's settings first.
 
-Zalecane jest unikanie używania skrótu „Roblox Player” do uruchomienia Roblox, ponieważ ten nie uruchamia Bloxstrap. Jeżeli nie widzisz Multistrap podczas uruchamiania ze strony internetowej, zwyczajnie uruchom Roblox z Multistrap jeden raz z pulpitu, aby to naprawić.
+Also, avoid using the "Roblox Player" shortcut to launch Roblox, as Multistrap won't launch with Roblox. If you don't see Multistrap show when launching from the website, simply launch Roblox with Multistrap once from the desktop to fix it.
 
-Co chciałbyś teraz zrobić?</value>
+What would you like to do?</value>
   </data>
   <data name="Installer.Completion.Settings.Title" xml:space="preserve">
-    <value>Skonfiguruj ustawienia Multistrap</value>
+    <value>Configure Multistrap's settings</value>
   </data>
   <data name="Installer.Completion.Settings.Description" xml:space="preserve">
-    <value>Dostosuj, korzystając ze wszystkich dostępnych funkcji</value>
+    <value>Tweak with all the features it has to offer</value>
   </data>
   <data name="Installer.Completion.Launch.Title" xml:space="preserve">
-    <value>Zainstaluj i uruchom Roblox</value>
+    <value>Install and launch Roblox</value>
   </data>
   <data name="Installer.Completion.Launch.Description" xml:space="preserve">
-    <value>Przeniesie cię do aplikacji, kiedy wszystko będzie już gotowe</value>
+    <value>Will drop you into the desktop app once everything's done</value>
   </data>
   <data name="Uninstaller.Title" xml:space="preserve">
-    <value>Odinstaluj Multistrap</value>
+    <value>Uninstall Multistrap</value>
   </data>
   <data name="Uninstaller.Text" xml:space="preserve">
-    <value>Odinstalowywanie usunie Multistrap z twojego systemu i automatycznie skonfiguruje domyślny launcher Roblox, jeśli ten nadal jest zainstalowany.
+    <value>Uninstalling will remove Multistrap from your system, and automatically reconfigure the default Roblox launcher if it's still installed.
 
-Jeśli odinstalowujesz lub instalujesz ponownie, ponieważ masz problemy z Roblox, w pierwszej kolejności przeczytaj [tę stronę pomocy]({0}).
+If you're uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
 
-Proces odinstalowania może w pełni nie oczyścić danych programu i zostawić pliki w miejscu, gdzie Multistrap został zainstalowany. W takim przypadku zalecane jest ręczne usunięcie pozostałości gdziekolwiek twoja instalacja Multistrap się znajdywała.
+The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Multistrap was installed.
 
-Multistrap był zainstalowany na "{1}".</value>
+Multistrap was installed at "{1}".</value>
   </data>
   <data name="Uninstaller.KeepData.Label" xml:space="preserve">
-    <value>Zachowaj moje ustawienia i mody</value>
+    <value>Keep my settings and mods</value>
   </data>
   <data name="Uninstaller.KeepData.Description" xml:space="preserve">
-    <value>Będą one przechowane tam, gdzie Multistrap był zainstalowany i przywrócone automatycznie po ponownej instalacji.</value>
+    <value>They'll be kept where Multistrap was installed, and will automatically be restored on a reinstall.</value>
   </data>
   <data name="Uninstaller.Uninstall" xml:space="preserve">
-    <value>Odinstaluj</value>
+    <value>Uninstall</value>
   </data>
   <data name="LaunchMenu.LaunchRoblox" xml:space="preserve">
-    <value>Uruchom Roblox</value>
+    <value>Launch Roblox</value>
   </data>
   <data name="LaunchMenu.ConfigureSettings" xml:space="preserve">
-    <value>Skonfiguruj ustawienia</value>
+    <value>Configure settings</value>
   </data>
   <data name="LaunchMenu.Wiki.Title" xml:space="preserve">
-    <value>Masz problem?</value>
+    <value>Having an issue?</value>
   </data>
   <data name="LaunchMenu.Wiki.Description" xml:space="preserve">
-    <value>Zobacz naszą stronę wiki, aby uzyskać pomoc</value>
+    <value>See the Wiki for help</value>
   </data>
   <data name="Bootstrapper.WebView2NotFound" xml:space="preserve">
-    <value>Obecnie nie masz zainstalowanego WebView2. Bez tego, niektóre funkcje Roblox nie będą działać poprawnie, przykładowo aplikacja. Czy chcesz to pobrać teraz?</value>
+    <value>You currently do not have the WebView2 runtime installed. Some Roblox features will not work properly without it, such as the desktop app. Would you like to download it now?</value>
   </data>
   <data name="Dialog.CannotCreateShortcuts" xml:space="preserve">
-    <value>Multistrap nie mógł utworzyć skrótów na pulpicie i w Menu Start. Spróbuj utworzyć je później w ustawieniach.</value>
+    <value>Multistrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings.</value>
   </data>
   <data name="Dialog.Exception.Info.2.Alt" xml:space="preserve">
-    <value>Sprawdź [Multistrap Wiki]({0}), aby upewnić się, czy twój problem nie został już rozwiązany.
+    <value>Check the [Multistrap Wiki]({0}) first to see if this problem has already been addressed with a fix.
 
-Jeśli nie, zgłoś problem twórcom tego „fork”-a. Podkreślamy, aby NIE zgłaszać tego na oficjalnego GitHub'a, gdyż nie jest to oficjalna wersja programu i nie jesteśmy za nią odpowiedzialni.</value>
+If not, then please report this exception to the maintainers of this fork. Do NOT report this to Multistrap's GitHub issues, as this is an unoffical build.</value>
     <comment>"fork" in general means "a variation of" or "a different version of". You can alternatively write the first sentence as "...to the maintainers of this version."</comment>
   </data>
   <data name="Installer.Install.Shortcuts.Description" xml:space="preserve">
-    <value>To są ogólne skróty, które otwierają menu uruchamiania z wieloma opcjami. Skróty do konkretnych funkcji można utworzyć później w ustawieniach.</value>
+    <value>These are general shortcuts that bring up a multi-choice launch menu. Shortcuts for specific functions can be created later in the settings.</value>
   </data>
   <data name="Menu.Shortcuts.Description" xml:space="preserve">
-    <value>Skonfiguruj, w jaki sposób możesz łatwo uruchomić Bloxstrap.</value>
+    <value>Configure how Multistrap can be readily launched.</value>
   </data>
   <data name="Menu.Shortcuts.General.Title" xml:space="preserve">
-    <value>Ogólne</value>
+    <value>General</value>
   </data>
   <data name="Menu.Shortcuts.General.Description" xml:space="preserve">
-    <value>To są skróty, które otwierają menu uruchamiania z wieloma opcjami.</value>
+    <value>These are the shortcuts that bring up the multi-choice launch menu.</value>
   </data>
   <data name="Menu.Shortcuts.Function.Title" xml:space="preserve">
-    <value>Funkcje</value>
+    <value>Function</value>
   </data>
   <data name="Menu.Shortcuts.Function.Description" xml:space="preserve">
-    <value>Utwórz skróty szybkiego dostępu dla konkretnych funkcji. Wszystkie z nich zostaną umieszczone na pulpicie.</value>
+    <value>Create shortcuts for quick access to specific functions. These will all be placed on the Desktop.</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Private" xml:space="preserve">
-    <value>Połączono z serwerem prywatnym</value>
+    <value>Connected to private server</value>
   </data>
   <data name="ContextMenu.ServerInformation.Notification.Title.Reserved" xml:space="preserve">
-    <value>Połączono z serwerem zarezerwowanym</value>
+    <value>Connected to reserved server</value>
   </data>
   <data name="Menu.Mods.Presets.EmojiType.Error" xml:space="preserve">
-    <value>Modyfikacja emotikonów nie może być w tej chwili zastosowana.</value>
+    <value>The emoji mod can not be applied at this time.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Installer" xml:space="preserve">
-    <value>Proszę poczekać na zakończenie instalacji.</value>
+    <value>Please wait for installation to finish.</value>
   </data>
   <data name="Dialog.AlreadyRunning.Uninstaller" xml:space="preserve">
-    <value>Proszę poczekać na zakończenie odinstalowywania.</value>
+    <value>Please wait for uninstallation to finish.</value>
   </data>
   <data name="About.Title" xml:space="preserve">
-    <value>O Multistrap</value>
+    <value>About Multistrap</value>
   </data>
   <data name="About.Licenses.Title" xml:space="preserve">
-    <value>Licencje</value>
+    <value>Licenses</value>
     <comment>Referring to code licenses; see https://opensource.org/licenses for example</comment>
   </data>
   <data name="About.Translators.Title" xml:space="preserve">
-    <value>Tłumacze</value>
+    <value>Translators</value>
   </data>
   <data name="Menu.UnsavedChanges" xml:space="preserve">
-    <value>Masz niezapisane zmiany. Czy na pewno chcesz zamknąć bez zapisywania?</value>
+    <value>You have unsaved changes. Are you sure you want to close without saving?</value>
   </data>
   <data name="InstallChecker.VersionLessThanInstalled" xml:space="preserve">
-    <value>Wersja Multistrap, którą uruchomiłeś, jest starsza niż aktualnie zainstalowana wersja. Mogą wystąpić problemy i twoje ustawienia mogą zostać zmienione. Ponowna instalacja jest zalecana.
-
-Czy jesteś pewien, że chcesz kontynuować?</value>
+    <value>The version of Multistrap you've launched is older than the version you currently have installed.
+Issues may occur and your settings may be altered. A reinstall is recommended.
+Are you sure you want to continue?</value>
   </data>
   <data name="Dialog.PlayerError.FailedLaunch" xml:space="preserve">
-    <value>Roblox nie został uruchomiony.</value>
+    <value>Roblox failed to launch.</value>
   </data>
   <data name="Dialog.PlayerError.Crash" xml:space="preserve">
-    <value>Roblox uległ awarii.</value>
+    <value>Roblox has crashed.</value>
   </data>
   <data name="Dialog.PlayerError.HelpInformation" xml:space="preserve">
-    <value>Proszę przeczytać następujące informacje, które otworzą się w twojej przeglądarce, kiedy zamkniesz ten dialog.</value>
+    <value>Please read the following help information, which will open in your web browser when you close this dialog.</value>
   </data>
   <data name="Common.NetworkError" xml:space="preserve">
-    <value>Nie można załadować danych z powodu błędu sieciowego.</value>
+    <value>Could not load data because of a network error.</value>
   </data>
   <data name="Common.Loading" xml:space="preserve">
-    <value>Ładowanie, proszę czekać...</value>
+    <value>Loading, please wait...</value>
   </data>
   <data name="About.Supporters.Title" xml:space="preserve">
-    <value>Wspierający</value>
+    <value>Supporters</value>
   </data>
   <data name="About.Supporters.Description" xml:space="preserve">
-    <value>To są osoby, które obecnie wspierają Multistrap poprzez [Ko-fi]({0}). Serdeczne podziękowania wszystkim wymienionym!</value>
+    <value>These are the people currently supporting Multistrap through [Ko-fi]({0}). A massive thank you to everyone here!</value>
   </data>
   <data name="JsonManager.SettingsLoadFailed" xml:space="preserve">
-    <value>Twoje ustawienia nie mogły zostać zapisane. Zostały zresetowane do domyślnej konfiguracji.</value>
+    <value>Your Settings could not be loaded. They have been reset to the default configuration.</value>
   </data>
   <data name="JsonManager.FastFlagsLoadFailed" xml:space="preserve">
-    <value>Twoje Fast Flagi nie mogły zostać zapisane. Zostały zresetowane do domyślnej konfiguracji.</value>
+    <value>Your Fast Flags could not be loaded. They have been reset to the default configuration.</value>
   </data>
   <data name="ContextMenu.GameHistory.Title" xml:space="preserve">
-    <value>Historia rozgrywek</value>
+    <value>Game history</value>
   </data>
   <data name="ContextMenu.GameHistory.Rejoin" xml:space="preserve">
-    <value>Zagraj ponownie</value>
+    <value>Rejoin</value>
   </data>
   <data name="ActivityWatcher.RichPresenceLoadFailed" xml:space="preserve">
-    <value>Gra, w którą obecnie grasz, nie zostanie pokazana na twoim profilu Discord, ponieważ próba załadowania informacji o grze nie powiodła się.</value>
+    <value>Your current game will not show on your Discord presence because an error occurred when loading the game information.</value>
   </data>
   <data name="ContextMenu.GameHistory.Description" xml:space="preserve">
-    <value>Historia gier jest zapisywana tylko dla bieżącej rozgrywki. Gry pojawią się tutaj, gdy je opuścisz lub zostaniesz w nich przeniesiony. Nie wszystkie serwery będą mogły cię połączyć ponownie.</value>
+    <value>Game history is only recorded for your current Roblox session. Games will appear here as you leave them or teleport within them. Not all servers will be rejoinable.</value>
   </data>
   <data name="ActivityWatcher.LocationQueryFailed" xml:space="preserve">
-    <value>Próba ustalenia położenia serwera nie powiodła się. Możliwe, że dołączasz do gier zbyt szybko.</value>
+    <value>The server location could not be queried. You may be joining games too quickly.</value>
   </data>
   <data name="Dialog.Connectivity.TryAgainLater" xml:space="preserve">
-    <value>Spróbuj ponownie później.</value>
+    <value>Please try again later.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeSkip" xml:space="preserve">
-    <value>Podczas tego uruchomienia, Roblox nie będzie sprawdzony pod kątem aktualizacji, a zmiany w modach nie zostaną zastosowane.</value>
+    <value>For this launch, Roblox will not be checked for upgrades, and changes to mods will not be applied.</value>
   </data>
   <data name="Dialog.Connectivity.RobloxUpgradeNeeded" xml:space="preserve">
-    <value>Roblox wymaga zainstalowania lub zaktualizowania zaś Multistrap nie może kontynuować działania.</value>
+    <value>Because Roblox needs to be installed or upgraded, Multistrap cannot continue.</value>
   </data>
   <data name="Installer.Install.CannotOverwrite" xml:space="preserve">
-    <value>Multistrap został już zainstalowany w tym folderze wcześniej i jest nadal tam obecny, lecz instalator nie może nadpisać starego pliku .exe.
-Prosimy ręcznie usunąć Bloxstrap.exe z folderu instalacji lub spróbuj ponownie uruchomić system, a następnie spróbuj instalację ponownie.</value>
+    <value>Multistrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
+
+Please manually delete Multistrap.exe from the install location or try restarting your system, and then retry installation afterwards.</value>
   </data>
   <data name="Common.NotAvailable" xml:space="preserve">
-    <value>Niedostępne</value>
+    <value>Not available</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Title" xml:space="preserve">
-    <value>Zarządzaj ustawieniami zgodności</value>
+    <value>Manage compatibility settings</value>
   </data>
   <data name="Menu.Mods.Misc.CompatibilitySettings.Description" xml:space="preserve">
-    <value>Skonfiguruj parametry aplikacji, takie jak zachowanie skalowania DPI, czy [optymalizacja pełnoekranowa]({0}).</value>
+    <value>Configure application parameters such as DPI scaling behaviour and [fullscreen optimizations]({0}).</value>
   </data>
   <data name="Common.RobloxNotInstalled" xml:space="preserve">
-    <value>Roblox nie został jeszcze zainstalowany na tym urządzeniu. Prosimy uruchomić Roblox przy użyciu Multistrap, zanim spróbujesz użyć tej opcji.</value>
+    <value>Roblox has not yet been installed. Please launch Roblox using Multistrap at least once before trying to use this option.</value>
   </data>
   <data name="Installer.ShouldCancel" xml:space="preserve">
-    <value>Czy jesteś pewien, że chcesz wstrzymać instalację?</value>
+    <value>Are you sure you want to cancel the installation?</value>
   </data>
   <data name="Bootstrapper.JsonManagerSaveFailed" xml:space="preserve">
-    <value>Nie udało się zapisać {0}: {1}</value>
+    <value>Failed to save {0}: {1}</value>
   </data>
   <data name="Dialog.IconLoadFailed" xml:space="preserve">
-    <value>Wybrana ikona launchera nie może być załadowana.
+    <value>The chosen bootstrapper icon could not be loaded.
 
 {0}</value>
     <comment>{0} is an exception message</comment>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Title" xml:space="preserve">
-    <value>Wypakuj ikony Roblox do folderu</value>
+    <value>Extract Roblox icons to folder</value>
   </data>
   <data name="Menu.Shortcuts.ExtractIcons.Description" xml:space="preserve">
-    <value>Umożliwia używanie szerokiej selekcji różnych ikonek Roblox dla twoich skrótów na pulpicie. [Więcej]({0})</value>
+    <value>Allows you to use Multistrap's range of Roblox icons for your shortcuts. [See how.]({0})</value>
   </data>
   <data name="Dialog.RegistryWriteError" xml:space="preserve">
-    <value>Multistrap nie jest w stanie zapisać ustawień do rejestru systemu Windows, co powoduje problemy. Sprawdź, czy nie ma czegoś (m.in. programy antywirusowe), co mogłoby ograniczać działanie Bloxstrap.</value>
+    <value>Multistrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn't anything that would restrict Multistrap's operation.</value>
   </data>
   <data name="About.Supporters.Monthly" xml:space="preserve">
-    <value>Miesięcznie</value>
+    <value>Monthly</value>
   </data>
   <data name="About.Supporters.OneOff" xml:space="preserve">
-    <value>Jednorazowo</value>
+    <value>One-off</value>
   </data>
   <data name="Menu.Bloxstrap.Description" xml:space="preserve">
-    <value>Skonfiguruj ustawienia związane z zachowaniem Bloxstrap.</value>
+    <value>Configure options related to Multistrap's behaviour itself.</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Title" xml:space="preserve">
-    <value>Włącz anonimowe wysyłanie danych analitycznych</value>
+    <value>Enable sending of analytics</value>
   </data>
   <data name="Menu.Bloxstrap.Analytics.Description" xml:space="preserve">
-    <value>Jest to anonimowe i w pełni bezpieczne, obiecujemy! Jest to nawet do sprawdzenia w naszym kodzie źródłowym. By poznać, jakie dane zbieramy i dlaczego, zobacz naszą [politykę prywatności]({0}).</value>
+    <value>It's anonymous and nothing evil, promise. For insight on what we collect and why, see our [privacy policy]({0}).</value>
   </data>
   <data name="Common.Analytics" xml:space="preserve">
-    <value>Analityka</value>
+    <value>Analytics</value>
   </data>
   <data name="Menu.FastFlags.Reset.Title" xml:space="preserve">
-    <value>Zresetuj wszystko do ustawień domyślnych</value>
+    <value>Reset everything to defaults</value>
   </data>
   <data name="Dialog.Exception.Report" xml:space="preserve">
-    <value>Zgłoszenie błędu</value>
+    <value>Report exception</value>
   </data>
   <data name="Menu.TestMode" xml:space="preserve">
-    <value>Tryb testowania</value>
+    <value>Test mode</value>
     <comment>See the prompt for more context</comment>
   </data>
   <data name="Menu.TestMode.Prompt" xml:space="preserve">
-    <value>Tryb testowania ułatwia wielokrotne przetestowanie tego, w jaki sposób twoje ustawienia wpływają na rozgrywkę.
+    <value>Test mode makes it easier to iteratively test how your settings affect Roblox. 
 
-Podczas gdy jest to włączone, automatycznie uruchomi Roblox po zamknięciu ustawień, a po zamknięciu Roblox ponownie otworzy ustawienia i w nieskończoność, póki nie wyłączysz opcji.
+While enabled, it will automatically launch Roblox after closing Settings, and reopen Settings after closing Roblox, in a cycle until you disable it.
 
-Czy chcesz włączyć tryb testowania?</value>
+Would you like to enable test mode?</value>
   </data>
   <data name="About.Translators.Description" xml:space="preserve">
-    <value>Wszystkie tłumaczenia Multistrap są tworzone wspólnie przez społeczność za pośrednictwem platformy [Crowdin]({0}). Wszyscy wymienieni tutaj hojnie wykorzystali swój czas i wysiłek, aby pomóc zlokalizować Bloxstrap. Wręczamy najserdeczniejsze podziękowania!</value>
+    <value>All of Multistrap's translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Multistrap. A massive thank you to everyone here!</value>
   </data>
   <data name="Common.Navigation.Install" xml:space="preserve">
-    <value>Zainstaluj</value>
+    <value>Install</value>
     <comment>The word "Install" is being used as a verb in this instance, like the other navigation button texts of "Next" and "Back"</comment>
   </data>
   <data name="LaunchMenu.Donate" xml:space="preserve">
-    <value>Wesprzyj nas na Ko-fi!</value>
+    <value>Support us on Ko-fi!</value>
     <comment>Call-to-action button</comment>
   </data>
   <data name="Paths.Icons" xml:space="preserve">
-    <value>Ikony</value>
+    <value>Icons</value>
     <comment>Name of the folder that gets created according to the "create shortcut icons" option. Ensure that it is a valid folder name.</comment>
   </data>
   <data name="Dialog.Exception.Version" xml:space="preserve">
