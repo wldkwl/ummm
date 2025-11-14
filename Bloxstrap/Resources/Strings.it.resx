@@ -936,7 +936,7 @@ Selezionando 'No' si ignorerà questo avvertimento procedendo con l'installazion
     <value>La voce per '{0}' non è valida perché il filtro di luogo non è formattato correttamente.</value>
   </data>
   <data name="Installer.Title" xml:space="preserve">
-    <value>Multistrap Installer</value>
+    <value>Bloxstrap Installer</value>
   </data>
   <data name="Installer.Welcome.Title" xml:space="preserve">
     <value>Benvenuto/a</value>
